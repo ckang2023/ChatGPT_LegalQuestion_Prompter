@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dataset>
+<pair id="R01-1-A" label="N">
+<t1>
+Article 5
+(1) A minor must obtain the consent of the minor's legal representative to perform a juridical act;provided, however, that this does not apply to a juridical act for merely acquiring a right or being released from an obligation.
+(2) A juridical act in contravention of the provisions of the preceding paragraph is voidable.
+(3) Notwithstanding the provisions of paragraph (1), a minor may freely dispose of property that the legal representative has permitted the minor to dispose of for a specified purpose, to an extent that falls within the scope of that purpose. The same applies if the minor disposes of property that the legal representative has permitted the minor to dispose of without specifying a purpose.
+</t1>
+<t2>
+A contract of sales concluded by a minor may not be rescinded if it relates to daily life, even in cases the consent of the parental authority is not obtained.
+</t2>
+</pair>
+<pair id="R01-1-I" label="Y">
+<t1>
+Article 9
+A juridical act performed by an adult ward is voidable;provided, however, that this does not apply to the purchase of daily necessities or to any other act involved in day-to-day life.
+</t1>
+<t2>
+A contract of sales concluded by an adult ward may be rescinded except relating to daily life, even in cases the consent of the adult guardian has been obtained, the contract
+</t2>
+</pair>
+<pair id="R01-1-U" label="Y">
+<t1>
+Article 13
+(1) A person under curatorship must obtain the consent of the curator in order to perform any of the following acts;provided, however, that this does not apply to an act provided for in the proviso of Article 9:
+(i) receiving or using any property producing civil fruit;
+(ii) borrowing money or guaranteeing an obligation;
+(iii) performing an act with the purpose of acquiring or losing any right regarding immovables or other significant property;
+(iv) suing any procedural act;
+(v) giving a gift, reaching a settlement, or entering into an arbitration agreement (meaning an arbitration agreement as provided in Article 2, paragraph (1) of the Arbitration Act (Act No. 138 of 2003));
+(vi) accepting or renouncing a succession or dividing an estate;
+(vii) refusing an offer of a gift, renouncing a legacy, accepting an offer of gift with burden, or accepting a legacy with burden;
+(viii) constructing a new building, renovating, expanding, or undertaking major repairs;
+(ix) granting a lease for a term that exceeds the period set forth in Article 602; or
+(x) performing any of the acts set forth in the preceding items as a legal representative of a person with qualified legal capacity (meaning a minor, adult ward, or person under curatorship or a person under assistance who is subject to a decision as referred to in Article 17, paragraph (1); the same applies hereinafter).
+(2) At the request of a person as referred to in the main clause of Article 11
+or the curator or curator's supervisor, the family court may decide that the person under curatorship must also obtain the consent of the curator before performing an act other than those set forth in each of the items of the preceding paragraph;provided, however, that this does not apply to an act provided for in the proviso to Article 9.
+(3) If the curator does not consent to an act for which the person under curatorship must obtain the curator's consent even though it is unlikely to prejudice the interests of the person under curatorship, the family court may grant permission that operates in lieu of the curator's consent at the request of the person under curatorship.
+(4) An act for which the person under curatorship must obtain the curator's consent is voidable if the person performs it without obtaining the curator's consent or a permission that operates in lieu of it.
+</t1>
+<t2>
+A contract of guarantee concluded by a person under curatorship may not be rescinded in cases the consent of the curator is obtained.
+</t2>
+</pair>
+<pair id="R01-1-E" label="Y">
+<t1>
+Article 17
+(1) At the request of the person referred to in the main clause of Article 15, paragraph (1) or the assistant or assistant's supervisor, the family court may decide that the person under assistance must obtain the consent of the person's assistant in order to perform a specific juridical act;provided, however, that the acts that such a decision may establish as those for which the person must obtain the consent of the assistant are restricted to a part of the acts provided for in Article 13, paragraph (1).
+(2) In order to decide as referred to in the preceding paragraph at the request of a person other than the person in question requires the consent of the person in question.
+(3) If the assistant does not consent to an act for which the person under assistance must obtain the assistant's consent even though it is unlikely to prejudice the interests of the person under assistance, the family court may grant permission that operates in lieu of the assistant's consent, at the request of the person under assistance.
+(4) An act for which the person under assistance must obtain the assistant's consent is voidable if the person performs it without obtaining the assistance's consent or a permission that operates in lieu of it.
+</t1>
+<t2>
+An act which requires the consent of the assistant may be rescinded if the person under assistance performed it without such consent or the permission of family court in lieu thereof.
+</t2>
+</pair>
+<pair id="R01-1-O" label="N">
+<t1>
+Article 124
+(1) The ratification of a voidable act does not become effective unless it is made after the circumstances that made the act voidable cease to exist and the person ratifying the act becomes aware of the right to rescind it.
+(2) In the following cases, the ratification referred to in the preceding paragraph is not required to be made after the circumstances that made the act voidable cease to exist:
+(i) if a legal representative or a curator or assistant of a person with qualified legal capacity ratifies the act; or
+(ii) if a person with qualified legal capacity (excluding an adult ward) makes the ratification with the consent of a legal representative, curator or assistant.
+Article 126
+The right to rescind an act is extinguished by the operation of the prescription if it is not exercised within five years from the time when it becomes possible to ratify the act. The same applies if 20 years have passed from the time of the act.
+</t1>
+<t2>
+The period of the extinctive prescription of the right to rescind about the act performed by an adult ward commences from the time of becoming a person with capacity to act.
+</t2>
+</pair>
+<pair id="R01-2-A" label="Y">
+<t1>
+Article 28
+If an administrator needs to perform an act exceeding the authority provided for in Article 103, the administrator may perform that act after obtaining the permission of the family court. The same applies if it is unclear whether the absentee is dead or alive and the administrator needs to perform an act exceeding the authority established by the absentee.
+Article 103
+An agent who has no specifically defined authority has the authority to perform the following acts only:
+(i) acts of preservation; and
+(ii) acts with the purpose of using or improving a thing or right that is the subject matter of the agency, to the extent that this does not change the nature of that thing or right.
+</t1>
+<t2>
+The family court appointed B as the administrator of the property of absentee A, as A went missing without appointing the one. In cases where A owns land X, B needs to obtains the permission of a family court in order to sell Land X as an agent of A.
+</t2>
+</pair>
+<pair id="R01-2-I" label="Y">
+<t1>
+Article 28
+If an administrator needs to perform an act exceeding the authority provided for in Article 103, the administrator may perform that act after obtaining the permission of the family court. The same applies if it is unclear whether the absentee is dead or alive and the administrator needs to perform an act exceeding the authority established by the absentee.
+Article 103
+An agent who has no specifically defined authority has the authority to perform the following acts only:
+(i) acts of preservation; and
+(ii) acts with the purpose of using or improving a thing or right that is the subject matter of the agency, to the extent that this does not change the nature of that thing or right.
+</t1>
+<t2>
+The family court appointed B as the administrator of the property of absentee A, as A went missing without appointing the one. In cases where cash owned by A is discovered, B doesn't need to obtain the permission of a family when depositing in A's saving account of Bank D as an agent of A.
+</t2>
+</pair>
+<pair id="R01-2-U" label="Y">
+<t1>
+Article 28
+If an administrator needs to perform an act exceeding the authority provided for in Article 103, the administrator may perform that act after obtaining the permission of the family court. The same applies if it is unclear whether the absentee is dead or alive and the administrator needs to perform an act exceeding the authority established by the absentee.
+Article 103
+An agent who has no specifically defined authority has the authority to perform the following acts only:
+(i) acts of preservation; and
+(ii) acts with the purpose of using or improving a thing or right that is the subject matter of the agency, to the extent that this does not change the nature of that thing or right.
+</t1>
+<t2>
+The family court appointed B as the administrator of the property of absentee A, as A went missing without appointing the one. In cases where A has the debt obligation which is due against E, B doesn't need to obtain the permission of a family court when paying it to E for the benefit of A.
+</t2>
+</pair>
+<pair id="R01-2-E" label="N">
+<t1>
+Article 28
+If an administrator needs to perform an act exceeding the authority provided for in Article 103, the administrator may perform that act after obtaining the permission of the family court. The same applies if it is unclear whether the absentee is dead or alive and the administrator needs to perform an act exceeding the authority established by the absentee.
+Article 103
+An agent who has no specifically defined authority has the authority to perform the following acts only:
+(i) acts of preservation; and
+(ii) acts with the purpose of using or improving a thing or right that is the subject matter of the agency, to the extent that this does not change the nature of that thing or right.
+</t1>
+<t2>
+The family court appointed B as the administrator of the property of absentee A, as A went missing without appointing the one. In cases where A is one of the joint heirs of decendent F, B doesn't need to obtain the permission of a family court when dividing inherited F's property by agreement between the other joint heirs as an agent of A.
+</t2>
+</pair>
+<pair id="R01-2-O" label="N">
+<t1>
+Article 28
+If an administrator needs to perform an act exceeding the authority provided for in Article 103, the administrator may perform that act after obtaining the permission of the family court. The same applies if it is unclear whether the absentee is dead or alive and the administrator needs to perform an act exceeding the authority established by the absentee.
+Article 103
+An agent who has no specifically defined authority has the authority to perform the following acts only:
+(i) acts of preservation; and
+(ii) acts with the purpose of using or improving a thing or right that is the subject matter of the agency, to the extent that this does not change the nature of that thing or right.
+</t1>
+<t2>
+The family court appointed B as the administrator of the property of absentee A, as A went missing without appointing the one. In cases where A has child G, B doesn't need to obtain the permission of a family court when donating marriage fund to G as an agent of A.
+</t2>
+</pair>
+<pair id="R01-3-A" label="N">
+<t1>
+Article 99
+(1) A manifestation of intention that an agent makes indicating that they will be making a manifestation of intention on behalf of the principal within the scope of the agent's authority binds the principal directly.
+(2) The provisions of the preceding paragraph apply mutatis mutandis to a manifestation of intention that a third party makes to an agent.
+Article 100
+A manifestation of intention that an agent makes without having indicated that they will be acting on behalf of the principal is deemed to be one that the agent has made on their own account;provided, however, that if the other party knew or could have known that the agent was acting on behalf of the principal, the provisions of paragraph (1) of the preceding Article apply mutatis mutandis.
+</t1>
+<t2>
+In case where A's agent B concluded the contract with C  within the scope of such authority without indication that it is made on behalf of A, it will not be effective between A and C unless C knows that the B is acting on behalf of A.
+</t2>
+</pair>
+<pair id="R01-3-I" label="Y">
+<t1>
+Article 108
+(1) An act that a person performs as an agent of the counterparty or as agent of both parties for the same juridical act is deemed to be an act performed by a person without authority to represent;provided, however, that this does not apply to the performance of an obligation or to an act authorized by the principal in advance.
+(2) Beyond what is provided for in the main clause of the preceding paragraph, an act for which the interest of the agent conflicts with the interest of the principal is deemed to be an act performed by a person without authority to represent;provided, however, that this does not apply to an act authorized by the principal in advance.
+</t1>
+<t2>
+In case where A obtains the permission from B and C in advance, A will conclude the contract between B and C as the agent of both
+</t2>
+</pair>
+<pair id="R01-3-E" label="Y">
+<t1>
+Article 106
+(1) A subagent represents the principal with respect to acts within the scope of the authority thereof.
+(2) A subagent has the same rights and obligations as an agent in relation to the principal and third parties within the scope of that subagent's authority.
+</t1>
+<t2>
+In cases where a statutory agent may appoint a sub-agent by any unavoidable reason, it shall assume only the responsibility vis-a-vis the principal for the appointment and supervision of such sub-agent.
+</t2>
+</pair>
+<pair id="R01-3-O" label="N">
+<t1>
+Article 117
+(1) A person who concludes a contract as an agent of another person is liable to the counterparty for the performance of the contract or compensation for loss or damage, as chosen by the counterparty, unless the person proves the authority to represent or the principal ratifies the contract.
+(2) The provisions of the preceding paragraph do not apply in the following cases:
+(i) if the counterparty knew that the person who concluded the contract as an agent of the other person had no authority to represent;
+(ii) if the counterparty was negligent in not knowing that the person who concluded the contract as an agent of the other person had no authority to represent;provided, however, that this does not apply if the person who concluded a contract as an agent of the other person knew themselves to have no authority to represent; or
+(iii) if the legal capacity to act of the person who concluded the contract as an agent of the other person was subject to restrictions.
+</t1>
+<t2>
+When An unauthorized agent acted believing that it had had authority of agency without negligence, it shall not be liable to the counterparty for the performance of the contract or damages even if it is unable to obtain the ratification of the principal.
+</t2>
+</pair>
+<pair id="R01-4-I" label="Y">
+<t1>
+Article 129
+While it is uncertain whether or not a condition will be fulfilled, the rights and obligations of the party concerned may be disposed of, inherited or preserved, or a security may be provided therefor, in accordance with the general provisions.
+</t1>
+<t2>
+While it is uncertain whether or not a condition has been fulfilled, the rights and obligations of the party concerned may be disposed of, inherited or preserved, or any security may be provided therefor, in accordance with the usual provisions of the law.
+</t2>
+</pair>
+<pair id="R01-4-U" label="N">
+<t1>
+Article 133
+(1) A juridical act subject to an impossible condition precedent is void.
+(2) A juridical act subject to an impossible condition subsequent is an unconditional juridical act.
+</t1>
+<t2>
+Juristic act subject to a condition subsequent which is impossible is impossible shall be void.
+</t2>
+</pair>
+<pair id="R01-4-E" label="Y">
+<t1>
+Article 130
+(1) If a party that would suffer a detriment as a result of the fulfillment of a condition intentionally prevents the fulfillment of that condition, the counterparty may deem that the condition has been fulfilled.
+(2) If a party who would enjoy a benefit as a result of the fulfillment of a condition wrongfully has that condition fulfilled, the counterparty may deem that the condition has not been fulfilled.
+</t1>
+<t2>
+In cases any party who will suffer any detriment as a result of the fulfillment of a condition intentionally prevents the fulfillment of such condition, the counterparty may deem that such condition has been fulfilled.
+</t2>
+</pair>
+<pair id="R01-4-O" label="N">
+<t1>
+Article 134
+A juridical act subject to a condition precedent is void if the condition is dependent only upon the intention of the obligor.
+</t1>
+<t2>
+A juristic act which is subject to a condition precedent shall be void if the condition is dependent upon the will of the obligor.
+</t2>
+</pair>
+<pair id="R01-5-E" label="N">
+<t1>
+Article 162
+(1) A person that possesses the property of another for 20 years peacefully and openly with the intention to own it acquires ownership thereof.
+(2) A person that possesses the property of another for 10 years peacefully and openly with an intention to own it acquires ownership thereof if the person was acting in good faith and was not negligent at the time when the possession started.
+</t1>
+<t2>
+A person who possesses his/her own thing may not invoke acquisitive prescription of it.
+</t2>
+</pair>
+<pair id="R01-5-O" label="Y">
+<t1>
+Article 162
+(1) A person that possesses the property of another for 20 years peacefully and openly with the intention to own it acquires ownership thereof.
+(2) A person that possesses the property of another for 10 years peacefully and openly with an intention to own it acquires ownership thereof if the person was acting in good faith and was not negligent at the time when the possession started.
+</t1>
+<t2>
+In cases where a person asserts more than two possessions succeeded together with his/her own by the change of possessors, whether or not he/she is in good faith and without negligence is decided shall be judged by the first possessor at the time of the commencement of the possession.
+</t2>
+</pair>
+<pair id="R01-6-A" label="Y">
+<t1>
+Article 177
+Acquisitions of, losses of and changes in real rights on immovables may not be duly asserted against any third parties, unless the same are registered pursuant to the applicable provisions of the Real Property Registration Act (Act No. 123 of 2004) and other laws regarding registration.
+</t1>
+<t2>
+In cases A sold Land X belonging to A and B sold it to C, C may be asserted against A about ownership of Land X for sales without special security.
+</t2>
+</pair>
+<pair id="R01-6-I" label="N">
+<t1>
+Article 177
+Acquisitions of, losses of and changes in real rights on immovables may not be duly asserted against any third parties, unless the same are registered pursuant to the applicable provisions of the Real Property Registration Act (Act No. 123 of 2004) and other laws regarding registration.
+</t1>
+<t2>
+In cases B was bequeathed land X by A, B may be asserted against D about ownership of Land X for bequest without special security when C's obligee D amongst joint heirs attached C's share and registered because of joint succession to Land X.
+</t2>
+</pair>
+<pair id="R01-7-I" label="N">
+<t1>
+Article 192
+A person that commences the possession of movables peacefully and openly by a transactional act acquires the rights that are exercised with respect to the movables immediately if the person possesses it in good faith and without negligence.
+</t1>
+<t2>
+A allowed B to retain movable X. B died and an only heir D started to possess X actually believing that it belongs to B's inherited property without negligence.In cases X is a jewel, D may acquire ownership of X immediately.
+</t2>
+</pair>
+<pair id="R01-7-U" label="Y">
+<t1>
+Article 186
+(1) A possessor is presumed to possess a thing with the intention to own, in good faith peacefully and openly.
+(2) If there is evidence of possession at two different points in time, it is presumed that possession continued during that interval.
+Article 188
+The possessor is presumed to lawfully have the rights that a possessor exercises with respect to the thing under possession.
+Article 192
+A person that commences the possession of movables peacefully and openly by a transactional act acquires the rights that are exercised with respect to the movables immediately if the person possesses it in good faith and without negligence.
+</t1>
+<t2>
+A allowed B to retain movable X. B donated X to E and E was delivered actually believing that it belongs to B  without negligence.In cases X is a jewel, E may acquire ownership of X immediately.
+</t2>
+</pair>
+<pair id="R01-7-E" label="Y">
+<t1>
+Article 192
+A person that commences the possession of movables peacefully and openly by a transactional act acquires the rights that are exercised with respect to the movables immediately if the person possesses it in good faith and without negligence.
+</t1>
+<t2>
+A allowed B to retain movable X. X is auctioned compulsorily by B' obligee, F bought it and F was delivered actually believing that it belongs to B  without negligence.In cases X is a jewel, E may acquire ownership of X immediately.
+</t2>
+</pair>
+<pair id="R01-7-O" label="Y">
+<t1>
+Article 186
+(1) A possessor is presumed to possess a thing with the intention to own, in good faith peacefully and openly.
+(2) If there is evidence of possession at two different points in time, it is presumed that possession continued during that interval.
+Article 188
+The possessor is presumed to lawfully have the rights that a possessor exercises with respect to the thing under possession.
+Article 192
+A person that commences the possession of movables peacefully and openly by a transactional act acquires the rights that are exercised with respect to the movables immediately if the person possesses it in good faith and without negligence.
+</t1>
+<t2>
+A allowed B to retain movable X. B pledged X to G and was delivered actually believing that it belongs to B without negligence. In cases X is a jewel, E may acquire pledge of X immediately.
+</t2>
+</pair>
+<pair id="R01-8-A" label="Y">
+<t1>
+Article 242
+The owner of immovables acquires ownership of a thing that has been attached thereto as its appurtenance;provided, however, that the rights of the other person that attached that thing by virtue of a title are not prejudiced.
+</t1>
+<t2>
+In cases seeds, which had been sowed based on no title to using and making profits from land, grew into seedlings,ownership of the seedings shall vest in the owners of it.
+</t2>
+</pair>
+<pair id="R01-8-O" label="Y">
+<t1>
+Article 246
+(1) If a person (hereinafter in this Article referred to as &quot;processor&quot;) adds labor to another person's movables, the ownership of the processed thing belongs to the owner of the material; provided, however, that if the value derived from the work significantly exceeds the value of the material, the processor acquires ownership of the processed thing.
+(2) In the cases prescribed in the preceding paragraph, if the processor provides a portion of the materials, the processor acquires ownership of the processed thing only if the value of provided materials added to the value derived from the labor exceeds the value of the other person's materials.
+</t1>
+<t2>
+If a processor uses only other's woods as materials and contributes work to them, the processor shall acquire ownership of the thing when the value derived from the work significantly exceeds the value of the materials.
+</t2>
+</pair>
+<pair id="R01-9-A" label="N">
+<t1>
+Article 213
+(1) If the partition of land creates a parcel of land that has no access to public roads, the owner of that parcel of land may pass to the public roads only through the lands owned by another person that participated in the partition.In this case, it is necessary to pay compensation.
+(2) The provisions of the preceding paragraph apply mutatis mutandis if the owner of land transfers part of the land to another person.
+</t1>
+<t2>
+If the partition of land which A and B co-owns creates a parcel of A's Land X that has no access to public roads and B's Land Y that has access to public roads, A may pass to the public roads from Land X through Land Z when passing through Land Z cause the least damage.
+</t2>
+</pair>
+<pair id="R01-9-I" label="Y">
+<t1>
+Article 216
+If a land suffers or is likely to suffer damage due to destruction or blockage of a structure installed on other land to store, discharge or draw water, the owner of that land may have the owner of that other land repair the structure or remove the impediments, or, if necessary, have the same carry out preventive construction work.
+</t1>
+<t2>
+If land suffers damage due to destruction or blockage of a culvert installed on neighboring land to discharge or draw water, the owner of that land may have the owners of such neighboring lands repair or remove the it.
+</t2>
+</pair>
+<pair id="R01-9-U" label="N">
+<t1>
+Article 233
+(1) If a tree or bamboo branch from neighboring land crosses a boundary line, the landowner may have the owner of that tree or bamboo sever that branch.
+(2) If a tree or bamboo root from neighboring land crosses a boundary line, the owner of the land may sever that root.
+</t1>
+<t2>
+If a tree or bamboo branch from neighboring land crosses a boundary line, the landowner may sever that branch by nis/her own.
+</t2>
+</pair>
+<pair id="R01-9-E" label="Y">
+<t1>
+Article 229
+Boundary markers, fences, walls, channels and moats installed on boundary lines are presumed to be co-owned by the neighbors.
+</t1>
+<t2>
+Boundary markers installed on boundary lines shall be presumed to be co-owned by the neighbors.
+</t2>
+</pair>
+<pair id="R01-9-O" label="Y">
+<t1>
+Article 223
+A landowner may install boundary markers, sharing the expenses with the owner of the neighboring land.
+</t1>
+<t2>
+A landowner may install boundary markers, sharing the expenses with the owner of the neighboring land.
+</t2>
+</pair>
+<pair id="R01-10-A" label="N">
+<t1>
+Article 249
+Each co-owner may use the entire property in co-ownership in proportion to each co-owner's interest.
+</t1>
+<t2>
+A, B and C co-own Building X at the rate of one-third each. A needs to obtain the consent of B and C if A create a mortgage in the share.
+</t2>
+</pair>
+<pair id="R01-10-O" label="Y">
+<t1>
+Article 254
+A claim that one of the co-owners holds against other co-owners with respect to the property in co-ownership may be exercised against their specific successors.
+</t1>
+<t2>
+A, B and C co-own Building X at the rate of one-third each. If A holds a claim regarding administration of Building X, A may exercise a claim also against F when B transfer the share to F.
+</t2>
+</pair>
+<pair id="R01-11-A" label="N">
+<t1>
+Article 298
+(1) The holder of a right of retention must possess the thing retained with the due care of a prudent manager.
+(2) The holder of the right of retention may not use, lease or provide as a security the thing retained unless that holder obtains the consent of the obligor;provided, however, that this does not apply to uses necessary for the preservation of that thing.
+(3) If the holder of a right of retention violates the provisions of the preceding two paragraphs, the obligor may demand that the right of retention be terminated.
+</t1>
+<t2>
+A holder of rights of retention may lease subject real estate without obtaining the consent of the obligor.
+</t2>
+</pair>
+<pair id="R01-11-I" label="Y">
+<t1>
+Article 337
+In order to preserve the effectiveness of statutory liens for preservation of immovables, registration must be carried out immediately after the completion of the act of preservation.
+</t1>
+<t2>
+In order to preserve the effectiveness of statutory liens for preservation of immovable properties, registration must be carried out immediately after the completion of the act of preservation.
+</t2>
+</pair>
+<pair id="R01-11-E" label="Y">
+<t1>
+Article 358
+The pledgee of immovables may not demand interest on the relevant claim.
+Article 359
+The provisions of the preceding three Articles do not apply if the acts establishing pledges provide otherwise or execution against earnings from the immovable collateral (referring to the execution against earnings from immovable collateral provided for in Article 180, item (ii) of the Civil Execution Act; the same applies hereinafter) has been commenced.
+</t1>
+<t2>
+Pledgees of immovable properties can demand interest on their claims in cases where the acts establishing pledges provide otherwise.
+</t2>
+</pair>
+<pair id="R01-12-A" label="Y">
+<t1>
+Article 302
+A right of retention is extinguished if the holder of the right of retention loses possession of the thing retained;provided, however, that this does not apply if the thing retained is leased or it is made the subject of a pledge pursuant to the provisions of Article 298, paragraph (2).
+</t1>
+<t2>
+If a holder of the right of retention loses a object material, the detention right disappears.
+</t2>
+</pair>
+<pair id="R01-12-I" label="N">
+<t1>
+Article 295
+(1) If a possessor of a thing belonging to another person has a claim that has arisen in relation to that thing, that possessor may retain that thing until that claim is satisfied;provided, however, that this does not apply if the relevant claim has not yet fallen due.
+(2) The provisions of the preceding paragraph do not apply if possession commenced by means of a tortious act.
+</t1>
+<t2>
+A possessor of a thing belonging to another person may retain that thing even if a claim that has arisen with respect to that thing has not yet fallen due.
+</t2>
+</pair>
+<pair id="R01-12-U" label="Y">
+<t1>
+Article 301
+An obligor may demand that a right of retention be terminated by providing a reasonable security.
+</t1>
+<t2>
+An obligor may demand that a right of retention be extinguished by tendering reasonable security.
+</t2>
+</pair>
+<pair id="R01-12-O" label="N">
+<t1>
+Article 295
+(1) If a possessor of a thing belonging to another person has a claim that has arisen in relation to that thing, that possessor may retain that thing until that claim is satisfied;provided, however, that this does not apply if the relevant claim has not yet fallen due.
+(2) The provisions of the preceding paragraph do not apply if possession commenced by means of a tortious act.
+</t1>
+<t2>
+In cases where A sold C Building X he/she owns and registerd with respect to it after delivering Building X to B, B may may retain Building X to secure a claim for damages due to default if C demanded vacation of Building X from B.
+</t2>
+</pair>
+<pair id="R1-13-A" label="N">
+<t1>
+Article 362
+(1) A pledge may have a property right for its subject matter.
+(2) Beyond what is provided for in this Section, the provisions of the preceding three Sections (General Provisions, Pledges on Movables and Pledges of Immovables) apply mutatis mutandis to pledges referred to in the preceding paragraph, provided that it is not inconsistent with the nature of the same.
+</t1>
+<t2>
+A pledgee of claim may not colllect the claim directly, when the subject matter of the pledge of claim is not a monetary claim.
+</t2>
+</pair>
+<pair id="R1-13-I" label="Y">
+<t1>
+Article 350
+The provisions of Articles 296 through 300 and those of Article 304
+apply mutatis mutandis to pledges.
+Article 297
+(1) A holder of a right of retention may collect fruits derived from the thing retained, and appropriate the same to the satisfaction of that holder's own claim before other obligees.
+(2) The fruits referred to in the preceding paragraph must be appropriated first to the payment of interest on the claim, and any remainder must be appropriated to the satisfaction of the principal.
+</t1>
+<t2>
+A pledgee of movables may receive the profits from the movable property, and reimburse secured debt by the profits prior to other creditors.
+</t2>
+</pair>
+<pair id="R1-13-U" label="N">
+<t1>
+Article 348
+The pledgee may subpledge the thing pledged within the duration of the pledgee's right, upon the pledgee's own responsibility.In this case, the pledgee is responsible for any loss arising from the subpledge even if the same is caused by force majeure.
+</t1>
+<t2>
+A pledgee may not further create a pledge with respect to the subject matter of the pledge as collateral for his debt without the consent of the pledgor.
+</t2>
+</pair>
+<pair id="R1-13-E" label="N">
+<t1>
+Article 346
+A pledges secures the principal, interest, penalties, expenses of enforcing the pledge, expense of preserving the thing pledged and the compensation of loss or damage arising from failure to perform obligations or latent defects in the thing pledged;provided, however, that this does not apply if the act establishing the pledge provides otherwise.
+</t1>
+<t2>
+Demand damages arising from latent defect in the subject matter of a pledge is not secured by a pledge, when the contract clause is not concluded.
+</t2>
+</pair>
+<pair id="R1-13-O" label="Y">
+<t1>
+Article 362
+(1) A pledge may have a property right for its subject matter.
+(2) Beyond what is provided for in this Section, the provisions of the preceding three Sections (General Provisions, Pledges on Movables and Pledges of Immovables) apply mutatis mutandis to pledges referred to in the preceding paragraph, provided that it is not inconsistent with the nature of the same.
+</t1>
+<t2>
+A obligor (A) may create a pledge with respect to a claim vested in the obligee (B) against the obligor (A) to secure (A)'s claim ageinst (B).
+</t2>
+</pair>
+<pair id="R1-14-A" label="Y">
+<t1>
+Article 372
+The provisions of Article 296, Article 304
+and Article 351
+apply mutatis mutandis to mortgages.
+Article 304
+(1) A statutory lien may also be exercised against things including monies that the obligor is to receive as a result of the sale, lease or loss of, or damage to, the subject matter of the statutory lien;provided, however, that the holder of the statutory lien must attach the same before the payment or delivery of the monies or other thing.
+(2) The provisions of the preceding paragraph also apply to the consideration for real rights created by the obligor on the subject matter of the statutory lien.
+</t1>
+<t2>
+A mortgage may also be exercised against the claim for damage that the obligor is to receive as a result of the loss of the subject matter of the mortgage.
+</t2>
+</pair>
+<pair id="R1-14-I" label="Y">
+<t1>
+Article 244
+If the distinction of principal and accessory cannot be made between the movables united by accession, the owner of each movable property co-owns the composite thing in proportion to the respective price current at the time of the accession.
+Article 247
+(1) If the ownership of a thing is extinguished pursuant to the provisions of Article 242
+through the preceding Article, other rights existing on that thing are also extinguished.
+(2) In the cases prescribed in the preceding paragraph, if the owner of a thing has become the sole owner of the thing formed by accession or appurtenance, mixture or processing (hereinafter in this paragraph referred to as &quot;composite thing&quot;), other rights existing on that thing thereafter exist on the composite thing, and if the owner of the thing becomes a co-owner of the composite thing, other rights existing on that thing thereafter exist on that owner's interest in the same.
+Article 369
+(1) A mortgagee has the right to have the mortgagee's claim satisfied prior to other obligees out of the immovables that the obligor or a third party provided to secure the obligation without transferring possession.
+(2) Superficies and farming rights may be the subject matter of a mortgage.In this case, the provisions of this Chapter apply mutatis mutandis.
+</t1>
+<t2>
+In cases where two buildings which are owned by one person that the distinction of principal and accessory cannot be made between become one building due to the construction, if mortgages are created with respect to the two buildings respectively, the mortgages shall own each mortage on the building in proportion to the respective price continuedly.
+</t2>
+</pair>
+<pair id="R1-14-U" label="N">
+<t1>
+Article 87
+(1) If the owner of a first thing attaches a second thing that the owner owns to the first thing to serve the ordinary use of the first thing, the thing that the owner attaches is an appurtenance.
+(2) An appurtenance is disposed of together with the principal thing if the principal thing is disposed of.
+</t1>
+<t2>
+In cases where a mortgage is created with respect to a building on leased land, the mortgage may not be exercised against the right of lease.
+</t2>
+</pair>
+<pair id="R1-14-E" label="N">
+<t1>
+Article 369
+(1) A mortgagee has the right to have the mortgagee's claim satisfied prior to other obligees out of the immovables that the obligor or a third party provided to secure the obligation without transferring possession.
+(2) Superficies and farming rights may be the subject matter of a mortgage.In this case, the provisions of this Chapter apply mutatis mutandis.
+</t1>
+<t2>
+A contract to creat a mortgage to secure a claim to delivery movables  has no effect.
+</t2>
+</pair>
+<pair id="R1-14-O" label="Y">
+<t1>
+Article 369
+(1) A mortgagee has the right to have the mortgagee's claim satisfied prior to other obligees out of the immovables that the obligor or a third party provided to secure the obligation without transferring possession.
+(2) Superficies and farming rights may be the subject matter of a mortgage.In this case, the provisions of this Chapter apply mutatis mutandis.
+</t1>
+<t2>
+In cases where a mortgage is created to secure a claim that may arise in the future and registrated, if the claime arises actually, the mortgage secure it effectively.
+</t2>
+</pair>
+<pair id="R1-15-A" label="N">
+<t1>
+Article 371
+If there is a default with respect to a claim secured by a mortgage, the mortgage extends to the fruits of the mortgaged immovables derived after the default.
+</t1>
+<t2>
+In cases where a mortgagor lease land which is a subject matter of the mortgage to a person, the mortgage shall extend to the rent without a default with respect to a claim secured by the mortgage.
+</t2>
+</pair>
+<pair id="R1-15-I" label="Y">
+<t1>
+Article 370
+A mortgage extends to the things that form an integral part of the immovables that are the subject matter of the mortgage (hereinafter referred to as &quot;mortgaged immovables&quot;) except for buildings on the mortgaged land; provided, however, that this does not apply if the act establishing the mortgage provides otherwise or the rescission of fraudulent act may be demanded as prescribed in Article 424, paragraph (3) with regard to the act of the obligor.
+</t1>
+<t2>
+In cases where a mortgage is created with respect to land by the owner of the land, if trees are planted and logged on the land, the mortgage shall entend to the trees.
+</t2>
+</pair>
+<pair id="R1-15-U" label="N">
+<t1>
+Article 370
+A mortgage extends to the things that form an integral part of the immovables that are the subject matter of the mortgage (hereinafter referred to as &quot;mortgaged immovables&quot;) except for buildings on the mortgaged land; provided, however, that this does not apply if the act establishing the mortgage provides otherwise or the rescission of fraudulent act may be demanded as prescribed in Article 424, paragraph (3) with regard to the act of the obligor.
+</t1>
+<t2>
+In cases where a mortgagor has juwels in the bluilding which is the subject matter of the mortgage, the mortgage shall entend to the juwels.
+</t2>
+</pair>
+<pair id="R1-15-E" label="N">
+<t1>
+Article 370
+A mortgage extends to the things that form an integral part of the immovables that are the subject matter of the mortgage (hereinafter referred to as &quot;mortgaged immovables&quot;) except for buildings on the mortgaged land; provided, however, that this does not apply if the act establishing the mortgage provides otherwise or the rescission of fraudulent act may be demanded as prescribed in Article 424, paragraph (3) with regard to the act of the obligor.
+</t1>
+<t2>
+In cases where a building which is the subject matter of a mortgage collapses and becomes movables, the mortgage shall entend to the movables.
+</t2>
+</pair>
+<pair id="R1-15-O" label="Y">
+<t1>
+Article 370
+A mortgage extends to the things that form an integral part of the immovables that are the subject matter of the mortgage (hereinafter referred to as &quot;mortgaged immovables&quot;) except for buildings on the mortgaged land; provided, however, that this does not apply if the act establishing the mortgage provides otherwise or the rescission of fraudulent act may be demanded as prescribed in Article 424, paragraph (3) with regard to the act of the obligor.
+</t1>
+<t2>
+In cases where a person who lease a building which is the subject matter of a mortgage from the mortgagor installs his own air- conditioner which is removabe, the mortgage shall not extend to the air-conditioner.
+</t2>
+</pair>
+<pair id="R1-16-U" label="N">
+<t1>
+Article 295
+(1) If a possessor of a thing belonging to another person has a claim that has arisen in relation to that thing, that possessor may retain that thing until that claim is satisfied;provided, however, that this does not apply if the relevant claim has not yet fallen due.
+(2) The provisions of the preceding paragraph do not apply if possession commenced by means of a tortious act.
+</t1>
+<t2>
+In cases where a mortgagor did not perform his obligation until the time of performance, if the mortgagee transfers his/her mortgaged real properties to a third party, the mortgagor may not assert a right of retention to secure settlement claims against the mortgagee when the third party claims the delivery of the mortgaged real properties.
+</t2>
+</pair>
+<pair id="R1-17-A" label="Y">
+<t1>
+Article 446
+(1) A guarantor has the responsibility to perform the obligation of the principal obligor when the latter fails to perform that obligation.
+(2) No guarantee contract becomes effective unless it is made in writing.
+(3) If a guarantee contract is concluded by electronic or magnetic record which records the terms thereof, the guarantee contract is deemed to be made in writing, and the provisions of the preceding paragraph apply.
+</t1>
+<t2>
+No contract of guarantee shall be effective unless it is made in writing or concluded by electromagnetic record which records the contents thereof.
+</t2>
+</pair>
+<pair id="R1-17-I" label="N">
+<t1>
+Article 450
+(1) If an obligor has the obligation to provide a guarantor, that guarantor must:
+(i) be a person with capacity to act; and
+(ii) have sufficient financial resources to pay the obligation.
+(2) If the guarantor ceases to meet the requirements set forth in item (ii) of the preceding paragraph, the obligee may demand that some other person meeting the requirements set forth in any item of the same paragraph be substituted for that guarantor.
+(3) The provisions of the preceding two paragraphs do not apply if the obligee has designated the guarantor.
+</t1>
+<t2>
+A guarantor need to be a person with the capacity to act, even if the obligee has designated the guarantor.
+</t2>
+</pair>
+<pair id="R1-17-U" label="N">
+<t1>
+Article 465-3
+(1) If a contract for revolving guarantee by an individual under which the scope of the principal obligation includes an obligation to be borne as a result of loans or receiving a discount of a negotiable instrument (hereinafter referred to as a &quot;loan obligation&quot;; and this contract is hereinafter referred to as a &quot;contract for revolving guarantee by an individual for loans&quot;) provides for the date on which the principal of the principal obligation should be crystallized (hereinafter referred to as the &quot;principal crystallization date&quot;), and it also provides that the principal crystallization date is to fall on or after the day on which five years have passed after the day of the conclusion of the contract for the revolving guarantee by an individual for loans, the provisions concerning the principal crystallization date do not become effective.
+(2) If a contract for revolving guarantee by an individual for loans does not provide for a principal crystallization date (or if the provisions concerning the principal crystallization date do not become effective pursuant to the provisions of the preceding paragraph), the principal crystallization date is to fall on the day on which three years have passed from the day of the conclusion of the contract for revolving guarantee by an individual for loans.
+(3) If a change of the principal crystallization date provided for in a contract for revolving guarantee by an individual for loans is to be effected, and the principal crystallization date as changed falls on a day later than the day on which five years have passed after the day of the change, that change of the principal crystallization date does not become effective;provided, however, that this does not apply if the change of the principal crystallization date is effected within two months immediately preceding the principal crystallization date, and the principal crystallization date as changed falls on a day within five years from the original principal crystallization date.
+(4) The provisions of Article 446, paragraphs (2) and (3) apply mutatis mutandis to the provisions concerning a principal crystallization date in a contract for revolving guarantee by an individual for loans and a change thereof (excluding provisions to the effect that the principal crystallization date is to fall on a day within three years from the day of the conclusion of that contract for revolving guarantee by an individual for loans, and any change which is intended to change the principal crystallization date to a day preceding the original principal crystallization date).
+</t1>
+<t2>
+A contract for revolving guarantee on loans shall be invalid, in the cases where it does not provide a principal determination date.
+</t2>
+</pair>
+<pair id="R1-17-O" label="Y">
+<t1>
+Article 455
+If after the guarantor makes a request or gives proof pursuant to the provisions of Article 452
+or Article 453, the obligee fails to demand or to levy execution and becomes unable to obtain full performance from the principal obligor as a result of that, the guarantor is released from the obligation to the extent that the obligee would have received payment if the obligee had immediately demanded or levied execution.
+</t1>
+<t2>
+Where a guarantor may demand the obligee to demand performance of the principal obligor first, if the obligee fails to demand and is subsequently unable to obtain full performance from the principal obligor, the guarantor shall be relieved of liability to the extent that the obligee would have received performance if the obligee had immediately demanded.
+</t2>
+</pair>
+<pair id="R1-18-U" label="Y">
+<t1>
+Article 468
+(1) An obligor may duly assert against the assignee any event that has taken place with regard to the assignor by the time of completion of the perfection.
+(2) For the purpose of the application of the provisions of the preceding paragraph in the case referred to in Article 466, paragraph (4), the phrase &quot;at the time of the completion of the perfection&quot; in that paragraph is deemed to be replaced with &quot;at the time when a reasonable period of time referred to in Article 466, paragraph (4) has elapsed&quot;; and to apply the provisions of that paragraph in the case referred to in Article 466-3, the phrase &quot;at the time of the completion of the perfection&quot; in that paragraph is deemed to be replaced with &quot;at the time when the obligor receives a request from the assignee referred to in Article 466-3 to make a deposit with an official depository pursuant to the provisions of that Article&quot;.
+</t1>
+<t2>
+In the cases where the obligor has given the acknowledgement referred to the assignment of a claim of remuneration receivables related to unfinished work which the obligor cntracts out to the contractor, if the assignee knows that the claim is remuneration receivables related to unfinished work, the obligor may refuse to perform his/her obligation by asserting the cancellation right of the contract against the assignee.
+</t2>
+</pair>
+<pair id="R1-18-E" label="N">
+<t1>
+Article 467
+(1) The assignment of a claim (including the assignment of a claim that is yet to arise) may not be duly asserted against the applicable obligor or any other third party, unless the assignor gives notice thereof to the obligor or the obligor has consented to the same.
+(2) Notice or consent as referred to in the preceding paragraph may not be duly asserted against a third party other than the obligor unless the notice or the consent is made using an instrument bearing a certified date.
+</t1>
+<t2>
+The order of priority of the assignment of a claim and the attachment of the same claim shall follow  the order of the time when the requirements for the assertion of the assignment against third parties expect the pobligor is met and the time when the attachment order is issued.
+</t2>
+</pair>
+<pair id="R1-19-A" label="N">
+<t1>
+Article 519
+If an obligee manifests the intention to release an obligor from an obligation to that obligor, the obligee's claim is extinguished.
+</t1>
+<t2>
+the obligee(B) may not manifests his/her intention to release an obligation to the obligor(A) against the will of the obligor(A).
+</t2>
+</pair>
+<pair id="R1-19-I" label="Y">
+<t1>
+Article 462
+(1) The provisions of Article 459-2, paragraph (1) apply mutatis mutandis if a person, that has given guarantee without the request of the principal obligor, performs an act for extinguishment of obligation.
+(2) A person that has become a guarantor against the will of the principal obligor has the right to reimbursement only to the extent currently enriched.In this case, if the principal obligor asserts to have grounds for set-off against the obligee prior to the day of the demand for reimbursement, the guarantor may demand that the obligee perform the obligation which would have been extinguished by that set-off.
+(3) The provisions of Article 459-2, paragraph (3) apply mutatis mutandis to the exercise of the right to reimbursement if the guarantor referred to in the preceding two paragraphs performs an act for extinguishment of obligation before the due date of the principal obligation.
+</t1>
+<t2>
+A third party may guarantee monetary debts which the obligor(A) contracts with the obligee(B) against the will of the obligor(A).
+</t2>
+</pair>
+<pair id="R1-19-U" label="N">
+<t1>
+Article 474
+(1) A third party may also perform an obligation.
+(2) A third party that has no legitimate interest in performing an obligation may not perform the obligation against the will of the obligor;provided, however, that this does not apply if the obligee did not know that the performance is against the will of the obligor.
+(3) The third party prescribed in the preceding paragraph may not perform the obligation against the will of the obligee;provided, however, that this does not apply if the third party performs the obligation as requested by the obligor, and the obligee knew this.
+(4) The provisions of the preceding three paragraphs do not apply if the nature of an obligation does not permit the performance by a third party or if a party manifests the intention to prohibit or restrict the performance by a third party.
+</t1>
+<t2>
+Third person mortgagor who secures the monetary debts which the obligor(A) contract with the obligee(B) may not perform the obligation against the will of the obligor(A).
+</t2>
+</pair>
+<pair id="R1-19-E" label="Y">
+<t1>
+Article 514
+(1) A novation by substitution of obligor may be effected by a contract concluded between the obligee and a person that becomes the obligor after the novation. In such a case, the novation becomes effective when the obligee notifies the obligor prior to the novation of the conclusion of the contract.
+(2) The obligor after the novation by substitution of obligor does not acquire a right to reimbursement from the obligor prior to the novation.
+</t1>
+<t2>
+The obligee(B) and a third party(C) may not replace the obligor(A) who contracts monetary debts with the obligee(B) to the third party(C) for by novation against the will of the obligor(A).
+</t2>
+</pair>
+<pair id="R1-19-O" label="N">
+<t1>
+Article 482
+If a person that has right to perform an obligation (hereinafter referred to as a &quot;performer&quot;) concludes a contract with the obligee to the effect that the person is to have the obligation extinguished by making, in lieu of the payment or delivery to be performed by the obligor, another type of payment or delivery, and the performer makes that other type of payment or delivery, the payment or delivery thus made has the same effect as that of the performance of the obligation.
+</t1>
+<t2>
+The obligee(B) may not perform the obligation which he/she contracts with a third party by assigning the claim which the obligor(A) contracts with the obligee(B) to the third party as a substitute against the will of the obligor(A).
+</t2>
+</pair>
+<pair id="R1-20-A" label="N">
+<t1>
+Article 484
+(1) Unless a particular intention is manifested with respect to the place where the performance should take place, the delivery of a specific thing must be effected at the place where that thing was located when the relevant claim accrued, and the discharge of any other obligation must be effected at the current domicile of the obligee.
+(2) If the trading hours are specified by laws and regulations or customs, performance may be made or demanded only within the trading hours.
+</t1>
+<t2>
+In cases where the credit of sale value is assigned to the assignee with the requirements for assertion of the assignment, the tender of the performance by the obligor shall be sufficient if it is exercised at the place the assignor lives at the time.
+</t2>
+</pair>
+<pair id="R1-20-I" label="Y">
+<t1>
+Article 484
+(1) Unless a particular intention is manifested with respect to the place where the performance should take place, the delivery of a specific thing must be effected at the place where that thing was located when the relevant claim accrued, and the discharge of any other obligation must be effected at the current domicile of the obligee.
+(2) If the trading hours are specified by laws and regulations or customs, performance may be made or demanded only within the trading hours.
+Article 493
+The tender of the performance must be made actually consistent with the main purport of the obligation;provided, however, that if the obligee refuses to accept that performance in advance or if any act is required on the part of the obligee with respect to the performance of the obligation, it is sufficient for the obligor to request the acceptance thereof by giving a notice that the tender of the performance has been prepared.
+</t1>
+<t2>
+In cases where the seller of the specified things retains them at the place where he/she lives since he/she entered into the contract for sale, the tender of the performance shall be sufficient if the seller demands that the buyer accepts the subject matters by giving a notice that the delivery has been prepared.
+</t2>
+</pair>
+<pair id="R1-21-A" label="N">
+<t1>
+Article 513
+If the parties conclude a contract which gives rise to a new obligation that falls under any of the following as a replacement of the previous obligation, the previous obligation is extinguished by novation:
+(i) an obligation that makes a material change to the content of the performance of the previous obligation;
+(ii) an obligation for which the previous obligor is substituted by a third party; or
+(iii) an obligation for which the previous obligee is substituted by a third party.
+</t1>
+<t2>
+That a third party assumes a monetary debt jointly and severally with a debtor after the debtor has entered into the loans for consumption is a novation.
+</t2>
+</pair>
+<pair id="R1-21-I" label="Y">
+<t1>
+Article 515
+(1) A novation by substitution of obligee may be effected by a contract concluded among the obligee prior to the novation, a person that becomes the obligee after the novation, and the obligor.
+(2) A novation by substitution of obligee may not be duly asserted against a third party unless it is made using an instrument bearing a certified date.
+</t1>
+<t2>
+A novation by substitution of obligee may not be asserted against a third party unless it is made using an instrument bearing a fixed date.
+</t2>
+</pair>
+<pair id="R1-21-U" label="Y">
+<t1>
+Article 520
+If a claim and obligation becomes vested in the same person, such claim is extinguished;provided, however, that this does not apply if such a claim is the subject matter of the right of a third party.
+</t1>
+<t2>
+In cases where a mortgage is created to secure an guarantee obligation, the guarantee obligation is not extinguished  when a guarantor assumes the position of the principal obligor at the time the death of the principal obligor.
+</t2>
+</pair>
+<pair id="R1-21-E" label="N">
+<t1>
+Article 518
+(1) To the extent of the amount of the obligation prior to the novation, the obligee (in the case of a novation by substitution of obligee, the obligee prior to the novation) may transfer the pledge or mortgage created as the security of that obligation to the obligation in effect after the novation;provided, however, that if any third party created that security, the consent of the third party must be obtained.
+(2) The transfer of the pledge or mortgage referred to in the preceding paragraph must be effected by manifesting the intention to the other party to the novation (in the case of a novation by substitution of obligee, the obligor) in advance or upon the transfer.
+</t1>
+<t2>
+To the extent of the purpose of the obligation in effect prior to the novation, the parties to the novation may convert the mortgage created as the security of such obligation by a third party to the obligation in effect after the novation without consent of the third party.
+</t2>
+</pair>
+<pair id="R1-21-O" label="Y">
+<t1>
+Article 520
+If a claim and obligation becomes vested in the same person, such claim is extinguished;provided, however, that this does not apply if such a claim is the subject matter of the right of a third party.
+</t1>
+<t2>
+In cases where the lessee(B) continually possesses the building X which is the subject matter of the lease after transfering it from the lessor(A), if a person(C) acquires it from the lessor(A) and subsequently registers the transfer of ownership from the lessor(A) to (C), the lessee(B) may not assert the acquirement of the ownership of the building X against (C). In such case, the lessee(B) may asserts the right of the lease of the building X against (C).
+</t2>
+</pair>
+<pair id="R1-22-A" label="N">
+<t1>
+Article 648
+(1) In the absence of any special agreements, the mandatary may not claim remuneration from the mandator.
+(2) If a mandatary is to receive remuneration, the mandatary may not claim this until after having performed the mandated business;provided, however, that if the remuneration is specified with reference to period, the provisions of Article 624, paragraph (2) apply mutatis mutandis.
+(3) In the following cases, the mandatary may demand remuneration in proportion to the performance already completed:
+(i) if the mandatary is no longer able to perform the mandated business due to any grounds not attributable to the mandator; or
+(ii) if the mandate is terminated during the course of performance.
+</t1>
+<t2>
+In case a mandate made for a consideration, a mandator's obligation of payment for remuneration and the mandatary's obligation to administer the mandated business shall have the relationship of simutaneous performances.
+</t2>
+</pair>
+<pair id="R1-22-I" label="Y">
+<t1>
+Article 533
+A party to a bilateral contract may refuse to perform that party's own obligation until the other party tenders the performance of that other party's obligation (including the performance of an obligation to compensate for loss or damage in lieu of the performance of an obligation);provided, however, that this does not apply if the obligation of the other party is not yet due.
+Article 546
+The provisions of Article 533
+apply mutatis mutandis to the preceding Article.
+</t1>
+<t2>
+In a buyer has cancelled the seles contract of the building which is not registered yet because of a latent defect of it, the seller'obligation of reimbursement and the buyer's obligation to return the building have the relationship of simutaneous performances.
+</t2>
+</pair>
+<pair id="R1-22-E" label="Y">
+<t1>
+Article 533
+A party to a bilateral contract may refuse to perform that party's own obligation until the other party tenders the performance of that other party's obligation (including the performance of an obligation to compensate for loss or damage in lieu of the performance of an obligation);provided, however, that this does not apply if the obligation of the other party is not yet due.
+</t1>
+<t2>
+In cases where a minor has rescinded a movable sale contract without the consent of his/her statutory agent, the seller'obligation of reimbursement and the buyer's obligation to return the subject matter of the sele have the relationship of simutaneous performances.
+</t2>
+</pair>
+<pair id="R1-23-2" label="N">
+<t1>
+Article 587
+A loan for consumption becomes effective when a first party receives money or any other thing from a second party, having promised to return a thing of the same type, quality, and quantity.
+Article 588
+If any person has an obligation to pay money or deliver other thing under any arrangement, and the parties agree to regard such thing as the subject matter of a loan for consumption, it is deemed that this establishes a loan for consumption.
+</t1>
+<t2>
+A quasi-loan has no effect if the the borrower do not deliver the subject matter of the quasi-loan to the lender.
+</t2>
+</pair>
+<pair id="R1-23-3" label="N">
+<t1>
+Article 593
+A loan for use becomes effective if one of the parties promises to deliver a certain thing, and the other party promises to return the thing when the contract is terminated after the other party gratuitously uses and makes profit of the borrowed thing.
+</t1>
+<t2>
+No contract of loan for use shall be effective unless it is made in writing.
+</t2>
+</pair>
+<pair id="R1-23-4" label="N">
+<t1>
+Article 657
+A bailment becomes effective if one of the parties asks the other party to keep a certain thing in custody, and the other party gives consent to keeping it in custody.
+Article 659
+A gratuitous bailee bears a duty to keep the bailed thing while exercising the same level of care that the bailee would exercise for their own property.
+</t1>
+<t2>
+No contract of deposit shall be effective unless the depositor promises the depositary to pay remuneration.
+</t2>
+</pair>
+<pair id="R1-23-5" label="Y">
+<t1>
+Article 669
+If monies are the subject of contribution and a partner fails to make the contribution, that partner must pay interest on the same and otherwise compensate for loss or damage.
+</t1>
+<t2> The subject of the contribution may not be money only. </t2>
+</pair>
+<pair id="R1-24-A" label="Y">
+<t1>
+Article 536
+(1) If the performance of an obligation becomes impossible due to grounds not attributable to either party, the obligee may refuse to perform counter-performance.
+(2) If the performance of an obligation becomes impossible due to grounds attributable to the obligee, the obligee may not refuse to complete counter-performance. In such a case, if the obligor benefits from being released from that obligation, the obligor must reimburse the obligee for the benefit.
+</t1>
+<t2>
+(A) and (B) agreed that (A) sell the used bicycle which (A) owned (hereinafter referred to as P) to (B) on April 1 with the provision for the delivery on april 10 and the payment on April 20. (P) was lost due to reasons attributable to (B) on April 8. In such case, (b) may not refuse the payment when (A) claims the payment from (B) on April 20.
+</t2>
+</pair>
+<pair id="R1-24-I" label="Y">
+<t1>
+Article 541
+If one of the parties does not perform that party's obligation, and the other party demands performance of that obligation, specifying a reasonable period of time, but no performance is completed during that period, the other party may cancel the contract;provided, however, that this does not apply if the non-performance of the obligations upon the passage of the period is minor in light of the contract and the common sense in the transaction.
+Article 564
+The provisions of the preceding two Articles do not preclude the buyer from claiming compensation for loss or damage pursuant to the provisions of Article 415
+or exercising the right to cancel pursuant to the provisions of Articles 541 and 542.
+</t1>
+<t2>
+(A) and (B) agreed that (A) sell the used bicycle which (A) owned (hereinafter referred to as P) to (B) on April 1 with the provision for the delivery on april 10 and the payment on April 20. (P) has a latent defect which is created before the sale, but (A) delivered (P) to (B) on April 10. In such case, (B) may cancel the sale, if (B) cannot achieve his/her purpose of the sale on account of the defect.
+</t2>
+</pair>
+<pair id="R1-24-U" label="N">
+<t1>
+Article 545
+(1) If one of the parties exercises the right to cancel, each party assumes an obligation to restore the other party to that other party's original state;provided, however, that this may not prejudice the rights of a third party.
+(2) In the case referred to in the main clause of the preceding paragraph, if any monies are to be refunded, interest must accrue from the time of the receipt of those monies.
+(3) In the case referred to in the main clause of paragraph (1), if a thing other than money is to be returned, fruits that have accrued on or after the time of the receipt of the thing must also be returned.
+(4) The exercise of the right to cancel does not preclude claims for compensation for loss or damage.
+</t1>
+<t2>
+(A) and (B) agreed that (A) sell the used bicycle which (A) owned (hereinafter referred to as P) to (B) on April 1 with the provision for the delivery on april 10 and the payment on April 20. (A) delivered (P) to (B) on April 10. But (B) did not pay even after April 20, sell (P) to (C) who did not know the sale which (A) and (B) entered into and deliverd (P) to (C). In such case, (A) may cancell the sale and claim the delivery of (P) against (C), if (B) did not pay after (A) demanded the payment.
+</t2>
+</pair>
+<pair id="R1-24-E" label="Y">
+<t1>
+Article 533
+A party to a bilateral contract may refuse to perform that party's own obligation until the other party tenders the performance of that other party's obligation (including the performance of an obligation to compensate for loss or damage in lieu of the performance of an obligation);provided, however, that this does not apply if the obligation of the other party is not yet due.
+</t1>
+<t2>
+(A) and (B) agreed that (A) sell the used bicycle which (A) owned (hereinafter referred to as P) to (B) on April 1 with the provision for the delivery on april 10 and the payment on April 20. (B) claimed the delivery of (P) against (A) without the tender of the payment on April 21 because (A) had not delivered (P) to (B) on April 20. In such case, (A) may refuse the claim of the delivery based on rights of defense of simultaneous performance.
+</t2>
+</pair>
+<pair id="R1-24-O" label="N">
+<t1>
+Article 533
+A party to a bilateral contract may refuse to perform that party's own obligation until the other party tenders the performance of that other party's obligation (including the performance of an obligation to compensate for loss or damage in lieu of the performance of an obligation);provided, however, that this does not apply if the obligation of the other party is not yet due.
+Article 575
+(1) If the subject matter of a sale which has not yet been delivered bears fruits, the fruits vest in the seller.
+(2) The buyer bears the obligation to pay interest on the price beginning from the day of delivery;provided, however, that if a due date is provided for the payment of the price, it is not necessary to pay the interest until that due date arrives.
+</t1>
+<t2>
+(A) and (B) agreed that (A) sell the used bicycle which (A) owned (hereinafter referred to as P) to (B) on April 1 with the provision for the delivery on april 10 and the payment on April 20. (A) delivered (P) to (B) on April 25, but (B) did not pay for (A). In such case, (A) may demand the cost of (P) and interest on the purchase which (B) assumes an obligation to pay from April 21.
+</t2>
+</pair>
+<pair id="R01-25-A" label="N">
+<t1>
+Article 601
+A lease becomes effective if one of the parties promises to make a certain thing available for the other party to use and make profit, and the other party promises to pay rent for the leased thing and return the delivered thing when the contract is terminated.
+</t1>
+<t2> A lease becomes effective only when in writing. </t2>
+</pair>
+<pair id="R01-25-I" label="Y">
+<t1>
+Article 604
+(1) The duration of a lease may not exceed 50 years. Even if the contract prescribes a longer term, that term is considered to be 50 years.
+(2) The duration of a lease may be renewed;provided, however, that the term may not exceed 50 years from the time of the renewal.
+</t1>
+<t2> The duration of a lease may not exceed twenty years. </t2>
+</pair>
+<pair id="R01-25-U" label="Y">
+<t1>
+Article 618
+Even if the parties specify the term of a lease, the provisions of the preceding Article apply mutatis mutandis if one party reserves, or both parties reserve, the right to terminate during that period.
+Article 617
+(1) If the parties do not specify the term of a lease, either party may give a notice of termination at any time. In such cases, a lease as set forth in one of the following items terminates when the term prescribed in that item has passed after the day of the notice of termination:
+(i) leases of land: one year;
+(ii) leases of buildings: three months; and
+(iii) leases of movables and party room: one day.
+(2) With respect to leases of land with harvest seasons, the notice of termination must be given after the end of that season and before the next start of cultivation.
+</t1>
+<t2>
+Even if the parties specify the term of a lease, the lessor may request to terminate it at any time if he/she reserves the right to terminate during that period.
+</t2>
+</pair>
+<pair id="R01-25-E" label="Y">
+<t1>
+Article 619
+(1) If a lessee continues to make use or take the profits of the thing after the expiration of the term of the lease and a lessor that knows of the same raises no objection, it is presumed that a further lease is entered into under conditions identical to those of the previous lease. In such cases, each party may give a notice of termination pursuant to the provisions of Article 617.
+(2) If one of the parties has provided security for the previous lease, the security is extinguished upon expiration of the term;provided, however, that this does not apply to a security deposit prescribed in Article 622-2, paragraph (1).
+</t1>
+<t2>
+In cases where a lessee continues to make use of the land after the expiration of the term of the lease, if a lessor who knows of the same raises no objection, it shall be presumed that a further lease is entered into under conditions identical to those of the previous lease.
+</t2>
+</pair>
+<pair id="R01-25-O" label="N">
+<t1>
+Article 617
+(1) If the parties do not specify the term of a lease, either party may give a notice of termination at any time. In such cases, a lease as set forth in one of the following items terminates when the term prescribed in that item has passed after the day of the notice of termination:
+(i) leases of land: one year;
+(ii) leases of buildings: three months; and
+(iii) leases of movables and party room: one day.
+(2) With respect to leases of land with harvest seasons, the notice of termination must be given after the end of that season and before the next start of cultivation.
+</t1>
+<t2>
+In cases where the parties do not specify the term of a lease, if either party requests to terminate it, it shall be cancelled at the time of the arrival of the notice of termination to the other party.
+</t2>
+</pair>
+<pair id="R01-26-A" label="Y">
+<t1>
+Article 559
+The provisions of this Section apply mutatis mutandis to contracts for value other than contracts for sale;provided, however, that this does not apply when it is not permitted by the nature of the contract for value.
+Article 562
+(1) If the subject matter delivered to the buyer does not conform to the terms of the contract with respect to the kind, quality or quantity, the buyer may demand that the seller cure the non-conformity of performance by repairing the subject matter, delivering the substitute or delivering the replenishment;provided, however, that the seller may cure the non-conformity of performance by a method that is different from the method demanded by the buyer if it does not impose any undue burden on the buyer.
+(2) If the non-conformity referred to in the preceding paragraph is due to grounds attributable to the buyer, the buyer may not demand that the seller cure the non-conformity of performance under the provisions of that paragraph.
+</t1>
+<t2>
+If there is no significant defect in the subject matter of work and excessive costs would be required for the repair, the party ordering the work may not demand that the contractor repair the defect.
+</t2>
+</pair>
+<pair id="R01-26-I" label="Y">
+<t1>
+Article 415
+(1) If an obligor fails to perform consistent with the purpose of the obligation or the performance of an obligation is impossible, the obligee may claim compensation for loss or damage arising from the failure;provided, however, that this does not apply if the failure to perform the obligation is due to grounds not attributable to the obligor in light of the contract or other sources of obligation and the common sense in the transaction.
+(2) If the obligee is entitled to claim compensation for loss or damage pursuant to the provisions of the preceding paragraph, and any of the following cases applies, the obligee may claim compensation for loss or damage in lieu of the performance of the obligation:
+(i) the performance of the obligation is impossible;
+(ii) the obligor manifests the intention to refuse to perform the obligation; or
+(iii) the obligation has arisen from a contract, and the contract is cancelled or the obligee acquires the right to cancel the contract on the ground of the obligor's failure to perform the obligation.
+</t1>
+<t2>
+Even if there is a defect in the subject matter of work and the party ordering the work may demand that the contractor repair it, the party ordering the work may demand compensation for damages in lieu of the repair of the defect.
+</t2>
+</pair>
+<pair id="R01-26-U" label="N">
+<t1>
+Article 636
+If the contractor delivers to the party ordering work of a content the subject matter of work that does not conform to the terms of the contract with respect to the kind or quality (in the case of the subject matter of work that is not required to be delivered, if the subject matter of work does not conform to the terms of the contract with respect to the kind or quality when the work is finished), the party ordering work may not demand cure of the non-conformity of performance, demand a reduction of the remuneration, claim compensation for loss or damage, or cancel the contract, on the grounds of the non-conformity caused by the nature of the materials that the party ordering work has provided or any instructions that the relevant party has given;provided, however, that this does not apply if the contractor knew that the materials or instructions were inappropriate but did not notify the ordering party of this.
+</t1>
+<t2>
+In cases where the defect in the subject matter of the work arises due to the instructions given by the party ordering the work, even if the contractor knew that the instructions were inappropriate but did not disclose the same, he/she does not have an warranty against defects.
+</t2>
+</pair>
+<pair id="R01-26-E" label="N">
+<t1>
+Article 637
+(1) In the case prescribed in the main clause of the preceding Article, if the party ordering work fails to notify the contractor of the non-conformity to the terms of the contract within one year from the time when the party becomes aware of it, the party ordering work may not demand cure of the non-conformity of performance, demand a reduction of the remuneration, claim compensation for loss or damage, or cancel the contract.
+(2) The provisions of the preceding paragraph do not apply if the contractor knew or did not know due to gross negligence the non-conformity referred to in that paragraph at the time when the contractor delivers the subject matter of work (in the case of the subject matter of work that is not required to be delivered, when the work is finished).
+</t1>
+<t2>
+When one of the parties contracts to build, the demand for repair by the other must be made within one year from the time of the completion of work.
+</t2>
+</pair>
+<pair id="R01-26-O" label="Y">
+<t1>
+Article 559
+The provisions of this Section apply mutatis mutandis to contracts for value other than contracts for sale;provided, however, that this does not apply when it is not permitted by the nature of the contract for value.
+Article 572
+Even if the seller makes a special agreement to the effect that the seller does not warrant in the case prescribed in the main clause of Article 562, paragraph (1) or Article 565, the seller may not be released from that responsibility with respect to any fact that the seller knew but did not disclose, and with respect to any right that the seller personally created for or assigned to a third party.
+</t1>
+<t2>
+Even if the contractor agrees to a special agreement to the effect that the contractor will not be liable for the warranty against defects, the contractor may not be released from the contractor's liability with respect to facts the contractor knew and did not disclose.
+</t2>
+</pair>
+<pair id="R01-28-A" label="Y">
+<t1>
+Article 717
+(1) If a defect in the installation or preservation of a structure on land causes damage to another person, the possessor of that structure is liable to the person incurring damage to compensate for the damage;provided, however, that if the possessor has exercised the necessary care to prevent the damage, the owner must compensate for the damage.
+(2) The provisions of the preceding paragraph apply mutatis mutandis if there is a defect in the planting or supporting of bamboo or trees.
+(3) In the cases referred to in the preceding two paragraphs, if there is another person that is liable for the cause of the damage, the possessor or owner may exercise their right to reimbursement against that person.
+</t1>
+<t2>
+If any defect in the installation or preservation of any structure on land caused damages to others and A as the possessor of such structure shall be liable to the victims to compensate for those damages, when A compensated for those damages, A may have a right to remedy over against B who shall be liable for the damages.
+</t2>
+</pair>
+<pair id="R01-28-I" label="N">
+<t1>
+Article 717
+(1) If a defect in the installation or preservation of a structure on land causes damage to another person, the possessor of that structure is liable to the person incurring damage to compensate for the damage;provided, however, that if the possessor has exercised the necessary care to prevent the damage, the owner must compensate for the damage.
+(2) The provisions of the preceding paragraph apply mutatis mutandis if there is a defect in the planting or supporting of bamboo or trees.
+(3) In the cases referred to in the preceding two paragraphs, if there is another person that is liable for the cause of the damage, the possessor or owner may exercise their right to reimbursement against that person.
+</t1>
+<t2>
+Even if any defect in the planting or support of A's trees caused damages to B, if A managed them with reasonable care, A shall not be liable to compensate for the damages.
+</t2>
+</pair>
+<pair id="R01-28-U" label="Y">
+<t1>
+Article 717
+(1) If a defect in the installation or preservation of a structure on land causes damage to another person, the possessor of that structure is liable to the person incurring damage to compensate for the damage;provided, however, that if the possessor has exercised the necessary care to prevent the damage, the owner must compensate for the damage.
+(2) The provisions of the preceding paragraph apply mutatis mutandis if there is a defect in the planting or supporting of bamboo or trees.
+(3) In the cases referred to in the preceding two paragraphs, if there is another person that is liable for the cause of the damage, the possessor or owner may exercise their right to reimbursement against that person.
+</t1>
+<t2>
+If any defect in the installation or preservation of X building that A owns caused damages to B, even if the defect had arisen when the previous owner had owned X building, A as the possessor of X building shall be liable to compensate for those damages to B.
+</t2>
+</pair>
+<pair id="R01-28-E" label="N">
+<t1>
+Article 717
+(1) If a defect in the installation or preservation of a structure on land causes damage to another person, the possessor of that structure is liable to the person incurring damage to compensate for the damage;provided, however, that if the possessor has exercised the necessary care to prevent the damage, the owner must compensate for the damage.
+(2) The provisions of the preceding paragraph apply mutatis mutandis if there is a defect in the planting or supporting of bamboo or trees.
+(3) In the cases referred to in the preceding two paragraphs, if there is another person that is liable for the cause of the damage, the possessor or owner may exercise their right to reimbursement against that person.
+Article 181
+Possessory rights may be acquired through an agent.
+</t1>
+<t2>
+If A leased and transfered X building that A owns to B , B subleased and transfered it to C, B as the possessor shall not be liable to the third party to compensate for damages which any defect in the installation or preservation of X building caused.
+</t2>
+</pair>
+<pair id="R01-28-O" label="N">
+<t1>
+Article 717
+(1) If a defect in the installation or preservation of a structure on land causes damage to another person, the possessor of that structure is liable to the person incurring damage to compensate for the damage;provided, however, that if the possessor has exercised the necessary care to prevent the damage, the owner must compensate for the damage.
+(2) The provisions of the preceding paragraph apply mutatis mutandis if there is a defect in the planting or supporting of bamboo or trees.
+(3) In the cases referred to in the preceding two paragraphs, if there is another person that is liable for the cause of the damage, the possessor or owner may exercise their right to reimbursement against that person.
+</t1>
+<t2>
+In cases where any defect in the installation or preservation of any structure on land caused damages to A,if B who possesses such structure shall be liable to compensate for those damages, the owner must compensate for the damages too when B has no financial resources.
+</t2>
+</pair>
+<pair id="R01-31-A" label="Y">
+<t1>
+Article 159
+With respect to rights which the husband or wife has vis-a-vis the other spouse, the prescription period does not expire until six months have passed from the time of the dissolution of their marriage.
+</t1>
+<t2>
+With respect to any right which either husband or wife has vis-a-vis the other spouse, the prescription shall not be completed during marriage.
+</t2>
+</pair>
+<pair id="R01-36-A" label="N">
+<t1>
+Article 111
+(1) The authority to represent ceases to exist upon:
+(i) death of the principal; and
+(ii) death of the agent, or being given an order commencing bankruptcy proceeding or a decision for commencement of guardianship against the agent.
+(2) The authority to represent by mandate ceases to exist, other than on the grounds set forth in the respective items of the preceding paragraph, upon the termination of the mandate.
+</t1>
+<t2>
+The authority of agency shall not be terminated upon the death of the principal.
+</t2>
+</pair>
+<pair id="R01-36-I" label="N">
+<t1>
+Article 663
+(1) If the parties have not specified the timing of the return of the bailed thing, the bailee may return the same at any time.
+(2) If the timing of the return is specified, the bailee may not return the deposited thing prior to the due date unless there is a compelling reason to do so.
+</t1>
+<t2>
+When the depositor died, if the timing of the return is specified, the depositary may return the deposited goods prior to the due date.
+</t2>
+</pair>
+<pair id="R01-36-U" label="Y">
+<t1>
+Article 597
+(1) If the parties specify a period of a loan for use, the loan for use is terminated upon the expiration of the period.
+(2) If the parties do not specify a period of a loan for use, but they specify the purpose of using and making profit from the borrowed thing, the loan for use is terminated when the borrower finishes using and making profit from the thing in line with the purpose.
+(3) A loan for use is terminated upon the death of the borrower.
+</t1>
+<t2> Loans for use shall not lose its effect on the death of the lender. </t2>
+</pair>
+<pair id="R01-36-E" label="Y">
+<t1>
+Article 679
+Beyond the cases referred to in the preceding Article, partners withdraw on the following grounds:
+(i) the partner dies;
+(ii) the partner is subject to an order commencing bankruptcy proceeding;
+(iii) the partner is subject to a decision for the commencement of guardianship;
+(iv) the partner has been expelled.
+</t1>
+<t2> Partners shall withdraw if the partner dies. </t2>
+</pair>
+<pair id="R01-37-A" label="N">
+<t1>
+Article 400
+If the subject matter of a claim is the delivery of a specific thing, the obligor must retain the thing with the due care of a prudent manager, which is determined in light of the contract or other sources of claims and the common sense in the transaction, until the delivery.
+Article 413
+(1) If the obligee refuses, or is unable, to accept the tender of the performance of an obligation, and the subject matter of the obligation is the delivery of a specific thing, it is sufficient for the obligor to retain the thing by exercising care identical to that the obligor exercises for the obligor's own property, during the period from the time of the tender of the performance until the delivery of the thing.
+(2) If the obligee's refusal or inability to accept the performance of an obligation results in increasing the expenses for the performance, the amount of increase is borne by the obligee.
+</t1>
+<t2>
+In cases where the subject of a claim is the delivery of any specified things, the obligor must take custody of such property with due care of a prudent manager until the completion of such delivery, even if the obligee refuses, or is unable, to accept the tender of the performance of any obligation.
+</t2>
+</pair>
+<pair id="R01-37-I" label="Y">
+<t1>
+Article 400
+If the subject matter of a claim is the delivery of a specific thing, the obligor must retain the thing with the due care of a prudent manager, which is determined in light of the contract or other sources of claims and the common sense in the transaction, until the delivery.
+</t1>
+<t2>
+The obligation for the preservation which the obligor contracts with the obligee until the delivery of the specific thing can be reduced with a special contract.
+</t2>
+</pair>
+<pair id="R01-37-U" label="N">
+<t1>
+Article 400
+If the subject matter of a claim is the delivery of a specific thing, the obligor must retain the thing with the due care of a prudent manager, which is determined in light of the contract or other sources of claims and the common sense in the transaction, until the delivery.
+</t1>
+<t2>
+A donor shall assume a duty to retain the subject matter exercising care identical to that he/she exercises for his/her own property until the completion of such delivery.
+</t2>
+</pair>
+</dataset>

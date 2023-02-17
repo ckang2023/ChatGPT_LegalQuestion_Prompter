@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dataset>
+<pair id="H27-3-U" label="N">
+<t1>
+Article 101
+(1) If the validity of a manifestation of intention that an agent has made to the other party is to be influenced by the absence of intention; by mistake, fraud, or duress; or by the knowledge of or negligence in not knowing of a particular circumstance; whether or not any such fact was present is decided as it concerns the agent.
+(2) If the validity of a manifestation of intention that the other party has made to the agent is to be influenced by the recipient's knowledge of or negligence in not knowing of a particular circumstance, whether or not any such fact was present is decided as it concerns the agent.
+(3) If an agent who has been entrusted with performing a specific juridical act performs that act, the principal may not assert that the agent did not know of any particular circumstance of which the principal knew. The same applies to any circumstance of which the principal did not know due to the principal's own negligence.
+Article 96
+(1) A manifestation of intention based on fraud or duress is voidable.
+(2) If a third party commits a fraud inducing a first party to make a manifestation of intention to a second party, that manifestation of intention is voidable only if the second party knew or could have known that fact.
+(3) The rescission of a manifestation of intention induced by fraud under the provisions of the preceding two paragraphs may not be duly asserted against a third party in good faith acting without negligence.
+</t1>
+<t2>
+In the case where B, who was granted authority of agency to buy a land as an agent of A, concluded a contract for sale of a land &quot;X&quot; with C representing that the same is made on behalf of A by the fraud of C to B, A may not rescind the contract for sale.
+</t2>
+</pair>
+<pair id="H27-3-E" label="N">
+<t1>
+Article 108
+(1) An act that a person performs as an agent of the counterparty or as agent of both parties for the same juridical act is deemed to be an act performed by a person without authority to represent;provided, however, that this does not apply to the performance of an obligation or to an act authorized by the principal in advance.
+(2) Beyond what is provided for in the main clause of the preceding paragraph, an act for which the interest of the agent conflicts with the interest of the principal is deemed to be an act performed by a person without authority to represent;provided, however, that this does not apply to an act authorized by the principal in advance.
+</t1>
+<t2>
+In the case where B, who was granted authority of agency to buy a land as an agent of A, was granted authority of agency to sell the land by C, became the agent of C, and concluded a contract for sale of a land &quot;X&quot; between A and C, if B notified to both A and C in advance that B was the agent of both parties, the contract for sale binds A and C.
+</t2>
+</pair>
+<pair id="H27-5-U" label="Y">
+<t1>
+Article 134
+A juridical act subject to a condition precedent is void if the condition is dependent only upon the intention of the obligor.
+</t1>
+<t2>
+Even though A promised B that A would give his/her car &quot;X&quot; when A would feel like it, the contract for gifts shall be void.
+</t2>
+</pair>
+<pair id="H27-5-E" label="Y">
+<t1>
+Article 128
+While it is uncertain whether or not a condition will be fulfilled, a party to a juridical act that is subject to a condition may not prejudice the other party's interests that would arise from the juridical act upon fulfillment of the condition.
+</t1>
+<t2>
+In cases where A promised B that A would give his/her car &quot;X&quot; when B would pass a graduation examination of the medical department, if A sells his/her car &quot;X&quot; to a third party C, B may claim for the compensation for damages arising from A's act.
+</t2>
+</pair>
+<pair id="H27-6-1" label="N">
+<t1>
+Article 152
+(1) If a right is acknowledged, a new period of prescription commences to run at the time of the acknowledgment.
+(2) With respect to the disposition of the right of the other party, an acknowledgment referred to in the preceding paragraph does not require unlimited capacity to act or authority.
+</t1>
+<t2>
+In cases where an obligor who is a person under curatorship acknowledge the obligation without the consent of his/her curator, the prescription of the claim shall not be nullified.
+</t2>
+</pair>
+<pair id="H27-6-2" label="Y">
+<t1>
+Article 152
+(1) If a right is acknowledged, a new period of prescription commences to run at the time of the acknowledgment.
+(2) With respect to the disposition of the right of the other party, an acknowledgment referred to in the preceding paragraph does not require unlimited capacity to act or authority.
+Article 467
+(1) The assignment of a claim (including the assignment of a claim that is yet to arise) may not be duly asserted against the applicable obligor or any other third party, unless the assignor gives notice thereof to the obligor or the obligor has consented to the same.
+(2) Notice or consent as referred to in the preceding paragraph may not be duly asserted against a third party other than the obligor unless the notice or the consent is made using an instrument bearing a certified date.
+</t1>
+<t2>
+In cases where the obligee assigned a claim to any third party before the lapse of the period of prescription, if the obligor has acknowledged the assignment of a claim to the assignee, the prescription of the claim shall be nullified.
+</t2>
+</pair>
+<pair id="H27-11-A" label="Y">
+<t1>
+Article 293
+If a servitude holder does not exercise a portion of that holder's rights, only that portion is extinguished by prescription.
+</t1>
+<t2>
+If a person entitled to a servitude does not exercise a portion of his/her rights, only that portion shall be extinguished by prescription.
+</t2>
+</pair>
+<pair id="H27-11-I" label="N">
+<t1>
+Article 280
+A servitude holder has the right to use another person's land for the convenience of their own lands in accordance with purposes prescribed in the act establishing the servitude;provided, however, that this right must not violate the provisions (limited to those that relate to public policy) under Section 1 of Chapter 3 (Extent of Ownership).
+</t1>
+<t2>
+The owner of the dominant land may not assign the servitude apart from the dominant land.
+</t2>
+</pair>
+<pair id="H27-11-U" label="N">
+<t1>
+Article 282
+(1) One of the co-owners of land may not terminate, with respect to that owner's own interest, a servitude that exists on behalf of or in relation to the land.
+(2) If the land is partitioned or a portion thereof is transferred to another person, the servitude exists on behalf of or in relation to the respective portions of the same;provided, however, that this does not apply if the servitude, by its nature, relates only to a portion of the land.
+</t1>
+<t2>
+In cases where dominant land is co-owned by more than one person, one of the co-owners of dominant land may renounce his/her own share a servitude that exists on behalf of the land.
+</t2>
+</pair>
+<pair id="H27-11-E" label="Y">
+<t1>
+Article 292
+If dominant land is co-owned by more than one person, and expiry of prescription period is postponed or prescription period is renewed in favor of one co-owner, the postponement of expiry of prescription period or the renewal of prescription period is also effective for the benefit of other co-owners.
+</t1>
+<t2>
+In cases where dominant land is co-owned by more than one person, if there is a interruption of prescription in favor of one co-owner, such interruption shall also be effective for the benefit of other co-owners.
+</t2>
+</pair>
+<pair id="H27-11-O" label="Y">
+<t1>
+Article 281
+(1) Servitudes are transferred together with the ownership in the dominant land (meaning the land of a servitude holder, enjoying benefits from another person's land; the same applies hereinafter) as appurtenances thereof, and are subject of other rights that exist in relation to the dominant land;provided, however, that this does not apply if the act establishing the servitude provides otherwise.
+(2) Servitudes may neither be transferred nor made the subject of other rights apart from the dominant land.
+</t1>
+<t2>
+A servitude may not be established with respect to the land, not neighboring a deminant land, as a servient land.
+</t2>
+</pair>
+<pair id="H27-12-E" label="N">
+<t1>
+Article 334
+If there is conflict between a statutory lien and a pledge on movables, the pledgee of those movables has the same rights as those of the holder of a statutory lien of the first rank under Article 330.
+Article 330
+(1) If there are competing special statutory liens against the same movables, the order of priority follows the order set forth below.In this case, if there are two or more preservers with respect to the statutory liens for preservation of movables set forth in item (ii), a new preserver has priority over previous preservers:
+(i) statutory liens for leases of immovables, lodging at hotels and transportation;
+(ii) statutory liens for the preservation of movables; and
+(iii) statutory liens for the sale of movables, the supply of seeds and seedlings or fertilizer, agricultural labor and industrial labor.
+(2) In the cases referred to in the preceding paragraph, if a holder of a statutory lien ranked first knew at the time of acquiring the relevant claim of the existence of a holder of a statutory lien of the second or third rank, that holder may not exercise the relevant rights of priority against those persons. The same applies to the exercise against persons that have preserved things on behalf of the holder of a statutory lien of the first rank.
+(3) Regarding fruits, the first rank belongs to persons who engage in agricultural labor, the second rank belongs to persons that supply seeds and seedlings or fertilizer, and the third rank belongs to lessors of land.
+</t1>
+<t2>
+In cases where a pledge is created with respect to the subject matter of the statutory lien for sale of movables, the statutory lien for sale of movables shall prevail over the pledge.
+</t2>
+</pair>
+<pair id="H27-19-I" label="Y">
+<t1>
+Article 484
+(1) Unless a particular intention is manifested with respect to the place where the performance should take place, the delivery of a specific thing must be effected at the place where that thing was located when the relevant claim accrued, and the discharge of any other obligation must be effected at the current domicile of the obligee.
+(2) If the trading hours are specified by laws and regulations or customs, performance may be made or demanded only within the trading hours.
+</t1>
+<t2>
+If the borrower in loan of consumption of monies tenders any performance which is not sufficient to extinguish the total amount of the principal, the interest and the expense, he/she may designate the principal to which such performance should be allocated before any others, and the designation of the allocation shall be effected unless the lender immediately raises his/her objection.
+</t2>
+</pair>
+<pair id="H27-19-U" label="N">
+<t1>
+Article 485
+Unless a particular intention is manifested with respect to the expenses of performance, those expenses are borne by the obligor;provided, however, that if the obligee caused the expenses of performance to increase by relocating the domicile thereof or taking any other act, the amount of increase due to this is borne by the obligee.
+</t1>
+<t2>
+Unless any other intention is manifested with respect to the expense of performance, such expenses shall be borne equally by both the obligor and the obligee; however, in cases the relevant obligee caused the expense of performance to increase by relocating his/her domicile or taking any other actions, such incremental amount shall be borne by the obligee.
+</t2>
+</pair>
+<pair id="H27-19-O" label="N">
+<t1>
+Article 489
+(1) If the obligor is liable to pay interest and expenses in addition to principal with respect to one or more obligations (if the obligor bears two or more obligations, limited to when the obligor bears these obligations requiring the same kind of payment or delivery to the same obligee), and the person that performs the obligations makes payment or delivery which is not sufficient to extinguish the obligation in its entirety must be appropriated first to expenses, and then to interest and principal, in this order.
+(2) The provisions of the preceding Article apply mutatis mutandis in the case referred to in the preceding paragraph in which the person makes payment or delivery which is not sufficient to extinguish any of expenses, interest or principal in whole.
+</t1>
+<t2>
+Unless any other intention is manifested with respect to the place where the performance should take place, the delivery of a specific thing must be effected at the place where such thing was located when the relevant claim accrued, and the discharge of any other obligation must be effected at the current domicile of the obligee.
+</t2>
+</pair>
+<pair id="H27-20-A" label="N">
+<t1>
+Article 511
+(1) A third party obligor of a claim which has been attached may not assert sett-off as defense with any claim acquired after the attachment against the attaching obligee, but may duly assert against the same a set-off based using a claim acquired before the attachment.
+(2) Notwithstanding the provisions of the preceding paragraph, if a claim acquired after the attachment has arisen from a cause that existed before the attachment, the third party obligor may use that claim for a set-off against the attaching obligee;provided, however, that this does not apply if the third party obligor acquires the claim of another person after the attachment.
+</t1>
+<t2>
+If B who had been enjoined from making payment with respect to A's claim &quot;X&quot; against B acquires the claim &quot;Y&quot; against A, B may set off the claim &quot;X&quot; against the claim &quot;Y&quot;.
+</t2>
+</pair>
+<pair id="H27-20-E" label="Y">
+<t1>
+Article 509
+The obligor of either of the following obligations may not duly assert a set-off against the obligee;provided, however, that this does not apply if the obligee acquires a claim corresponding to the relevant obligation from another person:
+(i) an obligation for compensation for loss or damage based on a tort committed in bad faith; or
+(ii) an obligation for compensation for loss or damage for death or injury to person (excluding the one set forth in the preceding item).
+</t1>
+<t2>
+If any claim arises from a tortious act, the relevant obligee may assert the set-off against the obligor.
+</t2>
+</pair>
+<pair id="H27-21-E" label="N">
+<t1>
+Article 545
+(1) If one of the parties exercises the right to cancel, each party assumes an obligation to restore the other party to that other party's original state;provided, however, that this may not prejudice the rights of a third party.
+(2) In the case referred to in the main clause of the preceding paragraph, if any monies are to be refunded, interest must accrue from the time of the receipt of those monies.
+(3) In the case referred to in the main clause of paragraph (1), if a thing other than money is to be returned, fruits that have accrued on or after the time of the receipt of the thing must also be returned.
+(4) The exercise of the right to cancel does not preclude claims for compensation for loss or damage.
+Article 546
+The provisions of Article 533
+apply mutatis mutandis to the preceding Article.
+Article 533
+A party to a bilateral contract may refuse to perform that party's own obligation until the other party tenders the performance of that other party's obligation (including the performance of an obligation to compensate for loss or damage in lieu of the performance of an obligation);provided, however, that this does not apply if the obligation of the other party is not yet due.
+</t1>
+<t2>
+In cases where, as a result of the cancellation of the contract for sale, each party assumes an obligation to restore the other party to that other party's original position, the obligations of both parties are not related to each other as simultaneous performance.
+</t2>
+</pair>
+<pair id="H27-22-1" label="N">
+<t1>
+Article 415
+(1) If an obligor fails to perform consistent with the purpose of the obligation or the performance of an obligation is impossible, the obligee may claim compensation for loss or damage arising from the failure;provided, however, that this does not apply if the failure to perform the obligation is due to grounds not attributable to the obligor in light of the contract or other sources of obligation and the common sense in the transaction.
+(2) If the obligee is entitled to claim compensation for loss or damage pursuant to the provisions of the preceding paragraph, and any of the following cases applies, the obligee may claim compensation for loss or damage in lieu of the performance of the obligation:
+(i) the performance of the obligation is impossible;
+(ii) the obligor manifests the intention to refuse to perform the obligation; or
+(iii) the obligation has arisen from a contract, and the contract is cancelled or the obligee acquires the right to cancel the contract on the ground of the obligor's failure to perform the obligation.
+Article 542
+(1) In the following cases, the obligee may immediately cancel the contract without making the demand referred to in the preceding Article:
+(i) if the performance of the whole of the obligation is impossible;
+(ii) if the obligor unequivocally manifests the intention to refuse to perform the obligation in whole;
+(iii) if the performance of part of the obligation is impossible, or if the obligor clearly manifests the intention to refuse to perform part of the obligation and the purpose of the contract cannot be achieved by the performance of the remaining part of the obligation;
+(iv) if, due to the nature of the contract or a manifestation of intention by the parties, the purpose of the contract cannot be achieved unless the obligation is performed at a specific time on a specific date or within a certain period of time, and the obligor fails to perform the obligation at that time or before that period of time expires; or
+(v) beyond the cases set forth in the preceding items, if the obligor does not perform the obligation and it is obvious that the obligor is unlikely to perform the obligation to the extent necessary to achieve the purpose of the contract even if the obligee makes the demand referred to in the preceding Article.
+(2) In the following cases, the obligee may immediately cancel a part of the contract without making the demand referred to in the preceding Article:
+(i) the performance of the part of the obligation is impossible; or
+(ii) the obligor clearly manifests the intention to refuse to perform the part of the obligation.
+Article 543
+If non-performance of an obligation is due to grounds attributable to the obligee, the obligee may not cancel the contract under the preceding two Articles.
+</t1>
+<t2>
+In the case of a contract for sale of a specified thing, if the performance of the delivery has become impossible due to reason attributable to the seller, the effect of the contract of sale shall be lost by operation of law, then the buyer shall be relieved of liability for payment of the purchase money.
+</t2>
+</pair>
+<pair id="H27-22-3" label="Y">
+<t1>
+Article 632
+A contract for work become effective when one of the parties promises to complete work and the other party promises to pay remuneration for the outcome of the work.
+</t1>
+<t2>
+In the contract for work for the purpose of constructing a building, even if the building under construction has been lost due to reasons not attributable to either party, the contractor may not claim the entire remuneration from the party ordering the work unless he/she contructs any new builidng and complete the work.
+</t2>
+</pair>
+<pair id="H27-22-4" label="Y">
+<t1>
+Article 665
+The provisions of Articles 646 through 648, Article 649, and Article 650, paragraphs (1) and (2) apply mutatis mutandis to bailments.
+Article 648
+(1) In the absence of any special agreements, the mandatary may not claim remuneration from the mandator.
+(2) If a mandatary is to receive remuneration, the mandatary may not claim this until after having performed the mandated business;provided, however, that if the remuneration is specified with reference to period, the provisions of Article 624, paragraph (2) apply mutatis mutandis.
+(3) In the following cases, the mandatary may demand remuneration in proportion to the performance already completed:
+(i) if the mandatary is no longer able to perform the mandated business due to any grounds not attributable to the mandator; or
+(ii) if the mandate is terminated during the course of performance.
+Article 536
+(1) If the performance of an obligation becomes impossible due to grounds not attributable to either party, the obligee may refuse to perform counter-performance.
+(2) If the performance of an obligation becomes impossible due to grounds attributable to the obligee, the obligee may not refuse to complete counter-performance. In such a case, if the obligor benefits from being released from that obligation, the obligor must reimburse the obligee for the benefit.
+</t1>
+<t2>
+In the contract for deposit for value, if the performance of the obligation to return deposited Thing has become impossible due to reasons not attributable to the depositary, he/she may not claim remuneration from the depositor, with respect to the period after the impossibility of performance of the agreed duration.
+</t2>
+</pair>
+<pair id="H27-23-A" label="Y">
+<t1>
+Article 601
+A lease becomes effective if one of the parties promises to make a certain thing available for the other party to use and make profit, and the other party promises to pay rent for the leased thing and return the delivered thing when the contract is terminated.
+Article 587
+A loan for consumption becomes effective when a first party receives money or any other thing from a second party, having promised to return a thing of the same type, quality, and quantity.
+</t1>
+<t2>
+In the cases where a lessor is the owner of the subject matter in a contract for lease, the ownership of the subject matter shall not be transfered to the lessee, on the other hand, in the cases where a lender is the owner of the subject matter in a contract for loan for consumption, the ownership of the subject matter shall be transfered to the borrower.
+</t2>
+</pair>
+<pair id="H27-23-I" label="N">
+<t1>
+Article 601
+A lease becomes effective if one of the parties promises to make a certain thing available for the other party to use and make profit, and the other party promises to pay rent for the leased thing and return the delivered thing when the contract is terminated.
+Article 587
+A loan for consumption becomes effective when a first party receives money or any other thing from a second party, having promised to return a thing of the same type, quality, and quantity.
+</t1>
+<t2>
+If the parties do not specify the term of a lease, the lessee may request to terminate it at any time.
+On the other hand, if the parties do not define the time for return in a loan for consumption, the borrower may request to terminate it any time only in a loan for consumption without interest.
+</t2>
+</pair>
+<pair id="H27-23-U" label="Y">
+<t1>
+Article 614
+Rent must be paid at the end of the month with respect to movables, buildings and land for residential purpose, and at the end of the year with respect to other land;provided, however, that with respect to anything with a harvest season, the rent must be paid without delay after that season.
+</t1>
+<t2>
+Both the timing of payment of rent in a contract for lease and the timing of payment of interest in a contract for loan for consumption may freely be determined by the agreement of the parties.
+</t2>
+</pair>
+<pair id="H27-23-E" label="N">
+<t1>
+Article 617
+(1) If the parties do not specify the term of a lease, either party may give a notice of termination at any time. In such cases, a lease as set forth in one of the following items terminates when the term prescribed in that item has passed after the day of the notice of termination:
+(i)
+(ii)
+(iii)
+(2) With respect to leases of land with harvest seasons, the notice of termination must be given after the end of that season and before the next start of cultivation.
+Article 591
+(1) If the parties do not define the time for return of borrowed things, the lender may demand their return, specifying a reasonable period of time.
+(2) The borrower may return the borrowed thing at any time, irrespective of whether the parties have defined the time of return of the thing.
+(3) If the parties defined the time of return of the borrowed thing, and the lender sustains any damage because the borrower returns the thing prior to the time of return, the lender may claim compensation therefor from the borrower.
+</t1>
+<t2>
+In cases where the parties do not specify the term of a lease, if the lessor requests to terminate it, the lessee shall not be responsible for the delay within the statutory period without returning the Things; however, in cases where the parties do not define the time for return in a loan for consumption, if the lender demands their return, the borrower shall be resposible for the delay unless he/she returns the Things immediately.
+</t2>
+</pair>
+<pair id="H27-23-O" label="N">
+<t1>
+Article 617
+(1) If the parties do not specify the term of a lease, either party may give a notice of termination at any time. In such cases, a lease as set forth in one of the following items terminates when the term prescribed in that item has passed after the day of the notice of termination:
+(i)
+(ii)
+(iii)
+(2) With respect to leases of land with harvest seasons, the notice of termination must be given after the end of that season and before the next start of cultivation.
+Article 591
+(1) If the parties do not define the time for return of borrowed things, the lender may demand their return, specifying a reasonable period of time.
+(2) The borrower may return the borrowed thing at any time, irrespective of whether the parties have defined the time of return of the thing.
+(3) If the parties defined the time of return of the borrowed thing, and the lender sustains any damage because the borrower returns the thing prior to the time of return, the lender may claim compensation therefor from the borrower.
+</t1>
+<t2>
+A contract for lease is a consensual contract so that a contract for lease shall be formed by the agreement between the perties.
+On the other hand, a contract for loan for consumption is a contract in kind, so that even if the perties promises that one of the parties will deliver money or other things and the other party will return by means of things that are the same in kind, quality and quantity, the agreement shall be void.
+</t2>
+</pair>
+<pair id="H27-24-1" label="Y">
+<t1>
+Article 595
+(1) The borrower bears the ordinarily necessary expenses of borrowed thing.
+(2) The provisions of Article 583, paragraph (2) apply mutatis mutandis to costs other than the ordinarily necessary expenses referred to in the preceding paragraph.
+Article 608
+(1) If a lessee has defrayed necessary expenses with respect to the leased thing which ought to be borne by the lessor, the lessee may immediately demand the reimbursement of the same from the lessor.
+(2) If the lessee has incurred beneficial expenses with respect to the leased thing, the lessor must reimburse those expenses on termination of the lease in compliance with the provisions of Article 196, paragraph (2);provided, however, that the court may, at the lessor's request, grant a reasonable period of time for the reimbursement of the same.
+</t1>
+<t2>
+The borrower shall bear the ordinarily necessary costs of borrowed Things.
+The lessee shall not bear the ordinarily necessary costs of leased Things.
+</t2>
+</pair>
+<pair id="H27-24-2" label="N">
+<t1>
+Article 594
+(1) A borrower must make use of and take the profits of the thing in compliance with the method of use specified by the contract or by the nature of the thing which is the subject matter of the contract.
+(2) A borrower may not allow third parties to make use of or take the profits of the thing without obtaining the approval of the lender.
+(3) If a borrower has made use of or taken the profits of the thing in violation of the provisions of the preceding two paragraphs, the lender may cancel the contract.
+Article 616
+The provisions of Article 594, paragraph (1) apply mutatis mutandis to leases.
+</t1>
+<t2>
+A borrower must make use of and take the profits of the Thing which is the subject matter of the contract in compliance with the method of use specified by the contract or by the nature of the Thing which is the subject matter of the contract.
+A lessee need not make use of and take the profits of the Thing which is the subject matter of the contract in compliance with the method of use specified by the contract or by the nature of the Thing which is the subject matter of the contract.
+</t2>
+</pair>
+<pair id="H27-24-3" label="N">
+<t1>
+Article 597
+(1) If the parties specify a period of a loan for use, the loan for use is terminated upon the expiration of the period.
+(2) If the parties do not specify a period of a loan for use, but they specify the purpose of using and making profit from the borrowed thing, the loan for use is terminated when the borrower finishes using and making profit from the thing in line with the purpose.
+(3) A loan for use is terminated upon the death of the borrower.
+</t1>
+<t2>
+Loans for use shall lose its effect on the death of the lender by operation of law.
+Leases shall not lose its effect on the death of the lessor by operation of law.
+</t2>
+</pair>
+<pair id="H27-24-4" label="N">
+<t1>
+Article 599
+(1) If the borrower attaches anything to the borrowed thing after receiving it, the borrower has an obligation to remove the attached thing when the loan for use is terminated;provided, however, that this does not apply to anything that is unable to be detached from the borrowed thing or that requires excessive expenses for the detachment.
+(2) The borrower may remove anything that the borrower has attached to the borrowed thing after receiving it.
+(3) If any damage is caused to the borrowed thing after the borrower receives it, the borrower has an obligation to restore the damaged thing when the loan for use is terminated;provided, however, that this does not apply if the damage is caused due to any grounds not attributable to the borrower.
+Article 616
+The provisions of Article 594, paragraph (1) apply mutatis mutandis to leases.
+</t1>
+<t2>
+A borrower must restore a borrowed Thing to its original condition on termination of the loan for use, but the borrower must obtain the consent of the lender to remove anything attached to the borrowed Thing.
+A lessee must restore a leased Thing to its original condition on termination of the lease, but the lessee need not obtain the consent of the lessor to remove anything attached to the leased Thing.
+</t2>
+</pair>
+<pair id="H27-25-A" label="Y">
+<t1>
+Article 613
+(1) If a lessee lawfully subleases a leased thing, the sublessee is liable to perform an obligation based on the sublease directly to the lessor, to the extent of the scope of the lessee's obligation based on the lease between the lessor and the lessee. In such a case, advance payment of rent may not be duly asserted against the lessor.
+(2) The provisions of the preceding paragraph do not preclude the lessor from exercising rights against the lessee.
+(3) If the lessee lawfully subleases a leased thing, the lessor may not duly assert against the sublessee the cancellation by agreement of the lease with the lessee;provided, however, that this does not apply if, at the time of the cancellation, the lessor has a right to cancel due to non-performance on the part of the lessee.
+Article 601
+A lease becomes effective if one of the parties promises to make a certain thing available for the other party to use and make profit, and the other party promises to pay rent for the leased thing and return the delivered thing when the contract is terminated.
+Article 606
+(1) A lessor assumes an obligation to effect repairs necessary for using and making profit of the leased thing;provided, however, that this does not apply if repairs are necessary due to any grounds attributable to the lessee.
+(2) A lessee may not refuse if the lessor seeks to engage in an act that is necessary for the preservation of the leased thing.
+</t1>
+<t2>
+A concluded the contract with B that A leases his/her two-storied building &quot;X&quot; at a charge of 500,000 yen a month, and delivered the building &quot;X&quot; to B.
+After that, B concluded the contract with C that B subleases the building &quot;X&quot; at a charge of 500,000 yen a month with obtaining the approval of A, and delivered the building &quot;X&quot; to C.
+After a while, C became unable to use the second story of the building &quot;X&quot; due to the leak caused by defect of the roof.
+C may demand B to repair the defect of the roof of the building &quot;X&quot;.
+</t2>
+</pair>
+<pair id="H27-26-A" label="N">
+<t1>
+Article 641
+The party ordering work may cancel the contract at any time whilst the contractor has not completed the work by paying compensation for loss or damage.
+</t1>
+<t2>
+The party ordering work may cancel the contract by compensating any damages, even if the contractor has completed the work with the purpose of its obligation.
+</t2>
+</pair>
+<pair id="H27-26-U" label="Y">
+<t1>
+Article 642
+(1) If the party ordering work receives an order commencing bankruptcy proceeding, the contractor or the bankruptcy trustee may cancel the contract;provided, however, that this does not apply to the cancellation of the contract by the contractor after the work is completed.
+(2) In the case prescribed in the preceding paragraph, the contractor may participate in the distribution of the bankruptcy estate with respect to the remuneration for the work already completed and expenses not included therein.
+(3) In the cases referred to in paragraph (1), claims for compensation for loss or damage suffered as a result of the cancellation of the contract are permitted only for contractors under contracts cancelled by the bankruptcy trustee. In such a case, the contractors participate in the distribution of the bankruptcy estate with respect to such compensation for loss or damage.
+</t1>
+<t2>
+In cases where the party ordering work is subject to a ruling for the commencement of bankruptcy procedures, the contractor may cancel the contract.
+</t2>
+</pair>
+<pair id="H27-27-A" label="N">
+<t1>
+Article 559
+The provisions of this Section apply mutatis mutandis to contracts for value other than contracts for sale;provided, however, that this does not apply when it is not permitted by the nature of the contract for value.
+Article 562
+(1) If the subject matter delivered to the buyer does not conform to the terms of the contract with respect to the kind, quality or quantity, the buyer may demand that the seller cure the non-conformity of performance by repairing the subject matter, delivering the substitute or delivering the replenishment;provided, however, that the seller may cure the non-conformity of performance by a method that is different from the method demanded by the buyer if it does not impose any undue burden on the buyer.
+(2) If the non-conformity referred to in the preceding paragraph is due to grounds attributable to the buyer, the buyer may not demand that the seller cure the non-conformity of performance under the provisions of that paragraph.
+</t1>
+<t2>
+In the case where the delivery of the subject matter of work performed is required, if the defect in the subject matter is evident at the time of the delivery of it, the contractor shall not be liable for the warranty against defects.
+</t2>
+</pair>
+<pair id="H27-27-I" label="Y">
+<t1>
+Article 559
+The provisions of this Section apply mutatis mutandis to contracts for value other than contracts for sale;provided, however, that this does not apply when it is not permitted by the nature of the contract for value.
+Article 562
+(1) If the subject matter delivered to the buyer does not conform to the terms of the contract with respect to the kind, quality or quantity, the buyer may demand that the seller cure the non-conformity of performance by repairing the subject matter, delivering the substitute or delivering the replenishment;provided, however, that the seller may cure the non-conformity of performance by a method that is different from the method demanded by the buyer if it does not impose any undue burden on the buyer.
+(2) If the non-conformity referred to in the preceding paragraph is due to grounds attributable to the buyer, the buyer may not demand that the seller cure the non-conformity of performance under the provisions of that paragraph.
+Article 564
+The provisions of the preceding two Articles do not preclude the buyer from claiming compensation for loss or damage pursuant to the provisions of Article 415
+or exercising the right to cancel pursuant to the provisions of Articles 541 and 542.
+Article 415
+(1) If an obligor fails to perform consistent with the purpose of the obligation or the performance of an obligation is impossible, the obligee may claim compensation for loss or damage arising from the failure;provided, however, that this does not apply if the failure to perform the obligation is due to grounds not attributable to the obligor in light of the contract or other sources of obligation and the common sense in the transaction.
+(2) If the obligee is entitled to claim compensation for loss or damage pursuant to the provisions of the preceding paragraph, and any of the following cases applies, the obligee may claim compensation for loss or damage in lieu of the performance of the obligation:
+(i) the performance of the obligation is impossible;
+(ii) the obligor manifests the intention to refuse to perform the obligation; or
+(iii) the obligation has arisen from a contract, and the contract is cancelled or the obligee acquires the right to cancel the contract on the ground of the obligor's failure to perform the obligation.
+</t1>
+<t2>
+Where no delivery of the subject matter is required, the duration of contractor's warranty commences to run from the time of the completion of the work.
+</t2>
+</pair>
+<pair id="H27-27-U" label="Y">
+<t1>
+Article 636
+If the contractor delivers to the party ordering work of a content the subject matter of work that does not conform to the terms of the contract with respect to the kind or quality (in the case of the subject matter of work that is not required to be delivered, if the subject matter of work does not conform to the terms of the contract with respect to the kind or quality when the work is finished), the party ordering work may not demand cure of the non-conformity of performance, demand a reduction of the remuneration, claim compensation for loss or damage, or cancel the contract, on the grounds of the non-conformity caused by the nature of the materials that the party ordering work has provided or any instructions that the relevant party has given;provided, however, that this does not apply if the contractor knew that the materials or instructions were inappropriate but did not notify the ordering party of this.
+</t1>
+<t2>
+If the defect in the subject matter of the work arises due to the nature of the materials supplied by, or instructions given by, the party ordering the work, the contractor is not liable for the warranty against the defect unless the contractor knew that the materials or instructions were inappropriate but did not disclose the same.
+</t2>
+</pair>
+<pair id="H27-27-E" label="Y">
+<t1>
+Article 559
+The provisions of this Section apply mutatis mutandis to contracts for value other than contracts for sale;provided, however, that this does not apply when it is not permitted by the nature of the contract for value.
+Article 564
+The provisions of the preceding two Articles do not preclude the buyer from claiming compensation for loss or damage pursuant to the provisions of Article 415
+or exercising the right to cancel pursuant to the provisions of Articles 541 and 542.
+</t1>
+<t2>
+In cases where there is any defect in the subject matter of work performed, if the repair of the defect is impossible, the party ordering the work may cancel the contract.
+</t2>
+</pair>
+<pair id="H27-27-O" label="N">
+<t1>
+Article 637
+(1) In the case prescribed in the main clause of the preceding Article, if the party ordering work fails to notify the contractor of the non-conformity to the terms of the contract within one year from the time when the party becomes aware of it, the party ordering work may not demand cure of the non-conformity of performance, demand a reduction of the remuneration, claim compensation for loss or damage, or cancel the contract.
+(2) The provisions of the preceding paragraph do not apply if the contractor knew or did not know due to gross negligence the non-conformity referred to in that paragraph at the time when the contractor delivers the subject matter of work (in the case of the subject matter of work that is not required to be delivered, when the work is finished).
+</t1>
+<t2>
+If there is any defect in the subject matter of work performed, the party ordering the work may demand compensation for damages in lieu of, or in addition to, the repair of the defect.
+</t2>
+</pair>
+<pair id="H27-28-A" label="N">
+<t1>
+Article 711
+A person that has taken the life of another must compensate for loss or damage to the father, mother, spouse, and children of the victim, even if the property rights of the same have not been infringed.
+</t1>
+<t2>
+A person who has taken the life of another must compensate for damages only to heirs of the victim.
+</t2>
+</pair>
+<pair id="H27-28-U" label="Y">
+<t1>
+Article 715
+(1) A person that employs another person for a business undertaking is liable to compensate for damage inflicted on a third party by that person's employees with respect to the execution of that business;provided, however, that this does not apply if the employer exercised reasonable care in appointing the employee or in supervising the business, or if the damage could not have been avoided even if the employer had exercised reasonable care.
+(2) A person that supervises a business on behalf of the employer also has the liability referred to in the preceding paragraph.
+(3) The provisions of the preceding two paragraphs do not preclude the employer or supervisor from exercising their right to reimbursement against the employee.
+</t1>
+<t2>
+A person who employs others for a certain business shall be liable for damages inflicted on a third party by his/her employees with respect to the execution of that business, and this shall apply even if the employees have the sufficient financial resources to compensate.
+</t2>
+</pair>
+<pair id="H27-35-A" label="Y">
+<t1>
+Article 20
+(1) After a person with qualified legal capacity who is involved in dealings with another party becomes a person with the legal capacity to act (meaning a person whose legal capacity to act is not subject to restrictions; the same applies hereinafter), the other party to those dealings may fix a period of one month or longer and demand that the person give a definite answer within that period of time as to whether the person will ratify an act that the person may rescind. In such a case, if the person fails to send a definite answer within that period of time, the person is deemed to have ratified that act.
+(2) The second sentence of the preceding paragraph also applies if, before the person with qualified legal capacity becomes a person with the legal capacity to act, the other party to dealings involving the person with qualified legal capacity lodges the demand prescribed in the preceding paragraph with the legal representative, curator, or assistant of that person with respect to an act within the scope of their authority, and they fail to send a definite answer within the fixed period of time referred to in that paragraph.
+(3) If a person does not send notice within the period of time set forth in the preceding two paragraphs indicating that the person has completed any special formalities that an act requires, the person is deemed to have rescinded that act.
+(4) The other party to dealings involving a person with qualified legal capacity may lodge a demand with a person under curatorship or with a person under assistance who is subject to a decision as referred to in Article 17, paragraph (1) to demand that the person get the curator or assistant to ratify an act within the fixed period referred to in paragraph (1). In such a case, if the person under curatorship or person under assistance does not send notice within that period indicating that the person has gotten the curator or assistant to ratify the act in question, the person is deemed to have rescinded that act.
+Article 13
+(1) A person under curatorship must obtain the consent of the curator in order to perform any of the following acts;provided, however, that this does not apply to an act provided for in the proviso of Article 9:
+(i) receiving or using any property producing civil fruit;
+(ii) borrowing money or guaranteeing an obligation;
+(iii) performing an act with the purpose of acquiring or losing any right regarding immovables or other significant property;
+(iv) suing any procedural act;
+(v) giving a gift, reaching a settlement, or entering into an arbitration agreement (meaning an arbitration agreement as provided in Article 2, paragraph (1) of the Arbitration Act (Act No. 138 of 2003));
+(vi) accepting or renouncing a succession or dividing an estate;
+(vii) refusing an offer of a gift, renouncing a legacy, accepting an offer of gift with burden, or accepting a legacy with burden;
+(viii) constructing a new building, renovating, expanding, or undertaking major repairs;
+(ix) granting a lease for a term that exceeds the period set forth in Article 602; or
+(x) performing any of the acts set forth in the preceding items as a legal representative of a person with qualified legal capacity (meaning a minor, adult ward, or person under curatorship or a person under assistance who is subject to a decision as referred to in Article 17, paragraph (1); the same applies hereinafter).
+(2) At the request of a person as referred to in the main clause of Article 11
+or the curator or curator's supervisor, the family court may decide that the person under curatorship must also obtain the consent of the curator before performing an act other than those set forth in each of the items of the preceding paragraph;provided, however, that this does not apply to an act provided for in the proviso to Article 9.
+(3) If the curator does not consent to an act for which the person under curatorship must obtain the curator's consent even though it is unlikely to prejudice the interests of the person under curatorship, the family court may grant permission that operates in lieu of the curator's consent at the request of the person under curatorship.
+(4) An act for which the person under curatorship must obtain the curator's consent is voidable if the person performs it without obtaining the curator's consent or a permission that operates in lieu of it.
+</t1>
+<t2>
+In cases where the person who has concluded the contract for sale with the person under curatorship issues to the curator of such person a notice which demands, by establishing a certain period which is one month or more, that he/she should give a definite answer on whether or not such person will ratify such act which may be rescinded within such period, if the curator fails to send any definite answer within such period, he/she is deemed to have ratified the contract for sale.
+</t2>
+</pair>
+<pair id="H27-35-I" label="N">
+<t1>
+Article 114
+In the case referred to in the preceding Article, the counterparty may demand, by specifying a reasonable period of time, that the principal give a definite answer on whether or not the principal will ratify within that period of time.In this case, if the principal fails to give a definite answer within that period, the principal is deemed to have refused to ratify.
+</t1>
+<t2>
+In cases where, with respect to a contract for sale concluded by a unauthorized agent, the counterparty requires the principal, by fixing a reasonable period of time, to make a definite answer on whether or not he/she will ratify within such period of time, if the principal fails to make any definite answer within such period, he/she is deemed to have ratified the contract for sale.
+</t2>
+</pair>
+<pair id="H27-35-U" label="Y">
+<t1>
+Article 493
+The tender of the performance must be made actually consistent with the main purport of the obligation;provided, however, that if the obligee refuses to accept that performance in advance or if any act is required on the part of the obligee with respect to the performance of the obligation, it is sufficient for the obligor to request the acceptance thereof by giving a notice that the tender of the performance has been prepared.
+Article 492
+Upon tendering the performance, the obligor is relieved from any and all responsibilities which may arise from the non-performance of the obligation.
+</t1>
+<t2>
+In cases where the obligee refuses to accept the performance in advance, the obligor shall be released from the liability for default if he/she demands the acceptance thereof by giving a notice that the tender of the performance has been prepared.
+</t2>
+</pair>
+<pair id="H27-35-E" label="Y">
+<t1>
+Article 547
+If no period of time is specified for the exercise of the right to cancel, the other party may issue a notice of demand to the holder of the right to cancel, specifying a reasonable period of time, to the effect that the holder of the right to cancel is to give a definite answer as to whether the holder will cancel or not within that period of time.In this case, if no notice of cancellation is received within that period, the right to cancel is extinguished.
+</t1>
+<t2>
+In cases where ,with respect to the right to cancel based on the failure to perform, the other party issues a notice of demand to the holder of the right to cancel, specifying a reasonable period, to the effect that the holder of the right to cancel is to give a definite answer as to whether or not the right will be exercised within that period, if no notice of cancellation is received within that period, the right to cancel shall be extinguished.
+</t2>
+</pair>
+<pair id="H27-36-A" label="N">
+<t1>
+Article 297
+(1) A holder of a right of retention may collect fruits derived from the thing retained, and appropriate the same to the satisfaction of that holder's own claim before other obligees.
+(2) The fruits referred to in the preceding paragraph must be appropriated first to the payment of interest on the claim, and any remainder must be appropriated to the satisfaction of the principal.
+</t1>
+<t2>
+A holder of a right of retention may collect fruits derived from the Thing retained, and appropriate the same to the satisfaction of his/her claim prior to other obligees, but the fruits must be appropriated to the payment of interest on the claim, and any remainder must not be appropriated to the satisfaction of the principal.
+</t2>
+</pair>
+<pair id="H27-36-I" label="Y">
+<t1>
+Article 405
+If the payment of interest corresponding to one year or more is delayed, and if the obligor does not pay that interest notwithstanding the demand by the obligee, the obligee may incorporate that interest into the principal.
+</t1>
+<t2>
+In cases where the seller's obligation to deliver the subject matter of the sale must be performed prior to that of the buyer and a due date is provided for the payment of the purchase money in the contract for sale, it shall not be necessary for the buyer to pay the interest even after the delivery of the subject matter of the sale until that due date arrives.
+</t2>
+</pair>
+<pair id="H27-36-U" label="N">
+<t1>
+Article 462
+(1) The provisions of Article 459-2, paragraph (1) apply mutatis mutandis if a person, that has given guarantee without the request of the principal obligor, performs an act for extinguishment of obligation.
+(2) A person that has become a guarantor against the will of the principal obligor has the right to reimbursement only to the extent currently enriched.In this case, if the principal obligor asserts to have grounds for set-off against the obligee prior to the day of the demand for reimbursement, the guarantor may demand that the obligee perform the obligation which would have been extinguished by that set-off.
+(3) The provisions of Article 459-2, paragraph (3) apply mutatis mutandis to the exercise of the right to reimbursement if the guarantor referred to in the preceding two paragraphs performs an act for extinguishment of obligation before the due date of the principal obligation.
+Article 459
+(1) If a guarantor gives guarantee as requested by the principal obligor, and performs the obligation on behalf of the principal obligor or performs any other act that causes the obligation to be extinguished in exchange for the guarantor's own property (hereinafter referred to as an &quot;act for extinguishment of obligation&quot;), the guarantor has a right to reimbursement from the principal obligor for the amount of property expended for that act (if the amount of property exceeds the amount of the principal obligation extinguished by the act for extinguishment of obligation, the amount thus extinguished).
+(2) The provisions of Article 442, paragraph (2) apply mutatis mutandis to the cases set forth in the preceding paragraph.
+Article 459-2
+(1) If a guarantor gives guarantee as requested by the principal obligor and performs an act for extinguishment of obligation before the due date of the principal obligation, the guarantor has the right to reimbursement from the principal obligor to the extent that the principal obligor was enriched at the time of the act. In such a case, if the principal obligor alleges to have had grounds for set-off prior to the day of the act for extinguishment of obligation, the guarantor may request the obligee to perform the obligation which should have been extinguished due to the set-off.
+(2) Reimbursement under the provisions of the preceding paragraph includes the statutory interest which accrues on and after the due date of the principal obligation and compensation for loss or damage including expenses which could not have been avoided even if an act for extinguishment of obligation were performed on or after the due date.
+(3) The right to reimbursement referred to in paragraph (1) may not be exercised before the due date of the principal obligation.
+</t1>
+<t2>
+If a person, who has become a guarantor without the entrustment of the principal obligor, has performed the obligation, the principal obligor must pay the statutory interest for the period from the day of that performance.
+</t2>
+</pair>
+<pair id="H27-36-E" label="Y">
+<t1>
+Article 545
+(1) If one of the parties exercises the right to cancel, each party assumes an obligation to restore the other party to that other party's original state;provided, however, that this may not prejudice the rights of a third party.
+(2) In the case referred to in the main clause of the preceding paragraph, if any monies are to be refunded, interest must accrue from the time of the receipt of those monies.
+(3) In the case referred to in the main clause of paragraph (1), if a thing other than money is to be returned, fruits that have accrued on or after the time of the receipt of the thing must also be returned.
+(4) The exercise of the right to cancel does not preclude claims for compensation for loss or damage.
+</t1>
+<t2>
+In cases where a seller canceled the contract for sale based on the failure to perform the obligation after he/she received the purchase money in part, if the money which the seller received as the purchase money in part are to be refunded, interest must accrue from the time of the receipt of that money.
+</t2>
+</pair>
+<pair id="H27-36-O" label="Y">
+<t1>
+Article 575
+(1) If the subject matter of a sale which has not yet been delivered bears fruits, the fruits vest in the seller.
+(2) The buyer bears the obligation to pay interest on the price beginning from the day of delivery;provided, however, that if a due date is provided for the payment of the price, it is not necessary to pay the interest until that due date arrives.
+</t1>
+<t2>
+In cases the obligor delays the payment of interest corresponding to one year or more, and if the obligor does not pay such interest notwithstanding the demand by the obligee, the obligee may incorporate such interest into the principal.
+</t2>
+</pair>
+</dataset>

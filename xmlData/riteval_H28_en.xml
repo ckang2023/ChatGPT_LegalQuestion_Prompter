@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dataset>
+<pair id="H28-1-3" label="Y">
+<t1>
+Article 6
+(1) A minor who is permitted to conduct one or multiple types of business has the same capacity to act as an adult as far as that business is concerned.
+(2) In a case as referred to in the preceding paragraph, if there are grounds that make the minor unable to sustain that business, the legal representative may revoke or limit the permission therefor in accordance with the provisions of Part IV (Relatives).
+</t1>
+<t2>
+A minor who is permitted to carry on one or more kinds of business shall have the same capacity to act as a person of the age of majority as far as such business is concerned.
+</t2>
+</pair>
+<pair id="H28-1-4" label="Y">
+<t1>
+Article 120
+(1) An act that is voidable on the grounds of the qualified legal capacity to act of the person who did the act may be rescinded only by the person with qualified legal capacity (in the case of an act performed by the person as a legal representative of another person with limited capacity, including that other person with limited capacity), or an agent or successor thereof, or a person who has the authority to give consent thereto.
+(2) An act that is voidable on the grounds of a mistake, fraud or duress may be rescinded only by the person who made the defective manifestation of intention, or an agent or successor thereof.
+</t1>
+<t2>
+A minor may rescind the juristic act which is performed without the consent of his/her satutory agent individually.
+</t2>
+</pair>
+<pair id="H28-1-5" label="N">
+<t1>
+Article 102
+An act that a person with qualified legal capacity performs as an agent of another person may not be rescinded on the grounds of qualified legal capacity;provided, however, that this does not apply to an act performed by a person with qualified legal capacity as a legal representative of another person with qualified legal capacity.
+</t1>
+<t2> A minor may not become an agent. </t2>
+</pair>
+<pair id="H28-2-1" label="N">
+<t1>
+Article 95
+(1) A manifestation of intention is voidable if it is based on either of the following mistakes, and the mistake is material in light of the purpose of the juridical act and the common sense in the transaction:
+(i) a mistake wherein the person lacks the intention that corresponds to the manifestation of intention; or
+(ii) a mistake wherein the person making the manifestation of intention holds an understandings that does not correspond to the truth with regard to the circumstances which the person has taken as the basis for the juridical act.
+(2) A manifestation of intention under the provisions of item (ii) of the preceding paragraph may be rescinded only if it has been indicated that the circumstances in question are being taken as the basis for the juridical act.
+(3) If a mistake is due to gross negligence on the part of the person making the manifestation of intention, that person may not rescind a manifestation of intention as under paragraph (1), except in the following cases:
+(i) if the other party knew, or did not know due to gross negligence, of the mistake on the part of the person making the manifestation of intention; or
+(ii) if the other party was under the same mistake as the person making the manifestation of intention.
+(4) The rescission of a manifestation of intention under the provisions of paragraph (1) may not be duly asserted against a third party in good faith acting without negligence.
+</t1>
+<t2>
+Even if there is a mistake in any element of the juristic act in question and manifestation of intention is induced by the mistake, the person who made the manifestation of intention may not assert such nullity of the manifestation of intention by mistake if twenty years has elapsed from the time of the manifestation of intention.
+</t2>
+</pair>
+<pair id="H28-2-2" label="Y">
+<t1>
+Article 95
+(1) A manifestation of intention is voidable if it is based on either of the following mistakes, and the mistake is material in light of the purpose of the juridical act and the common sense in the transaction:
+(i) a mistake wherein the person lacks the intention that corresponds to the manifestation of intention; or
+(ii) a mistake wherein the person making the manifestation of intention holds an understandings that does not correspond to the truth with regard to the circumstances which the person has taken as the basis for the juridical act.
+(2) A manifestation of intention under the provisions of item (ii) of the preceding paragraph may be rescinded only if it has been indicated that the circumstances in question are being taken as the basis for the juridical act.
+(3) If a mistake is due to gross negligence on the part of the person making the manifestation of intention, that person may not rescind a manifestation of intention as under paragraph (1), except in the following cases:
+(i) if the other party knew, or did not know due to gross negligence, of the mistake on the part of the person making the manifestation of intention; or
+(ii) if the other party was under the same mistake as the person making the manifestation of intention.
+(4) The rescission of a manifestation of intention under the provisions of paragraph (1) may not be duly asserted against a third party in good faith acting without negligence.
+Article 96
+(1) A manifestation of intention based on fraud or duress is voidable.
+(2) If a third party commits a fraud inducing a first party to make a manifestation of intention to a second party, that manifestation of intention is voidable only if the second party knew or could have known that fact.
+(3) The rescission of a manifestation of intention induced by fraud under the provisions of the preceding two paragraphs may not be duly asserted against a third party in good faith acting without negligence.
+</t1>
+<t2>
+If there is a mistake in any element of the juristic act which is induced by any fraud and manifestation of intention is induced by the mistake,the person who made the manifestation of intention may assert such nullity of the manifestation of intention by mistake.
+</t2>
+</pair>
+<pair id="H28-3-1" label="N">
+<t1>
+Article 9
+A juridical act performed by an adult ward is voidable;provided, however, that this does not apply to the purchase of daily necessities or to any other act involved in day-to-day life.
+</t1>
+<t2>
+In the case where an adult ward, (A) purchased a daily household item from (B), even if (B) did not know that (A) was an adult ward, his/her guardian of adult, (C) may rescind the contract for sale of the daily household item.
+</t2>
+</pair>
+<pair id="H28-3-2" label="Y">
+<t1>
+Article 98-2
+Any person may not assert a manifestation of intention against the other party thereto if that other party had no mental capacity or was a minor or an adult ward at the time of receiving it;provided, however, that this does not apply after either of the following persons learns of the manifestation of intention:
+(i) the legal representative of the other party; or
+(ii) the other party, after that other party's mental capacity has been restored or after that other party has become a person with capacity to act.
+</t1>
+<t2>
+In the case where (A) is an adult ward at the time when (A) receives a manifestation of intention of cancellation of a contract, the cancellation of the contract shall not take effect until (A)'s guardian of adult, (C) has acquired the knowledge of (B)'s manifestation of intention of cancellation of the contract.
+</t2>
+</pair>
+<pair id="H28-3-3" label="N">
+<t1>
+Article 526
+If an offeror dies, comes to be in a constant state wherein the offeror lacks mental capacity, or becomes subject to restrictions on legal capacity to act after issuing notice of the offer, and the offeror has manifested the intention not to make the offer effective should any of these facts occur, or the other party comes to know that any of these facts has occurred before issuing a notice of acceptance, that offer is not effective.
+</t1>
+<t2>
+In the case where (A) loses his/her capacity to act after the dispatch of the notice of an offer of a contract to (B), who is a person at a distance, even if (B) knows such fact, the offer of the contract shall become effective.
+</t2>
+</pair>
+<pair id="H28-3-4" label="Y">
+<t1>
+Article 97
+(1) A manifestation of intention becomes effective at the time notice thereof reaches the other party.
+(2) If the other party prevents notice of a manifestation of intention from reaching them without a legitimate reason, the notice is deemed to have reached that party at the time it would have normally reached them.
+(3) The effect of a manifestation of intention is not impaired even if the person making it dies, loses mental capacity, or becomes subject to restrictions on their legal capacity to act after having sent the notice.
+</t1>
+<t2>
+In the case where (A) loses his/her capacity to act after the dispatch of the notice of cancellation of a contract to (B), who is a person at a distance, even if (B) knows such fact, the cancellation of the contract shall become effective.
+</t2>
+</pair>
+<pair id="H28-3-5" label="Y">
+<t1>
+Article 97
+(1) A manifestation of intention becomes effective at the time notice thereof reaches the other party.
+(2) If the other party prevents notice of a manifestation of intention from reaching them without a legitimate reason, the notice is deemed to have reached that party at the time it would have normally reached them.
+(3) The effect of a manifestation of intention is not impaired even if the person making it dies, loses mental capacity, or becomes subject to restrictions on their legal capacity to act after having sent the notice.
+</t1>
+<t2>
+In the case where (A) loses his/her capacity to act after the dispatch of the notice of acceptance of a contract to (B), who is a person at a distance, even if (B) knows such fact, the contract shall be formed.
+</t2>
+</pair>
+<pair id="H28-4-1" label="Y">
+<t1>
+Article 117
+(1) A person who concludes a contract as an agent of another person is liable to the counterparty for the performance of the contract or compensation for loss or damage, as chosen by the counterparty, unless the person proves the authority to represent or the principal ratifies the contract.
+(2) The provisions of the preceding paragraph do not apply in the following cases:
+(i) if the counterparty knew that the person who concluded the contract as an agent of the other person had no authority to represent;
+(ii) if the counterparty was negligent in not knowing that the person who concluded the contract as an agent of the other person had no authority to represent;provided, however, that this does not apply if the person who concluded a contract as an agent of the other person knew themselves to have no authority to represent; or
+(iii) if the legal capacity to act of the person who concluded the contract as an agent of the other person was subject to restrictions.
+</t1>
+<t2>
+If the counterparty of unauthorized agency was negligent in not knowing that the person who concluded a contract holding himself/herself out as an agent of another person had no authority of agency,
+he/she may not pursue the liability of the unauthorized agent in civil code.
+</t2>
+</pair>
+<pair id="H28-4-2" label="Y">
+<t1>
+Article 111
+(1) The authority to represent ceases to exist upon:
+(i) death of the principal; and
+(ii) death of the agent, or being given an order commencing bankruptcy proceeding or a decision for commencement of guardianship against the agent.
+(2) The authority to represent by mandate ceases to exist, other than on the grounds set forth in the respective items of the preceding paragraph, upon the termination of the mandate.
+</t1>
+<t2>
+The authority of agency shall be terminated upon ruling for commencement of guardianship against the agent.
+</t2>
+</pair>
+<pair id="H28-4-3" label="N">
+<t1>
+Article 106
+(1) A subagent represents the principal with respect to acts within the scope of the authority thereof.
+(2) A subagent has the same rights and obligations as an agent in relation to the principal and third parties within the scope of that subagent's authority.
+</t1>
+<t2>
+A guardian of adult may not appoint its sub-agent unless there is an unavoidable reason to do so.
+</t2>
+</pair>
+<pair id="H28-4-4" label="N">
+<t1>
+Article 106
+(1) A subagent represents the principal with respect to acts within the scope of the authority thereof.
+(2) A subagent has the same rights and obligations as an agent in relation to the principal and third parties within the scope of that subagent's authority.
+Article 643
+A mandate becomes effective when a first party asks a second party with performing a juridical act, and the second party accepts this.
+Article 650
+(1) If the mandatary has expended costs found to be necessary for the administration of the mandated business, the mandatary may claim reimbursement of those costs from the mandator and any interest on the same from the day the costs were expended.
+(2) If the mandatary has borne any obligation found to be necessary for the administration of the mandated business, the mandatary may demand that the mandator perform the obligation on the mandatary's behalf. In such cases, if the obligation has not yet fallen due, the mandatary may require the mandator to tender reasonable security.
+(3) If a mandatary incurs loss or damage that is not due to the negligence of the mandatary in order to administer the mandated business, the mandatary may claim compensation for this from the mandator.
+</t1>
+<t2>
+In cases where a privetely appointed agent appointed its sub-agent when there is an unavoidable reason to do so,
+even if the sub-agent has incurred costs found to be necessary for the administration of the mandated business,
+he/she may not claim reimbursement of those costs from the principal.
+</t2>
+</pair>
+<pair id="H28-4-5" label="N">
+<t1>
+Article 101
+(1) If the validity of a manifestation of intention that an agent has made to the other party is to be influenced by the absence of intention; by mistake, fraud, or duress; or by the knowledge of or negligence in not knowing of a particular circumstance; whether or not any such fact was present is decided as it concerns the agent.
+(2) If the validity of a manifestation of intention that the other party has made to the agent is to be influenced by the recipient's knowledge of or negligence in not knowing of a particular circumstance, whether or not any such fact was present is decided as it concerns the agent.
+(3) If an agent who has been entrusted with performing a specific juridical act performs that act, the principal may not assert that the agent did not know of any particular circumstance of which the principal knew. The same applies to any circumstance of which the principal did not know due to the principal's own negligence.
+Article 99
+(1) A manifestation of intention that an agent makes indicating that they will be making a manifestation of intention on behalf of the principal within the scope of the agent's authority binds the principal directly.
+(2) The provisions of the preceding paragraph apply mutatis mutandis to a manifestation of intention that a third party makes to an agent.
+Article 96
+(1) A manifestation of intention based on fraud or duress is voidable.
+(2) If a third party commits a fraud inducing a first party to make a manifestation of intention to a second party, that manifestation of intention is voidable only if the second party knew or could have known that fact.
+(3) The rescission of a manifestation of intention induced by fraud under the provisions of the preceding two paragraphs may not be duly asserted against a third party in good faith acting without negligence.
+</t1>
+<t2>
+In cases where the agent (B) for (A) concluded a contract for sale by (C)'s fraud,
+(B) may rescind the contract for sale;
+however, (A) may not rescind it.
+</t2>
+</pair>
+<pair id="H28-11-1" label="N">
+<t1>
+Article 177
+Acquisitions of, losses of and changes in real rights on immovables may not be duly asserted against any third parties, unless the same are registered pursuant to the applicable provisions of the Real Property Registration Act (Act No. 123 of 2004) and other laws regarding registration.
+Article 361
+Beyond what is provided for in this Section, the provisions of the next Chapter (Mortgages) apply mutatis mutandis to pledges of immovables, provided that it is not inconsistent with the nature of the same.
+Article 373
+If more than one mortgage is created with respect to the same immovables, the order of priority of those mortgages follows the chronological order of their registration.
+Article 339
+Statutory liens registered in accordance with the provisions of the preceding two Articles may be exercised prior to mortgages.
+Article 337
+In order to preserve the effectiveness of statutory liens for preservation of immovables, registration must be carried out immediately after the completion of the act of preservation.
+Article 338
+(1) In order to preserve the effectiveness of statutory liens for construction work for immovables, the budgeted expenses of the construction work must be registered prior to the commencement of the same.In this case, if the expenses of the construction work exceed the budgeted amount, a statutory lien does not exist with respect to the amount in excess of the same.
+(2) The amount of increase in value of immovables that resulted from construction work must be evaluated by an appraiser appointed by the court at the time of the participation in the distribution.
+</t1>
+<t2>
+The order of priority of special statutory liens,pledges and mortgages with respect to the same immovable properties shall follow the chronological order of their registration.
+</t2>
+</pair>
+<pair id="H28-11-2" label="N">
+<t1>
+Article 304
+(1) A statutory lien may also be exercised against things including monies that the obligor is to receive as a result of the sale, lease or loss of, or damage to, the subject matter of the statutory lien;provided, however, that the holder of the statutory lien must attach the same before the payment or delivery of the monies or other thing.
+(2) The provisions of the preceding paragraph also apply to the consideration for real rights created by the obligor on the subject matter of the statutory lien.
+Article 350
+The provisions of Articles 296 through 300 and those of Article 304
+apply mutatis mutandis to pledges.
+Article 372
+The provisions of Article 296, Article 304
+and Article 351
+apply mutatis mutandis to mortgages.
+</t1>
+<t2>
+Extension of security interest to proceeds of collateral may be done with respect to a right of retention, a statutory lien, a pledge and a mortgage.
+</t2>
+</pair>
+<pair id="H28-11-3" label="N">
+<t1>
+Article 302
+A right of retention is extinguished if the holder of the right of retention loses possession of the thing retained;provided, however, that this does not apply if the thing retained is leased or it is made the subject of a pledge pursuant to the provisions of Article 298, paragraph (2).
+</t1>
+<t2>
+A right of retention shall not be extinguished even if the holder of the right of retention loses possession of the Thing retained, but ,in this case, this right may not be asserted against third parties.
+</t2>
+</pair>
+<pair id="H28-11-5" label="N">
+<t1>
+Article 334
+If there is conflict between a statutory lien and a pledge on movables, the pledgee of those movables has the same rights as those of the holder of a statutory lien of the first rank under Article 330.
+Article 330
+(1) If there are competing special statutory liens against the same movables, the order of priority follows the order set forth below.In this case, if there are two or more preservers with respect to the statutory liens for preservation of movables set forth in item (ii), a new preserver has priority over previous preservers:
+(i) statutory liens for leases of immovables, lodging at hotels and transportation;
+(ii) statutory liens for the preservation of movables; and
+(iii) statutory liens for the sale of movables, the supply of seeds and seedlings or fertilizer, agricultural labor and industrial labor.
+(2) In the cases referred to in the preceding paragraph, if a holder of a statutory lien ranked first knew at the time of acquiring the relevant claim of the existence of a holder of a statutory lien of the second or third rank, that holder may not exercise the relevant rights of priority against those persons. The same applies to the exercise against persons that have preserved things on behalf of the holder of a statutory lien of the first rank.
+(3) Regarding fruits, the first rank belongs to persons who engage in agricultural labor, the second rank belongs to persons that supply seeds and seedlings or fertilizer, and the third rank belongs to lessors of land.
+</t1>
+<t2>
+The statutory lien over movables shall prevail over the pledge of movables.
+</t2>
+</pair>
+<pair id="H28-12-1" label="Y">
+<t1>
+Article 295
+(1) If a possessor of a thing belonging to another person has a claim that has arisen in relation to that thing, that possessor may retain that thing until that claim is satisfied;provided, however, that this does not apply if the relevant claim has not yet fallen due.
+(2) The provisions of the preceding paragraph do not apply if possession commenced by means of a tortious act.
+</t1>
+<t2>
+For the formation of rights of retention under Civil Code, existence of a claim that has arisen with respect to the subject matter and possession of the subject matter by the obligee are required, but it is not required that the obligee possess the subject matter at the time of the formation of the claim.
+</t2>
+</pair>
+<pair id="H28-13-1" label="N">
+<t1>
+Article 316
+If a lessor has received a security deposit prescribed in Article 622-2, paragraph (1), the lessor has a statutory lien solely against the portion of the lessor's claim that will not be satisfied by that security deposit.
+</t1>
+<t2>
+In cases where the lessee does not pay rent,
+even if the lessor of a building has received a security deposit and that security deposit will satisfy unpaid rent,
+he/she shall have a statutory lien.
+</t2>
+</pair>
+<pair id="H28-13-2" label="N">
+<t1>
+Article 330
+(1) If there are competing special statutory liens against the same movables, the order of priority follows the order set forth below.In this case, if there are two or more preservers with respect to the statutory liens for preservation of movables set forth in item (ii), a new preserver has priority over previous preservers:
+(i) statutory liens for leases of immovables, lodging at hotels and transportation;
+(ii) statutory liens for the preservation of movables; and
+(iii) statutory liens for the sale of movables, the supply of seeds and seedlings or fertilizer, agricultural labor and industrial labor.
+(2) In the cases referred to in the preceding paragraph, if a holder of a statutory lien ranked first knew at the time of acquiring the relevant claim of the existence of a holder of a statutory lien of the second or third rank, that holder may not exercise the relevant rights of priority against those persons. The same applies to the exercise against persons that have preserved things on behalf of the holder of a statutory lien of the first rank.
+(3) Regarding fruits, the first rank belongs to persons who engage in agricultural labor, the second rank belongs to persons that supply seeds and seedlings or fertilizer, and the third rank belongs to lessors of land.
+</t1>
+<t2>
+In cases where a lessee of a building has not paid the purchase money with respect to the sale of a dresser for a furniture store and has not paid the rent for the lessor,
+the furniture store's statutory lien with respect to the dresser shall prevail over the lessor's statutory lien with respect to the same.
+</t2>
+</pair>
+<pair id="H28-13-3" label="Y">
+<t1>
+Article 306
+A person that has a claim arising from the causes set forth below has a statutory lien over the entire assets of the obligor:
+(i) expenses for the common benefit;
+(ii) an employer-employee relationship;
+(iii) funeral expenses; or
+(iv) the supply of daily necessaries.
+Article 308
+Statutory liens for employer-employee relationships exist with respect to salaries and other claims that arise from the employer-employee relationship between the obligor and the employee.
+</t1>
+<t2>
+If a company does not pay salary, the employee shall have a statutory lien with respect to the salary, regardless of the unpaid period, over the entire property of the company.
+</t2>
+</pair>
+<pair id="H28-13-4" label="Y">
+<t1>
+Article 308
+Statutory liens for employer-employee relationships exist with respect to salaries and other claims that arise from the employer-employee relationship between the obligor and the employee.
+Article 306
+A person that has a claim arising from the causes set forth below has a statutory lien over the entire assets of the obligor:
+(i) expenses for the common benefit;
+(ii) an employer-employee relationship;
+(iii) funeral expenses; or
+(iv) the supply of daily necessaries.
+Article 311
+A person that has a claim arising from the causes set forth below has a statutory lien against specific movables of the obligor:
+(i) a lease of immovables;
+(ii) a lodging at a hotel;
+(iii) the transportation of passengers or luggage;
+(iv) the preservation of movables;
+(v) the sale of movables;
+(vi) the supply of seeds and seedlings or fertilizer (including eggs of silkworms or mulberry leaves provided to feed silkworms; the same applies hereinafter);
+(vii) agricultural labor; or
+(viii) industrial labor.
+Article 329
+(1) If there are competing general statutory liens, the order of priority follows the order set forth in each item of Article 306.
+(2) Ife there are competing a general statutory lien and a special statutory lien, the special statutory lien has priority over the general statutory lien;provided, however, that statutory liens on expenses for the common benefit have priority being effective against all obligees who benefit from the same.
+</t1>
+<t2>
+In cases where a company has not paid the purchase money with respect to the sale of refrigerators for an electronics store and it has not paid salaries for its employees,
+the electronics store's statutory lien with respect to the refrigerators shall prevail over employees's statutory lien with respect to the same.
+</t2>
+</pair>
+<pair id="H28-13-5" label="N">
+<t1>
+Article 335
+(1) Holders of general statutory liens cannot be paid out of immovables unless they are first paid out of property other than immovables and a claim that is not satisfied remains.
+(2) With respect to immovables, holders of general statutory liens must first be paid out of those that are not the subject matters of special security.
+(3) If holders of general statutory liens fail to participate in distributions in accordance with the provisions of the preceding two paragraphs, they may not exercise their statutory liens against registered third parties with respect to amounts that would have been paid to them if they had participated in the distribution.
+(4) The provisions of the preceding three paragraphs do not apply if the proceeds of immovables are distributed prior to the proceeds of assets other than immovables, or if the proceeds of immovables that are the subject matter of a special security are distributed prior to the proceeds of other immovables.
+</t1>
+<t2>
+In cases where an obligor owns an immovable property and a movable property which are not the subject of an agreed security interest, a right of retention and a special statutory lien,
+the holders of general statutory liens are first paid out of the immovable property,
+and they are paid out of the movable property only if the claim that is not satisfied remains.
+</t2>
+</pair>
+<pair id="H28-14-1" label="N">
+<t1>
+Article 372
+The provisions of Article 296, Article 304
+and Article 351
+apply mutatis mutandis to mortgages.
+Article 296
+A holder of a right of retention may exercise that holder's rights against the whole of the thing retained until the relevant claim is satisfied in its entirety.
+</t1>
+<t2>
+Because mortgages are rights which grasp value of the subject, even in the case where an amount of a secured claim exceeds the value of the Mortgaged Immovable Properties, a mortgage shall be extinguished if a third party pledgor pays an amount equivalent to value of the subject.
+</t2>
+</pair>
+<pair id="H28-14-2" label="N">
+<t1>
+Article 371
+If there is a default with respect to a claim secured by a mortgage, the mortgage extends to the fruits of the mortgaged immovables derived after the default.
+</t1>
+<t2>
+Even if there is a default with respect to a claim secured by a mortgage, the mortgage shall not extend to the fruits of the Mortgaged Immovable Properties derived after the default.
+</t2>
+</pair>
+<pair id="H28-14-3" label="N">
+<t1>
+Article 378
+If a third party that purchases the ownership or superficies of a mortgaged immovables pays the price of the same to a mortgagee at the request of the same mortgagee, that mortgage is terminated for the benefit of that third party.
+</t1>
+<t2>
+If a mortgagee demands that a third party who purchases the ownership of Mortgaged Immovable Properties pay the price of the same to the relevant mortgagee, the third party must respond to the request.
+</t2>
+</pair>
+<pair id="H28-16-1" label="N">
+<t1>
+Article 398-12
+(1) Before the principal is crystallized, a revolving mortgagee may assign a revolving mortgage, with the approval of the mortgagor of the revolving mortgage.
+(2) A revolving mortgagee may divide the revolving mortgage into two revolving mortgages and assign either of the same pursuant to the provisions of the preceding paragraph.In this case, the rights for which that revolving mortgage is the subject matter is extinguished with respect to the revolving mortgage that was assigned.
+(3) In order to effect an assignment under the provisions of the preceding paragraph, the approval of the person that holds the rights for which that revolving mortgage is the subject matter must be obtained.
+Article 398-13
+Before the principal is crystallized, a revolving mortgagee may, with the approval of the mortgagor of the revolving mortgage, effect a partial assignment of the revolving mortgage (meaning assignments of revolving mortgages that the assignor effects without dividing the revolving mortgage in order to co-own the same with the assignee; hereinafter the same applies in this Section).
+</t1>
+<t2>
+Before the principal is fixed, a revolving mortgagee may assign a Revolving Mortgage or effect a partial assignment of the Revolving Mortgage, without the approval of the revolving mortgagor.
+</t2>
+</pair>
+<pair id="H28-16-2" label="N">
+<t1>
+Article 398-4
+(1) The scope of the claims to be secured by a revolving mortgage may be changed if the change is effected before the principal is crystallized. The same applies with respect to change of obligors.
+(2) In order to effect the changes referred to in the preceding paragraph, it is not required that the approval of third parties including subordinated mortgagee be obtained.
+(3) If the change under paragraph (1) is not registered before the principal is crystallized, it is deemed that the change was not effected.
+</t1>
+<t2>
+When the scope of the claims to be secured by a Revolving Mortgage is altered before the principal is fixed, the approval of subordinated obligees has to be obtained.
+</t2>
+</pair>
+<pair id="H28-16-3" label="Y">
+<t1>
+Article 398-4
+(1) The scope of the claims to be secured by a revolving mortgage may be changed if the change is effected before the principal is crystallized. The same applies with respect to change of obligors.
+(2) In order to effect the changes referred to in the preceding paragraph, it is not required that the approval of third parties including subordinated mortgagee be obtained.
+(3) If the change under paragraph (1) is not registered before the principal is crystallized, it is deemed that the change was not effected.
+</t1>
+<t2>
+If the alteration of obligors with respect to a Revolving Mortgage is not registered before the principal is fixed, it shall be deemed that such alteration was not effected.
+</t2>
+</pair>
+<pair id="H28-16-4" label="N">
+<t1>
+Article 398-6
+(1) With respect to the principal secured by a revolving mortgage, the date when the principal is to be crystallized may be specified or changed.
+(2) The provisions of Article 398-4, paragraph (2) apply mutatis mutandis to the cases referred to in the preceding paragraph.
+(3) The date under paragraph (1) must be within five years of the day when the date was prescribed or changed.
+(4) If registration with respect to a change in the date under paragraph (1) is not effected before the old date, the principal secured is crystallized on that old date.
+</t1>
+<t2>
+With respect to the principal secured by a Revolving Mortgage,
+if the date when the principal is to be fixed is not prescribed,
+the Revolving Mortgage shall be void.
+</t2>
+</pair>
+<pair id="H28-16-5" label="Y">
+<t1>
+Article 398-3
+(1) A revolving mortgagee may exercise the relevant revolving mortgage up to the maximum amount with respect to all of crystallized principal as well as periodic payments including interest and compensation for loss or damage resulting from failure to perform obligations.
+(2) If a claim under a negotiable instrument or check or electronically recorded monetary claim acquired from causes other than the transactions with the obligor is agreed to be treated as a claim to be secured by a revolving mortgage, and any of the following grounds exist, that revolving mortgage may be exercised only with respect to claims acquired before those grounds arose;provided, however, that even with respect to claims acquired after the grounds arose, the exercise of the revolving mortgage is not precluded as far as the claims were acquired without knowledge of those grounds:
+(i) the suspension of payments by the obligor;
+(ii) a petition to commence bankruptcy proceeding, the commencement of rehabilitation proceeding, the commencement of reorganization proceeding or the commencement for special liquidation with respect to the obligor; or
+(iii) a petition for commencement of auction procedure in relation to a mortgaged immovables or attachment for disposition of delinquency.
+</t1>
+<t2>
+The Revolving Mortgage which the principal is fixed secures
+not only fixed payments of principal but also interest
+up to the maximum amount.
+</t2>
+</pair>
+<pair id="H28-17-1" label="N">
+<t1>
+Article 428
+The provisions of the following Subsection (Joint and Several Claims) (excluding the provisions of Articles 433 and 435) apply mutatis mutandis if the subject matter of a claim is indivisible by nature and the claim is held by two or more obligees.
+</t1>
+<t2>
+A monetary claim may not be made indivisible due to the manifestation of intention of the parties involved.
+</t2>
+</pair>
+<pair id="H28-17-3" label="Y">
+<t1>
+Article 429
+Even if there is a novation or release between one of the obligees of an indivisible claim and the obligor, other obligees may request the obligor to perform the obligation in whole. In such a case, the benefit which should have been allocated to that one obligee if that obligee did not lose the relevant right must be reimbursed to the obligor.
+</t1>
+<t2>
+Even if one of the obligees of an indivisible claim releases the obligor from the claim, other obligees may request the obligor to perform the obligation in whole.
+</t2>
+</pair>
+<pair id="H28-17-5" label="N">
+<t1>
+Article 406
+If the subject matter of the claim is to be determined by a choice being made from among more than one performance, the right to choose belongs to the obligor.
+</t1>
+<t2>
+If the subject of the claim is to be identified by way of choice among more than one performance, the right to make the choice shall vest in the obligee.
+</t2>
+</pair>
+<pair id="H28-20-1" label="Y">
+<t1>
+Article 499
+A person that has performed the obligation for the benefit of the obligor is subrogated to the claim of the obligee.
+</t1>
+<t2>
+A third party who effects an effective performance not against the will of the obligor shall be subrogated by operation of law to the claim of the obligee by effecting performance.
+</t2>
+</pair>
+<pair id="H28-22-1" label="N">
+<t1>
+Article 549
+Gifts become effective by the manifestation of intention by one of the parties to give a certain property to the other party gratuitously, and the acceptance of the other party thereof.
+</t1>
+<t2>
+Gifts shall become effective by the manifestation by one of the parties of his/her intention to give his/her property to the other party gratuitously, and the acceptance of the other party thereof;
+therefore, gifts shall not become effective if one of the parties to recieve property offers the gift and the other party accept the offer.
+</t2>
+</pair>
+<pair id="H28-22-2" label="Y">
+<t1>
+Article 572
+Even if the seller makes a special agreement to the effect that the seller does not warrant in the case prescribed in the main clause of Article 562, paragraph (1) or Article 565, the seller may not be released from that responsibility with respect to any fact that the seller knew but did not disclose, and with respect to any right that the seller personally created for or assigned to a third party.
+</t1>
+<t2>
+In cases where there is a special agreement, in a contract of sale, to the effect that the seller will not provide the warranties against defects,
+if the seller knew but did not disclose that there is any latent defect in the subject matter of a sale,
+he/she may not be released from the warranties against defects.
+</t2>
+</pair>
+<pair id="H28-22-4" label="N">
+<t1>
+Article 613
+(1) If a lessee lawfully subleases a leased thing, the sublessee is liable to perform an obligation based on the sublease directly to the lessor, to the extent of the scope of the lessee's obligation based on the lease between the lessor and the lessee. In such a case, advance payment of rent may not be duly asserted against the lessor.
+(2) The provisions of the preceding paragraph do not preclude the lessor from exercising rights against the lessee.
+(3) If the lessee lawfully subleases a leased thing, the lessor may not duly assert against the sublessee the cancellation by agreement of the lease with the lessee;provided, however, that this does not apply if, at the time of the cancellation, the lessor has a right to cancel due to non-performance on the part of the lessee.
+</t1>
+<t2>
+In cases where the parties do not define the time for return in a contract for value of deposit for consumption of money,
+the depositor may not demand the return of money
+unless he/she issues a notice of demand to the depositary, specifying a reasonable period.
+</t2>
+</pair>
+<pair id="H28-26-1" label="Y">
+<t1>
+Article 652
+The provisions of Article 620
+apply mutatis mutandis to mandates.
+Article 620
+If a lease is cancelled, the cancellation becomes effective solely toward the future. In such a case, the cancellation does not preclude a claim for compensation for loss or damage.
+</t1>
+<t2>
+In cases where a mandate is cancelled for default, the cancellation shall be effective solely toward the future.
+</t2>
+</pair>
+<pair id="H28-26-2" label="N">
+<t1>
+Article 643
+A mandate becomes effective when a first party asks a second party with performing a juridical act, and the second party accepts this.
+Article 656
+The provisions of this Section apply mutatis mutandis to entrustments of business that do not constitute juridical acts.
+</t1>
+<t2>
+A quasi-mandate shall be effective even if it is not made in writing but a mandate shall not be effective unless it is made in writing.
+</t2>
+</pair>
+<pair id="H28-27-1" label="Y">
+<t1>
+Article 675
+(1) A creditor of a partnership may exercise the rights of the creditor against the partnership property.
+(2) A creditor of a partnership may, at the choice of the creditor, exercise the rights of the creditor against each partner in proportion to their shares of loss or in equal proportions;provided, however, that if a creditor of a partnership knew the proportion of each partner's share of loss at the time of occurrence of the claim, the exercise of the creditor's rights is based on those proportions.
+</t1>
+<t2>
+If a creditor of a partnership did not know, when his/her claim arose, the proportions of the partners' shares of losses, the creditor may exercise his/her rights against each partner in equal proportions.
+</t2>
+</pair>
+<pair id="H28-27-2" label="N">
+<t1>
+Article 677
+A partner's creditor may not exercise the rights of that creditor against the partnership property.
+</t1>
+<t2>
+An obligor of a partnership may set off his/her obligation against his/her claim against the partners.
+</t2>
+</pair>
+<pair id="H28-27-4" label="N">
+<t1>
+Article 679
+Beyond the cases referred to in the preceding Article, partners withdraw on the following grounds:
+(i) the partner dies;
+(ii) the partner is subject to an order commencing bankruptcy proceeding;
+(iii) the partner is subject to a decision for the commencement of guardianship;
+(iv) the partner has been expelled.
+Article 681
+(1) Accounts as between the withdrawing partner and other partners must be settled according to the status of the partnership property as at the time of the withdrawal.
+(2) The interest of the withdrawing partner may be refunded in money, regardless of the kind of the withdrawing partner's contribution.
+(3) With respect to any matter not yet completed at the time of the withdrawal, accounts may be made up subsequent to the completion of that matter.
+</t1>
+<t2>
+A partnership shall be dissolved on the successful completion of the business that is its object.
+</t2>
+</pair>
+<pair id="H28-28-1" label="N">
+<t1>
+Article 705
+A person that has paid money or delivered anything as performance of an obligation may not demand the return of the money paid or thing delivered if the person knew, at the time, that the obligation did not exist.
+</t1>
+<t2>
+A person who has tendered anything as performance of an obligation may not demand the return of the thing tendered if the person were negligent in not knowing that the obligation did not exist.
+</t2>
+</pair>
+<pair id="H28-35-1" label="N">
+<t1>
+Article 369
+(1) A mortgagee has the right to have the mortgagee's claim satisfied prior to other obligees out of the immovables that the obligor or a third party provided to secure the obligation without transferring possession.
+(2) Superficies and farming rights may be the subject matter of a mortgage.In this case, the provisions of this Chapter apply mutatis mutandis.
+</t1>
+<t2>
+Both superficies and rights to lease land cannot be the subject matter of a mortgage.
+</t2>
+</pair>
+<pair id="H28-35-2" label="Y">
+<t1>
+Article 606
+(1) A lessor assumes an obligation to effect repairs necessary for using and making profit of the leased thing;provided, however, that this does not apply if repairs are necessary due to any grounds attributable to the lessee.
+(2) A lessee may not refuse if the lessor seeks to engage in an act that is necessary for the preservation of the leased thing.
+</t1>
+<t2>
+An owner of the land shall not assume an obligation to a superficiary to make the land available, but a lessor shall assume an obligation to a lessee to make the land available.
+</t2>
+</pair>
+<pair id="H28-35-3" label="Y">
+<t1>
+Article 612
+(1) A lessee may not assign the lease or sublease a leased thing without obtaining the approval of the lessor.
+(2) If the lessee allows any third party to make use of or take the profits of a leased thing in violation of the provisions of the preceding paragraph, the lessor may cancel the contract.
+</t1>
+<t2>
+A superficiary may assign the superficies without obtaining the approval of the owner of the land but a lessee may not assign the lessee's rights without obtaining the approval of the lessor or the court's permission in lieu of it.
+</t2>
+</pair>
+</dataset>
