@@ -37,7 +37,7 @@ Afterwards, install the project's dependencies with command:
 
 ## Usage
 
-### Test Using Terminal
+### Select Test Data
 
 The current maximum number of prompts is around 250. Based on the size of `.xml` files we are using, it is about 4 files per test. 
 
@@ -45,7 +45,8 @@ Delete all existing files in the `xmlData` folder.
 
 Put the `.xml` files you want to focus on for your current experiment in the `xmlData` folder. (You can find untested files in `unProcessedXmlData`).
 
-Afterwards, process the data by running: `python3 path/to/dataProcessor.py`
+### Test Using Terminal
+In terminal, process the data by running: `python3 path/to/dataProcessor.py`
 
 Then, you can check for processed data at `processedData/processedJsonData.txt`
 
