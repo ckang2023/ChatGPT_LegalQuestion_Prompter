@@ -27,7 +27,7 @@ You can use `git branch` to check your current branch.
 
 Then, you need to setup a virtual environment for the project to be configured: 
 
-`python3 -m virtual_environment_name /path/to/new/virtual/environment`
+`python3 -m virtual_environment_name /path/to/cloned_repository_on_your_machine`
 
 Afterwards, install the project's dependencies with command: 
 
