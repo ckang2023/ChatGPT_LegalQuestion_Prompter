@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dataset>
+<pair id="H18-1-1" label="Y">
+<t1>
+Article 572
+Even if the seller makes a special agreement to the effect that the seller does not warrant in the case prescribed in the main clause of Article 562, paragraph (1) or Article 565, the seller may not be released from that responsibility with respect to any fact that the seller knew but did not disclose, and with respect to any right that the seller personally created for or assigned to a third party.
+</t1>
+<t2>
+A special provision that releases warranty can be made, but in that situation, when there are rights that the seller establishes on his/her own for a third party, the seller is not released of warranty.
+</t2>
+</pair>
+<pair id="H18-1-2" label="N">
+<t1>
+Article 565
+The provisions of the preceding three Articles apply mutatis mutandis if the right transferred by the seller to the buyer does not conform to the terms of the contract (including the case in which the seller fails to transfer part of a right that belongs to another person).
+Article 566
+If the subject matter delivered by the seller to the buyer does not conform to the terms of the contract with respect to the kind or quality, and the buyer fails to notify the seller of the non-conformity within one year from the time when the buyer becomes aware of it, the buyer may not demand cure of the non-conformity of performance, demand a reduction of the price, claim compensation for loss or damage, or cancel the contract, on the grounds of the non-conformity;provided, however, that this does not apply if the seller knew or did not know due to gross negligence the non-conformity at the time of the delivery.
+</t1>
+<t2>
+There is a limitation period on pursuance of warranty if there is restriction due to superficies on the subject matter, but there is no restriction on pursuance of warranty if the seller's rights were revoked due to execution of the mortgage.
+</t2>
+</pair>
+<pair id="H18-1-3" label="N">
+<t1>
+Article 568
+(1) The successful bidder at an auction based on the provisions of the Civil Execution Act and other laws (hereinafter referred to as an &quot;auction&quot; in this Article) may cancel the contract or demand a reduction of the price against the obligor pursuant to the provisions of Articles 541 and 542 and the provisions of Article 563
+(including as applied mutatis mutandis pursuant to Article 565).
+(2) In the cases referred to in the preceding paragraph, if the obligor is insolvent, the successful bidder may demand total or partial reimbursement of the proceeds against the obligees that received the distribution of the proceeds.
+(3) In the cases set forth in the preceding two paragraphs, if obligors knew of the absence of the object or right and did not disclose the same, or if obligees knew of the absence but demanded an auction, the successful bidder may claim compensation for loss or damage against those persons.
+(4) The provisions of the preceding three paragraphs do not apply to the non-conformity with respect to the kind or quality of the subject matter of an auction.
+</t1>
+<t2>
+A compulsory auction is also a sale, so warranty is imposed the same as for an ordinary sale.
+</t2>
+</pair>
+<pair id="H18-2-1" label="Y">
+<t1>
+Article 697
+(1) A person that has begun to manage a business for another person without being obligated to do so (hereinafter in this Chapter referred to as a &quot;manager&quot;) must manage that business, in accordance with the nature of the business, in the way that best suits the interests of the principal (hereinafter referred to as &quot;benevolent intervention in another's business&quot;).
+(2) A manager must engage in benevolent intervention in another's business in accordance with the intentions of the principal if the manager knows, or is able to conjecture that intention.
+</t1>
+<t2>
+In cases where a person plans to prevent crime in their own house by fixing the fence of a neighboring house, that person is found as having intent towards the other person.
+</t2>
+</pair>
+<pair id="H18-2-2" label="Y">
+<t1>
+Article 698
+If a manager engages in benevolent intervention in another's business in order to allow a principal to escape imminent danger to the principal's person, reputation, or property, the manager is not liable to compensate for damage resulting from this unless the manager has acted in bad faith or with gross negligence.
+</t1>
+<t2>
+In cases where an individual rescues another person from getting hit by a car by pushing that person out of the way, causing the person's luxury kimono to get dirty, the rescuer does not have to compensate damages for the kimono.
+</t2>
+</pair>
+<pair id="H18-2-3" label="N">
+<t1>
+Article 698
+If a manager engages in benevolent intervention in another's business in order to allow a principal to escape imminent danger to the principal's person, reputation, or property, the manager is not liable to compensate for damage resulting from this unless the manager has acted in bad faith or with gross negligence.
+</t1>
+<t2>
+A manager must engage in management exercising care identical to that he/she exercises for his/her own property.
+</t2>
+</pair>
+<pair id="H18-2-4" label="Y">
+<t1>
+Article 702
+(1) If a manager has incurred beneficial expenses for a principal, the manager may claim reimbursement of those costs from the principal.
+(2) The provisions of Article 650, paragraph (2) apply mutatis mutandis if a manager has incurred beneficial obligations on behalf of the principal.
+(3) If a manager has engaged in the benevolent intervention in another's business against the will of the principal, the provisions of the preceding two paragraphs apply mutatis mutandis, solely to the extent currently enriched.
+</t1>
+<t2>
+In cases where a person repairs the fence of a neighboring house after it collapsed due to a typhoon, but the neighbor had intended to replace the fence with a concrete-block wall in the near future, if a separate typhoon causes the repaired sections to collapse the following week, reimbursement of repair fees can no longer be demanded.
+</t2>
+</pair>
+<pair id="H18-2-5" label="N">
+<t1>
+Article 697
+(1) A person that has begun to manage a business for another person without being obligated to do so (hereinafter in this Chapter referred to as a &quot;manager&quot;) must manage that business, in accordance with the nature of the business, in the way that best suits the interests of the principal (hereinafter referred to as &quot;benevolent intervention in another's business&quot;).
+(2) A manager must engage in benevolent intervention in another's business in accordance with the intentions of the principal if the manager knows, or is able to conjecture that intention.
+</t1>
+<t2>
+Even in cases when a parent, based on the authority of parents determined under the law, performs the business of the child as a statutory agent, Management of Business is established.
+</t2>
+</pair>
+<pair id="H18-3-2" label="Y">
+<t1>
+Article 715
+(1) A person that employs another person for a business undertaking is liable to compensate for damage inflicted on a third party by that person's employees with respect to the execution of that business;provided, however, that this does not apply if the employer exercised reasonable care in appointing the employee or in supervising the business, or if the damage could not have been avoided even if the employer had exercised reasonable care.
+(2) A person that supervises a business on behalf of the employer also has the liability referred to in the preceding paragraph.
+(3) The provisions of the preceding two paragraphs do not preclude the employer or supervisor from exercising their right to reimbursement against the employee.
+</t1>
+<t2>
+The employer is released from his/her liability in cases when proof is provided that the employer made proper care regarding the appointment and supervision of the employee.
+</t2>
+</pair>
+<pair id="H18-3-4" label="Y">
+<t1>
+Article 715
+(1) A person that employs another person for a business undertaking is liable to compensate for damage inflicted on a third party by that person's employees with respect to the execution of that business;provided, however, that this does not apply if the employer exercised reasonable care in appointing the employee or in supervising the business, or if the damage could not have been avoided even if the employer had exercised reasonable care.
+(2) A person that supervises a business on behalf of the employer also has the liability referred to in the preceding paragraph.
+(3) The provisions of the preceding two paragraphs do not preclude the employer or supervisor from exercising their right to reimbursement against the employee.
+</t1>
+<t2>
+Even in cases when the victim has proven that authority of supervision has been granted to the agent supervisor from the employerprior to the act of injury of the employee, if proof is provided that the agent supervisor exercised reasonable care to the appointment and supervisionof the employee, the agent supervisor is released from liability.
+</t2>
+</pair>
+<pair id="H18-9-1" label="Y">
+<t1>
+Article 175
+No real right may be established other than those prescribed by laws including this Code.
+Article 265
+A superficiary has the right to use another person's land in order to own structures, or trees or bamboo, on that land.
+Article 270
+A farming right holder has the right to pay rent and engage in cultivation or livestock farming on another person's land.
+Article 280
+A servitude holder has the right to use another person's land for the convenience of their own lands in accordance with purposes prescribed in the act establishing the servitude;provided, however, that this right must not violate the provisions (limited to those that relate to public policy) under Section 1 of Chapter 3 (Extent of Ownership).
+</t1>
+<t2> Usufructuary rights are only established for real estate. </t2>
+</pair>
+<pair id="H18-9-2" label="N">
+<t1>
+Article 295
+(1) If a possessor of a thing belonging to another person has a claim that has arisen in relation to that thing, that possessor may retain that thing until that claim is satisfied;provided, however, that this does not apply if the relevant claim has not yet fallen due.
+(2) The provisions of the preceding paragraph do not apply if possession commenced by means of a tortious act.
+Article 303
+The holder of a statutory lien has the rights to have that holder's own claim satisfied prior to other obligees out of the assets of the relevant obligor in accordance with the provisions of laws including this Act.
+Article 388
+If the land and a building on that land belong to the same owner, a mortgage is created with respect to that land or building, and the enforcement of that mortgage causes them to belong to different owners, it is deemed that a superficies has been created with respect to that building.In this case, the rent is fixed by the court at the request of the parties.
+</t1>
+<t2>
+Statutory real rights granted by way of security exist, but statutory usufructuary rights do not exist.
+</t2>
+</pair>
+<pair id="H18-9-3" label="N">
+<t1>
+Article 329
+(1) If there are competing general statutory liens, the order of priority follows the order set forth in each item of Article 306.
+(2) Ife there are competing a general statutory lien and a special statutory lien, the special statutory lien has priority over the general statutory lien;provided, however, that statutory liens on expenses for the common benefit have priority being effective against all obligees who benefit from the same.
+Article 306
+A person that has a claim arising from the causes set forth below has a statutory lien over the entire assets of the obligor:
+(i) expenses for the common benefit;
+(ii) an employer-employee relationship;
+(iii) funeral expenses; or
+(iv) the supply of daily necessaries.
+Article 330
+(1) If there are competing special statutory liens against the same movables, the order of priority follows the order set forth below.In this case, if there are two or more preservers with respect to the statutory liens for preservation of movables set forth in item (ii), a new preserver has priority over previous preservers:
+(i) statutory liens for leases of immovables, lodging at hotels and transportation;
+(ii) statutory liens for the preservation of movables; and
+(iii) statutory liens for the sale of movables, the supply of seeds and seedlings or fertilizer, agricultural labor and industrial labor.
+(2) In the cases referred to in the preceding paragraph, if a holder of a statutory lien ranked first knew at the time of acquiring the relevant claim of the existence of a holder of a statutory lien of the second or third rank, that holder may not exercise the relevant rights of priority against those persons. The same applies to the exercise against persons that have preserved things on behalf of the holder of a statutory lien of the first rank.
+(3) Regarding fruits, the first rank belongs to persons who engage in agricultural labor, the second rank belongs to persons that supply seeds and seedlings or fertilizer, and the third rank belongs to lessors of land.
+</t1>
+<t2>
+In cases where real rights do not require requirements of perfection, the real rights that formed earlier in time take priority.
+</t2>
+</pair>
+<pair id="H18-15-1" label="N">
+<t1>
+Article 398-20
+(1) The principal secured by a revolving mortgage is crystallized in the following cases:
+(i) if the revolving mortgagee has filed, with respect to the mortgaged immovables, a petition for auction or execution against earnings from immovable collateral or the attachment under the provisions of Article 304
+as applied mutatis mutandis pursuant to Article 372;provided, however, that this provision applies only if the commencement of either auction procedures or execution procedures against earnings from immovable collateral, or an attachment has been effected;
+(ii) if the revolving mortgagee has effected an attachment for disposition of delinquency against the mortgaged immovables;
+(iii) if two weeks have passed from the time when the revolving mortgagee acquired knowledge of the commencement of auction procedures or attachment for disposition of delinquency against the mortgaged immovables; or
+(iv) if the obligor or mortgagor of the revolving mortgage has become subject to an order commencing bankruptcy proceeding.
+(2) If the commencement of auction procedures, the attachment under item (iii) of the preceding paragraph or the order commencing bankruptcy proceeding under item (iv) of that paragraph ceases to be effective, it is deemed that the principal secured was not crystallized;provided, however, that this does not apply if a person has acquired that revolving mortgage or a right for which the revolving mortgage is the subject matter on the assumption that the principal was crystallized.
+</t1>
+<t2>
+Even if procedures for auctions petitioned by a lower rank security interest holder have begun, since the  first rank -revolving mortgagee has priority over the lower rank security interest holder regarding selection of the timing of the auction, the first rank revolving mortgagee can stop the auction procedures without fixing the principal.
+</t2>
+</pair>
+<pair id="H18-15-2" label="N">
+<t1>
+Article 398-3
+(1) A revolving mortgagee may exercise the relevant revolving mortgage up to the maximum amount with respect to all of crystallized principal as well as periodic payments including interest and compensation for loss or damage resulting from failure to perform obligations.
+(2) If a claim under a negotiable instrument or check or electronically recorded monetary claim acquired from causes other than the transactions with the obligor is agreed to be treated as a claim to be secured by a revolving mortgage, and any of the following grounds exist, that revolving mortgage may be exercised only with respect to claims acquired before those grounds arose;provided, however, that even with respect to claims acquired after the grounds arose, the exercise of the revolving mortgage is not precluded as far as the claims were acquired without knowledge of those grounds:
+(i) the suspension of payments by the obligor;
+(ii) a petition to commence bankruptcy proceeding, the commencement of rehabilitation proceeding, the commencement of reorganization proceeding or the commencement for special liquidation with respect to the obligor; or
+(iii) a petition for commencement of auction procedure in relation to a mortgaged immovables or attachment for disposition of delinquency.
+</t1>
+<t2>
+If the principal is fixed, the revolving mortgage will be treated the same as an ordinary mortgage, and thus, interests or damages of secured claims secured by the revolving mortgage shall be limited to the amount of the last two years.
+</t2>
+</pair>
+<pair id="H18-15-3" label="N">
+<t1>
+Article 398-2
+(1) Mortgages may be created, by an establishing act, in order to secure unspecified claims of a certain scope, up to the limit of a maximum amount.
+(2) The scope of the unspecified claims to be secured by the mortgage under the provisions of the preceding paragraph (hereinafter referred to as &quot;revolving mortgage&quot;) must be prescribed by limiting the scope to claims arising from specific contracts with the obligor for continuous transactions or other claims arising from certain kinds of transactions with the obligor.
+(3) Claims that arise continuously with the obligor pursuant to a specific cause, claims under negotiable instruments or checks, or electronically recorded monetary claims (meaning electronically recorded monetary claims prescribed in Article 2, paragraph (1) of the Electronically Recorded Monetary Claims Act (Act No. 102 of 2007); the same applies in paragraph (2) of the following Article) may be treated as claims that are to be secured by a revolving mortgage, notwithstanding the provisions of the preceding paragraph.
+</t1>
+<t2>
+Since the  limit of performance received in priority by the revolving mortgage is determined by the  maximum amount, and  lower rank  security holders and  ordinary obligees do not possess interest in what kind of obligation will be secured,  the purpose  of the limit of the scope of the secured claim is to protect all mortgagors.
+</t2>
+</pair>
+<pair id="H18-15-4" label="N">
+<t1>
+Article 398-7
+(1) A person that acquires a claim from a revolving mortgagee before the principal is crystallized may not exercise the revolving mortgage with respect to that claim. The same applies to a person that made payment for or on behalf of an obligor before the principal was crystallized.
+(2) If an obligation is assumed before the principal is crystallized, the revolving mortgagee may not exercise the revolving mortgage with respect to the obligation of the person that assumes the obligation.
+(3) If the assumption of obligation releasing an old obligor is effected before the principal is crystallized, the obligee may not transfer the revolving mortgage to the obligation assumed by the new obligor, notwithstanding the provisions of Article 472-4, paragraph (1).
+(4) If any novation due to the substitution of the obligee is effected before the principal is crystallized, the obligee before the novation may not transfer the revolving mortgage to the obligations after the novation, notwithstanding the provisions of Article 518, paragraph (1). The same applies to the obligee in the case of novation due to the substitution of the obligor before the principal is crystallized.
+</t1>
+<t2>
+Even before the principal of the revolving mortgage is fixed, the  third party that performed secured claims after the arrival of the due date can execute the revolving mortgage in subrogation of the revolving mortgager, in order to make the right to obtain reimbursement from the obligor secure.
+</t2>
+</pair>
+<pair id="H18-15-5" label="Y">
+<t1>
+Article 398-12
+(1) Before the principal is crystallized, a revolving mortgagee may assign a revolving mortgage, with the approval of the mortgagor of the revolving mortgage.
+(2) A revolving mortgagee may divide the revolving mortgage into two revolving mortgages and assign either of the same pursuant to the provisions of the preceding paragraph.In this case, the rights for which that revolving mortgage is the subject matter is extinguished with respect to the revolving mortgage that was assigned.
+(3) In order to effect an assignment under the provisions of the preceding paragraph, the approval of the person that holds the rights for which that revolving mortgage is the subject matter must be obtained.
+Article 398-13
+Before the principal is crystallized, a revolving mortgagee may, with the approval of the mortgagor of the revolving mortgage, effect a partial assignment of the revolving mortgage (meaning assignments of revolving mortgages that the assignor effects without dividing the revolving mortgage in order to co-own the same with the assignee; hereinafter the same applies in this Section).
+</t1>
+<t2>
+Since a  revolving mortgage before the fixing of principal  can be described as a right which dominates the value of the maximum amount  detached from the secured claim, it can be transferred in whole or in part, but since the obligor and the secured claim may change, approval must be obtained from the revolving mortgagor.
+</t2>
+</pair>
+<pair id="H18-20-1" label="N">
+<t1>
+Article 9
+A juridical act performed by an adult ward is voidable;provided, however, that this does not apply to the purchase of daily necessities or to any other act involved in day-to-day life.
+</t1>
+<t2>
+In cases where an adult ward receives the gift of a building, the adult ward cannot rescindthe relevant gift contract.
+</t2>
+</pair>
+<pair id="H18-20-2" label="Y">
+<t1>
+Article 9
+A juridical act performed by an adult ward is voidable;provided, however, that this does not apply to the purchase of daily necessities or to any other act involved in day-to-day life.
+Article 120
+(1) An act that is voidable on the grounds of the qualified legal capacity to act of the person who did the act may be rescinded only by the person with qualified legal capacity (in the case of an act performed by the person as a legal representative of another person with limited capacity, including that other person with limited capacity), or an agent or successor thereof, or a person who has the authority to give consent thereto.
+(2) An act that is voidable on the grounds of a mistake, fraud or duress may be rescinded only by the person who made the defective manifestation of intention, or an agent or successor thereof.
+</t1>
+<t2>
+In cases when the adult ward performs juristic acts other than acts related to everyday life, even if the adult ward obtains approval from the guardian of the adult in advance for the relevant juristic act, the adult ward can rescindthe juristic act.
+</t2>
+</pair>
+<pair id="H18-20-3" label="N">
+<t1>
+Article 7
+The family court may decide to commence a guardianship in respect of a person who constantly lacks the capacity to appreciate the person's own situation due to a mental disorder, at the request of the person in question, that person's spouse, that person's relative within the fourth degree of kinship, the person's guardian of a minor, the person's supervisor of a minor's guardian, the person's curator, the person's curator's supervisor, the person's assistant, the person's assistant's supervisor, or a public prosecutor.
+</t1>
+<t2>
+The minor that has been appointed a guardian of a minor cannot request a ruling for commencement of guardianship and be appointed a guardian of an adult.
+</t2>
+</pair>
+<pair id="H18-21-2" label="N">
+<t1>
+Article 152
+(1) If a right is acknowledged, a new period of prescription commences to run at the time of the acknowledgment.
+(2) With respect to the disposition of the right of the other party, an acknowledgment referred to in the preceding paragraph does not require unlimited capacity to act or authority.
+Article 153
+(1) The postponement of the expiry of prescription period or the renewal of prescription period under the provisions of Article 147
+or Article 148
+is effective only between the parties with respect to whom grounds to postpone the expiry of prescription period or to renew prescription period have arisen and their successors.
+(2) The postponement of expiry of prescription period under the provisions of Articles 149 through 151 is effective only between the parties with respect to whom grounds to postpone the expiry of prescription period have arisen and their successors.
+(3) The renewal of prescription period under the provisions of the preceding Article is effective only between the parties with respect to whom grounds to renew prescription period have arisen and their successors.
+Article 458
+The provisions of Article 438, Article 439, paragraph (1), Article 440, and Article 441
+apply mutatis mutandis to circumstances which arise with regard to the guarantor that bears the obligation jointly and severally with the principal obligor.
+Article 441
+Except in cases prescribed in Articles 438, Article 439, paragraph (1), and the preceding Article, any circumstances which have arisen with respect to one of the joint and several obligors is not effective in relation to other joint and several obligors;provided, however, that if the obligee and one of the other joint and several obligors manifest a different intention, their intention prevails with respect to the effect in relation to the remaining other joint and several obligees.
+</t1>
+<t2>
+When jointly and severally liable guarantor person C acknowledges a claim from person A to person B before the prescription period has elapsed, the effect of interruption of prescription also affects main obligor person B.
+</t2>
+</pair>
+<pair id="H18-21-3" label="Y">
+<t1>
+Article 169
+(1) The period of prescription of a right determined by a final and binding judgment or anything that has the same effect as a final and binding judgment is 10 years even if a period of prescription shorter than 10 years is provided for.
+(2) The provisions of the preceding paragraph do not apply to a claim which is not yet due and payable at the time when it is determined.
+</t1>
+<t2>
+Regarding delay in performance of a claim that occurred due to a commercial transaction, when a civil conciliation which states that the obligor will perform in installments is formed, the period of prescription for the relevant claim shall be 10 years.
+</t2>
+</pair>
+<pair id="H18-23-I" label="Y">
+<t1>
+Article 537
+(1) If one of the parties promises in a contract to render a certain performance to a third party, the third party has the right to claim that performance directly from the obligor.
+(2) The validity of the contract referred to in the preceding paragraph is not impaired even if a third party does not exist or a third party is not specified at the time of its formation.
+(3) In the case referred to in paragraph (1), rights of the third party accrue when the third party has manifested intention of availing of the benefit of the contract under that paragraph to the obligor.
+</t1>
+<t2>
+In cases where person A sold a jewel to person B, person B entered into a contract where person B was assigned to pay the purchase money to person C, and person C expressed his/her intention to enjoy the benefit of the contract, if person A delivered the jewel to person B, and person B has not paid the purchase money to person C yet, while person C can demand that person B should pay  the purchase money, person A can also demand that person B should pay the purchase money to person C.
+</t2>
+</pair>
+<pair id="H18-23-U" label="N">
+<t1>
+Article 537
+(1) If one of the parties promises in a contract to render a certain performance to a third party, the third party has the right to claim that performance directly from the obligor.
+(2) The validity of the contract referred to in the preceding paragraph is not impaired even if a third party does not exist or a third party is not specified at the time of its formation.
+(3) In the case referred to in paragraph (1), rights of the third party accrue when the third party has manifested intention of availing of the benefit of the contract under that paragraph to the obligor.
+Article 538
+(1) After rights of the third party have accrued pursuant to the provisions of the preceding Article, the parties may not modify or extinguish those rights.
+(2) If, after rights of the third party accrue pursuant to the provisions of the preceding Article, the obligor does not perform the obligation to the third party, the other party to the contract referred to in paragraph (1) of that Article may not cancel the contract without the consent of the third party.
+</t1>
+<t2>
+In cases where person A sold a jewel to person B, and person B entered into a contract to pay the purchase money to person C as a performance of a loan obligation which A and D jointly and severally carry towards person C, if person D had already performed the obligation to person C, even after person C has expressed his/her intention to enjoy the benefit of the contract, person A can cancel  the contract upon agreement with person B.
+</t2>
+</pair>
+<pair id="H18-25-E" label="Y">
+<t1>
+Article 107
+If an agent performs an act that falls within the scope of that agent's authority to represent for the purpose of benefiting the agent's own interests or the interests of a third party, and the other party knew of or could have ascertained that purpose, that act is deemed to be an act performed by a person without authority to represent.
+Article 109
+(1) A person who indicates to a third party that the person granted certain authority to represent to another person is liable for an act performed between that other person and that third party within the scope of the authority to represent;provided, however, that this does not apply if the third party knew or did not know due to negligence that the other person has not been granted the authority to represent.
+(2) If a person who indicates to a third party that the person granted authority to represent to another person is, pursuant to the provisions of the preceding paragraph, liable for acts performed by that other person in relation to the third party within the scope of the authority to represent, and the other person performs in relation to the third party an act beyond the scope of the authority to represent, the person who makes the indication is liable for that act only if the third party has reasonable grounds for believing that the other person has authority to represent in that act.
+Article 110
+The provisions of the main clause of paragraph (1) of the preceding Article apply mutatis mutandis if an agent performs an act exceeding the agent's authority to represent and a third party has reasonable grounds for believing that the agent has the authority as an agent.
+</t1>
+<t2>
+a person who has manifested to a third party that he/she has granted certain authority of agency to other person(s) shall be relieved of his/her liability of apparent authority, if there is any proof  that the third party knew or was negligent  that the other person had not been granted authority of agency.
+</t2>
+</pair>
+<pair id="H18-26-1" label="Y">
+<t1>
+Article 255
+If one of co-owners waives interest or dies without an heir, the-waived interest belongs to the other co-owners.
+</t1>
+<t2>
+In cases where person A and person B co-own building X at a ratio of 1:1, if person A dies and had no heirs or persons with special connection, ownership of building X belongs to person B.
+</t2>
+</pair>
+<pair id="H18-26-5" label="Y">
+<t1>
+Article 254
+A claim that one of the co-owners holds against other co-owners with respect to the property in co-ownership may be exercised against their specific successors.
+</t1>
+<t2>
+In cases where person A pays in advance management fees for a building co-owned by person A and person B, and person C receives  the share from person B, person A can demand that person C should  pay for person A's payments.
+</t2>
+</pair>
+<pair id="H18-27-U" label="N">
+<t1>
+Article 485
+Unless a particular intention is manifested with respect to the expenses of performance, those expenses are borne by the obligor;provided, however, that if the obligee caused the expenses of performance to increase by relocating the domicile thereof or taking any other act, the amount of increase due to this is borne by the obligee.
+</t1>
+<t2>
+In cases where the obligee changes residence to a faraway location prior to the due date for  performance, the obligor should bear the delivery costs of the object
+</t2>
+</pair>
+<pair id="H18-28-1" label="N">
+<t1>
+Article 446
+(1) A guarantor has the responsibility to perform the obligation of the principal obligor when the latter fails to perform that obligation.
+(2) No guarantee contract becomes effective unless it is made in writing.
+(3) If a guarantee contract is concluded by electronic or magnetic record which records the terms thereof, the guarantee contract is deemed to be made in writing, and the provisions of the preceding paragraph apply.
+</t1>
+<t2>
+No contract of joint and several guarantee shall be effective unless it is made in writing, but a contract of guarantee shall be effective even if it is not made in writing.
+</t2>
+</pair>
+<pair id="H18-28-2" label="Y">
+<t1>
+Article 465-2
+(1) A guarantor to a guarantee contract under which the principal obligation is one or more unidentified obligations within a certain specified scope (hereinafter referred to as a &quot;contract for revolving guarantee&quot;) and the guarantor is not a corporation (hereinafter referred to as a &quot;contract for revolving guarantee by an individual&quot;) is liable to perform the obligation in terms of the amounts of the principal of the principal obligation, any interest, penalty and compensation for loss or damage in connection with the principal obligation, and all the other charges secondary to the obligation, as well as the amount of any penalty or compensation for loss or damage which is agreed- upon on with regard to the guarantee obligation, up to a certain maximum amount which pertains to all of these amounts.
+(2) A contract for revolving guarantee by an individual does not become effective unless it provides for the maximum amount prescribed in the preceding paragraph.
+(3) The provisions of Article 446, paragraphs (2) and (3) apply mutatis mutandis to the provisions concerning a maximum amount prescribed in paragraph (1) in a contract for revolving guarantee by an individual.
+</t1>
+<t2>
+In cases where a contract of revolving guarantee the principal obligation of which is payment of purchase money upon a contract of continuous sales is made, if the maximum amount for the amount of the principal, any penalty and damages in connection with such principal obligation, and all other charges incidental to such obligation is not stipulated, the contract of revolving guarantee shall not be effective.
+</t2>
+</pair>
+<pair id="H18-28-3" label="Y">
+<t1>
+Article 465-4
+(1) The principal of the principal obligation under a contract for revolving guarantee by an individual is crystallized in the following cases;provided, however, that in the case set forth in item (i), it is crystallized only if the procedure for compulsory execution or enforcement procedure of a security right is commenced:
+(i) if an obligee files a petition for compulsory execution or enforcement of any security right for a claim for payment of money with regard to any property of the guarantor;
+(ii) if the guarantor receives an order commencing bankruptcy proceeding; or
+(iii) the relevant principal obligor or guarantor has died.
+(2) Beyond the case prescribed in the preceding paragraph, the principal of the principal obligation under a contract for revolving guarantee by an individual for loans is crystallized in the following cases;provided, however, that in the case set forth in item (i), it is crystallized only if the procedure for compulsory execution or enforcement procedure of a security right is commenced:
+(i) if the obligee files a petition for compulsory execution or enforcement of a security right for a claim for payment of money with regard to property of the principal obligor; or
+(ii) if the principal obligor receives an order commencing bankruptcy proceeding.
+</t1>
+<t2>
+In cases where the obligee has filed a petition for compulsory execution with respect to a claim the subject matter of which is payment of money on any property of the principal obligor, and the court ordered the commencement of such compulsory execution procedure, the principal for the principal obligation under  the contract for revolving guarantee on loans shall be  determined at the time of the filing.
+</t2>
+</pair>
+<pair id="H18-28-4" label="N">
+<t1>
+Article 465-3
+(1) If a contract for revolving guarantee by an individual under which the scope of the principal obligation includes an obligation to be borne as a result of loans or receiving a discount of a negotiable instrument (hereinafter referred to as a &quot;loan obligation&quot;; and this contract is hereinafter referred to as a &quot;contract for revolving guarantee by an individual for loans&quot;) provides for the date on which the principal of the principal obligation should be crystallized (hereinafter referred to as the &quot;principal crystallization date&quot;), and it also provides that the principal crystallization date is to fall on or after the day on which five years have passed after the day of the conclusion of the contract for the revolving guarantee by an individual for loans, the provisions concerning the principal crystallization date do not become effective.
+(2) If a contract for revolving guarantee by an individual for loans does not provide for a principal crystallization date (or if the provisions concerning the principal crystallization date do not become effective pursuant to the provisions of the preceding paragraph), the principal crystallization date is to fall on the day on which three years have passed from the day of the conclusion of the contract for revolving guarantee by an individual for loans.
+(3) If a change of the principal crystallization date provided for in a contract for revolving guarantee by an individual for loans is to be effected, and the principal crystallization date as changed falls on a day later than the day on which five years have passed after the day of the change, that change of the principal crystallization date does not become effective;provided, however, that this does not apply if the change of the principal crystallization date is effected within two months immediately preceding the principal crystallization date, and the principal crystallization date as changed falls on a day within five years from the original principal crystallization date.
+(4) The provisions of Article 446, paragraphs (2) and (3) apply mutatis mutandis to the provisions concerning a principal crystallization date in a contract for revolving guarantee by an individual for loans and a change thereof (excluding provisions to the effect that the principal crystallization date is to fall on a day within three years from the day of the conclusion of that contract for revolving guarantee by an individual for loans, and any change which is intended to change the principal crystallization date to a day preceding the original principal crystallization date).
+</t1>
+<t2>
+For the principal obligation of a contract for revolving guarantee where the guarantor is an individual, in cases where the fixing date of the principal is specified as the day four years after the day that the contract was formed,  the fixing date of the principal is deemed to be the day three years after.
+</t2>
+</pair>
+<pair id="H18-29-4" label="N">
+<t1>
+Article 419
+(1) The amount of the compensation for loss or damage for failure to perform an obligation to deliver money is determined with reference to the statutory interest rate as of the time when the obligor first assumes the responsibility for the delay;provided, however, that if the agreed-upon interest rate exceeds the statutory interest rate, the agreed-upon interest rate prevails.
+(2) The obligee is not be required to prove loss or damage with respect to the compensation for loss or damage referred to in the preceding paragraph.
+(3) The obligor may not raise the defense of force majeure with respect to the compensation for loss or damage referred to in paragraph (1).
+</t1>
+<t2>
+In a demand for compensation based on delayed performance of loan claim, if person Y gives proof that the delayed performance is not based on the reasons attributable to him or herself, person Y shall be relieved of the liability.
+</t2>
+</pair>
+<pair id="H18-29-5" label="N">
+<t1>
+Article 404
+(1) Unless the parties manifest a particular intention with respect to a claim which bears interest, the rate of the interest is the statutory interest rate as of the time when the interest first accrues.
+(2) The statutory interest rate is 3% per annum.
+(3) Notwithstanding the provisions of the preceding paragraph, pursuant to the provisions of Ministry of Justice Order, the statutory interest rate is to change pursuant to the provisions of the following paragraph for each term consisting of three years.
+(4) The statutory interest rate for each term is the rate calculated by adding or deducting the rate equivalent to the difference between the benchmark rate for the most recent term during which there was a change in the statutory interest rate pursuant to the provisions of this paragraph (hereinafter referred to as the &quot;most recent term of change&quot; in this paragraph) and the benchmark rate for the current term (any part of the ratio which is less than 1% is disregarded), to or from the statutory interest rate for the most recent term of change.
+(5) The term &quot;benchmark rate&quot; prescribed in the preceding paragraph means the rate announced by the Minister of Justice as the rate calculated by dividing, by 60, the sum of the average interest rate for short-term loans for each month (meaning the average of the interest rates for loans (limited to loans for a term of less than one year) extended by banks in each month)) during the period from January of the year six years prior to the year which contains the first day of each term to December of the year two years prior to the year which contains the first date of each term (any part of the rate which is less than 0.1% is disregarded), pursuant to the provisions of Ministry of Justice Order.
+Article 419
+(1) The amount of the compensation for loss or damage for failure to perform an obligation to deliver money is determined with reference to the statutory interest rate as of the time when the obligor first assumes the responsibility for the delay;provided, however, that if the agreed-upon interest rate exceeds the statutory interest rate, the agreed-upon interest rate prevails.
+(2) The obligee is not be required to prove loss or damage with respect to the compensation for loss or damage referred to in the preceding paragraph.
+(3) The obligor may not raise the defense of force majeure with respect to the compensation for loss or damage referred to in paragraph (1).
+</t1>
+<t2>
+In cases where person X demands compensation of damages of 5% per annum from the day after the due date based on delay of performance of payment of sale purchase money, person X is not required to give proof of either occurrence of the damage  or the amount of it
+</t2>
+</pair>
+<pair id="H18-32-5" label="N">
+<t1>
+Article 192
+A person that commences the possession of movables peacefully and openly by a transactional act acquires the rights that are exercised with respect to the movables immediately if the person possesses it in good faith and without negligence.
+</t1>
+<t2>
+A seller that cancelled a movable sale contract on the basis of duress can demand return of the movable based on its ownership from the person who bought the movable from the buyer prior to the cancellation without knowledge or any negligence.
+</t2>
+</pair>
+</dataset>
