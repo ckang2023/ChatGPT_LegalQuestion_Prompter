@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dataset>
+<pair id="H20-2-A" label="N">
+<t1>
+Article 102
+An act that a person with qualified legal capacity performs as an agent of another person may not be rescinded on the grounds of qualified legal capacity;provided, however, that this does not apply to an act performed by a person with qualified legal capacity as a legal representative of another person with qualified legal capacity.
+</t1>
+<t2> A minor may not be an agent. </t2>
+</pair>
+<pair id="H20-2-O" label="Y">
+<t1>
+Article 6
+(1) A minor who is permitted to conduct one or multiple types of business has the same capacity to act as an adult as far as that business is concerned.
+(2) In a case as referred to in the preceding paragraph, if there are grounds that make the minor unable to sustain that business, the legal representative may revoke or limit the permission therefor in accordance with the provisions of Part IV (Relatives).
+</t1>
+<t2>
+Assuming a person is a minor, then in regards a permitted, specific business, he/she has the legal capacity to act.
+</t2>
+</pair>
+<pair id="H20-3-2" label="Y">
+<t1>
+Article 9
+A juridical act performed by an adult ward is voidable;provided, however, that this does not apply to the purchase of daily necessities or to any other act involved in day-to-day life.
+</t1>
+<t2>
+An  act of paying electricity charges by adult ward without obtaining the consent of his/her guardian is not voidable.
+</t2>
+</pair>
+<pair id="H20-3-3" label="Y">
+<t1>
+Article 13
+(1) A person under curatorship must obtain the consent of the curator in order to perform any of the following acts;provided, however, that this does not apply to an act provided for in the proviso of Article 9:
+(i) receiving or using any property producing civil fruit;
+(ii) borrowing money or guaranteeing an obligation;
+(iii) performing an act with the purpose of acquiring or losing any right regarding immovables or other significant property;
+(iv) suing any procedural act;
+(v) giving a gift, reaching a settlement, or entering into an arbitration agreement (meaning an arbitration agreement as provided in Article 2, paragraph (1) of the Arbitration Act (Act No. 138 of 2003));
+(vi) accepting or renouncing a succession or dividing an estate;
+(vii) refusing an offer of a gift, renouncing a legacy, accepting an offer of gift with burden, or accepting a legacy with burden;
+(viii) constructing a new building, renovating, expanding, or undertaking major repairs;
+(ix) granting a lease for a term that exceeds the period set forth in Article 602; or
+(x) performing any of the acts set forth in the preceding items as a legal representative of a person with qualified legal capacity (meaning a minor, adult ward, or person under curatorship or a person under assistance who is subject to a decision as referred to in Article 17, paragraph (1); the same applies hereinafter).
+(2) At the request of a person as referred to in the main clause of Article 11
+or the curator or curator's supervisor, the family court may decide that the person under curatorship must also obtain the consent of the curator before performing an act other than those set forth in each of the items of the preceding paragraph;provided, however, that this does not apply to an act provided for in the proviso to Article 9.
+(3) If the curator does not consent to an act for which the person under curatorship must obtain the curator's consent even though it is unlikely to prejudice the interests of the person under curatorship, the family court may grant permission that operates in lieu of the curator's consent at the request of the person under curatorship.
+(4) An act for which the person under curatorship must obtain the curator's consent is voidable if the person performs it without obtaining the curator's consent or a permission that operates in lieu of it.
+</t1>
+<t2>
+A person under curatorship's act of accepting payment for a loan without obtaining the consent of his/her curator's  is voidable.
+</t2>
+</pair>
+<pair id="H20-3-5" label="N">
+<t1>
+Article 20
+(1) After a person with qualified legal capacity who is involved in dealings with another party becomes a person with the legal capacity to act (meaning a person whose legal capacity to act is not subject to restrictions; the same applies hereinafter), the other party to those dealings may fix a period of one month or longer and demand that the person give a definite answer within that period of time as to whether the person will ratify an act that the person may rescind. In such a case, if the person fails to send a definite answer within that period of time, the person is deemed to have ratified that act.
+(2) The second sentence of the preceding paragraph also applies if, before the person with qualified legal capacity becomes a person with the legal capacity to act, the other party to dealings involving the person with qualified legal capacity lodges the demand prescribed in the preceding paragraph with the legal representative, curator, or assistant of that person with respect to an act within the scope of their authority, and they fail to send a definite answer within the fixed period of time referred to in that paragraph.
+(3) If a person does not send notice within the period of time set forth in the preceding two paragraphs indicating that the person has completed any special formalities that an act requires, the person is deemed to have rescinded that act.
+(4) The other party to dealings involving a person with qualified legal capacity may lodge a demand with a person under curatorship or with a person under assistance who is subject to a decision as referred to in Article 17, paragraph (1) to demand that the person get the curator or assistant to ratify an act within the fixed period referred to in paragraph (1). In such a case, if the person under curatorship or person under assistance does not send notice within that period indicating that the person has gotten the curator or assistant to ratify the act in question, the person is deemed to have rescinded that act.
+</t1>
+<t2>
+If a person under curatorship commits a voidable act, the counterparty of that act may issue a notice to any person under curatorship which demands that he/she should obtain the ratification of his/her curator, but may not directly issue the notice to the curator which demands a response of whether or not the curator has ratified.
+</t2>
+</pair>
+<pair id="H20-6-2" label="Y">
+<t1>
+Article 108
+(1) An act that a person performs as an agent of the counterparty or as agent of both parties for the same juridical act is deemed to be an act performed by a person without authority to represent;provided, however, that this does not apply to the performance of an obligation or to an act authorized by the principal in advance.
+(2) Beyond what is provided for in the main clause of the preceding paragraph, an act for which the interest of the agent conflicts with the interest of the principal is deemed to be an act performed by a person without authority to represent;provided, however, that this does not apply to an act authorized by the principal in advance.
+Article 113
+(1) A contract concluded by a person who acts as the agent of another person but has no authority to represent does not bind the principal unless the principal ratifies it.
+(2) The ratification or refusal to ratify may not be duly asserted against the counterparty unless it is made to that counterparty;provided, however, that this does not apply if the counterparty has come to know the ratification or refusal to ratify.
+</t1>
+<t2>
+A self-contract and representation of both parties shall not produce an effect as a general rule, excluding acts of performance of any obligation and acts authorized by principle in advance, but since it is a system made to protect the principle, he/she may make it valid if he/she ratifies it as an act of unauthorized agency.
+</t2>
+</pair>
+<pair id="H20-6-5" label="Y">
+<t1>
+Article 99
+(1) A manifestation of intention that an agent makes indicating that they will be making a manifestation of intention on behalf of the principal within the scope of the agent's authority binds the principal directly.
+(2) The provisions of the preceding paragraph apply mutatis mutandis to a manifestation of intention that a third party makes to an agent.
+Article 106
+(1) A subagent represents the principal with respect to acts within the scope of the authority thereof.
+(2) A subagent has the same rights and obligations as an agent in relation to the principal and third parties within the scope of that subagent's authority.
+</t1>
+<t2>
+A subagent's acts are equivalent to an agent's acts because he/she does not act in agency for the agent, but in agency for the priciple, so it is sufficient if he/she indicates that his/her acts are made on behalf of the principle.
+</t2>
+</pair>
+<pair id="H20-12-1" label="N">
+<t1>
+Article 300
+The exercise of a right of retention does not preclude the running of extinctive prescription of claims.
+Article 350
+The provisions of Articles 296 through 300 and those of Article 304
+apply mutatis mutandis to pledges.
+</t1>
+<t2>
+Even while a holder of a right of retention continually possesses the retained object, extinctive prescription progresses for that secured claim, but if the pledgee continually possesses the Thing pledged, then the extinctive prescription for that secured claim may be interrupted.
+</t2>
+</pair>
+<pair id="H20-12-2" label="N">
+<t1>
+Article 345
+A pledgee may not allow a pledgor to possess the thing pledged on behalf of the pledgee.
+</t1>
+<t2>
+Since a pledge differs from a right of retention as a right to contracted collateral, if there is a contract, then a pledge may be established by a person acting as an agent allowing the pledgor to possess the collateral.
+</t2>
+</pair>
+<pair id="H20-12-4" label="Y">
+<t1>
+Article 296
+A holder of a right of retention may exercise that holder's rights against the whole of the thing retained until the relevant claim is satisfied in its entirety.
+Article 301
+An obligor may demand that a right of retention be terminated by providing a reasonable security.
+Article 350
+The provisions of Articles 296 through 300 and those of Article 304
+apply mutatis mutandis to pledges.
+</t1>
+<t2>
+A right of retention and a pledge do not expire by just satisfying his/her a portion of the secured claim due to their indivisibility, but for a right of retention, the obligor may demand the expiration of the right by offering appropriate collateral.
+</t2>
+</pair>
+<pair id="H20-12-5" label="Y">
+<t1>
+Article 298
+(1) The holder of a right of retention must possess the thing retained with the due care of a prudent manager.
+(2) The holder of the right of retention may not use, lease or provide as a security the thing retained unless that holder obtains the consent of the obligor;provided, however, that this does not apply to uses necessary for the preservation of that thing.
+(3) If the holder of a right of retention violates the provisions of the preceding two paragraphs, the obligor may demand that the right of retention be terminated.
+Article 350
+The provisions of Articles 296 through 300 and those of Article 304
+apply mutatis mutandis to pledges.
+</t1>
+<t2>
+If a holder of a right of retention has consent of the obligor, or if a pledgee has consent of the pledgor, then they each may lease any collateral.
+</t2>
+</pair>
+<pair id="H20-15-A" label="Y">
+<t1>
+Article 350
+The provisions of Articles 296 through 300 and those of Article 304
+apply mutatis mutandis to pledges.
+Article 298
+(1) The holder of a right of retention must possess the thing retained with the due care of a prudent manager.
+(2) The holder of the right of retention may not use, lease or provide as a security the thing retained unless that holder obtains the consent of the obligor;provided, however, that this does not apply to uses necessary for the preservation of that thing.
+(3) If the holder of a right of retention violates the provisions of the preceding two paragraphs, the obligor may demand that the right of retention be terminated.
+</t1>
+<t2>
+A pledgee must possess a pledged Thing with the  care of a good manager.
+</t2>
+</pair>
+<pair id="H20-15-I" label="N">
+<t1>
+Article 659
+A gratuitous bailee bears a duty to keep the bailed thing while exercising the same level of care that the bailee would exercise for their own property.
+</t1>
+<t2>
+A gratuitous depositary shall assume the duty to retain the Thing deposited  with the care of a good manager.
+</t2>
+</pair>
+<pair id="H20-18-A" label="Y">
+<t1>
+Article 446
+(1) A guarantor has the responsibility to perform the obligation of the principal obligor when the latter fails to perform that obligation.
+(2) No guarantee contract becomes effective unless it is made in writing.
+(3) If a guarantee contract is concluded by electronic or magnetic record which records the terms thereof, the guarantee contract is deemed to be made in writing, and the provisions of the preceding paragraph apply.
+</t1>
+<t2>
+No contract of guarantee shall be effective unless it is made in writing, but when it is concluded with an electromagnetic record,  it is deemed to be made in writing.
+</t2>
+</pair>
+<pair id="H20-18-U" label="Y">
+<t1>
+Article 447
+(1) The guarantee obligation includes interest, penalty and compensation for loss or damage in connection with the principal obligation, and all other charges secondary to that obligation.
+(2) A guarantor may stipulate the amount of penalty or compensation for loss or damage with regard to the guarantor's own guarantee obligation only.
+</t1>
+<t2>
+If a guarantor contracted a penalty for guaranteed debt with an obligee, the guarantor's burden may become heavier due to the burden of the principal obligor.
+</t2>
+</pair>
+<pair id="H20-18-E" label="Y">
+<t1>
+Article 460
+If a guarantor has given a guarantee as requested by the principal obligor, the guarantor may exercise in advance the right to reimbursement against the principal obligor if:
+(i) the principal obligor is subject to an order commencing bankruptcy proceeding, and the obligee does not participate in the distribution of the bankruptcy estate;
+(ii) the obligation is due;provided, however, that no extension of time granted by the obligee to the principal obligor after the conclusion of the guarantee contract may be duly asserted against the guarantor; and
+(iii) the guarantor is, without negligence, rendered a judicial decision ordering the guarantor to perform the obligation to the obligee.
+</t1>
+<t2>
+When the principal obligation has fallen due, a person that made a guarantee after receiving consignment of the principal obligor may exercise the right to obtain reimbursement vis-a-vis the principal obligor even before making his/her own payment.
+</t2>
+</pair>
+<pair id="H20-18-O" label="N">
+<t1>
+Article 465-2
+(1) A guarantor to a guarantee contract under which the principal obligation is one or more unidentified obligations within a certain specified scope (hereinafter referred to as a &quot;contract for revolving guarantee&quot;) and the guarantor is not a corporation (hereinafter referred to as a &quot;contract for revolving guarantee by an individual&quot;) is liable to perform the obligation in terms of the amounts of the principal of the principal obligation, any interest, penalty and compensation for loss or damage in connection with the principal obligation, and all the other charges secondary to the obligation, as well as the amount of any penalty or compensation for loss or damage which is agreed- upon on with regard to the guarantee obligation, up to a certain maximum amount which pertains to all of these amounts.
+(2) A contract for revolving guarantee by an individual does not become effective unless it provides for the maximum amount prescribed in the preceding paragraph.
+(3) The provisions of Article 446, paragraphs (2) and (3) apply mutatis mutandis to the provisions concerning a maximum amount prescribed in paragraph (1) in a contract for revolving guarantee by an individual.
+</t1>
+<t2>
+When a maximum amount is not stipulated in a contract of revolving guarantee between juridicial persons that will take on obligation of a monetary loan as their primary obligation, that contract of revolving guarantee shall not become effective.
+</t2>
+</pair>
+<pair id="H20-19-A" label="Y">
+<t1>
+Article 494
+(1) In the following cases, a performer may deposit the subject matter of the performance with an official depository for the benefit of the obligee. In such a case, the claim is extinguished when the performer makes the deposit:
+(i) the performer tenders the performance, and the obligee refuses to accept it; or
+(ii) the obligee is unable to accept the performance.
+(2) The preceding paragraph also applies if the performer is unable to ascertain the obligee;provided, however, that this does not apply if the performer is negligent in this respect.
+</t1>
+<t2>
+Performance deposit may be done when the obligee refuses the receipt of performance when the obligee is unable to accept the performance, or when the obligor is unable to ascertain the obligee without any negligence on the part of the performer.
+</t2>
+</pair>
+<pair id="H20-19-I" label="N">
+<t1>
+Article 494
+(1) In the following cases, a performer may deposit the subject matter of the performance with an official depository for the benefit of the obligee. In such a case, the claim is extinguished when the performer makes the deposit:
+(i) the performer tenders the performance, and the obligee refuses to accept it; or
+(ii) the obligee is unable to accept the performance.
+(2) The preceding paragraph also applies if the performer is unable to ascertain the obligee;provided, however, that this does not apply if the performer is negligent in this respect.
+</t1>
+<t2>
+Obligation for which performance deposit is made shall expire when the obligee receives the thing deposited.
+</t2>
+</pair>
+<pair id="H20-19-U" label="N">
+<t1>
+Article 496
+(1) As long as the obligee does not accept the deposit, or the judgment which pronounces that the deposit is effective does not become final and binding, the performer may recover the deposited thingy. In such case, it is deemed that no deposit has been effected.
+(2) The provisions of the preceding paragraph do not apply in cases any pledge or mortgage has been extinguished due to the deposit.
+</t1>
+<t2>
+The obligor may not recover the deposited property without consent of the obligee after performing performance deposit.
+</t2>
+</pair>
+<pair id="H20-19-E" label="Y">
+<t1>
+Article 495
+(1) The deposit under the provisions of the preceding Article must be made with the official depository having jurisdiction over the place where the relevant obligation is performed.
+(2) If there is no specific provision in laws and regulations with respect to the official depository, the court, at the request of the performer, must designate the depository and appoint a custodian of the thing to be deposited.
+(3) A person that has effected a deposit pursuant to the provisions of the preceding Article must notify the obligee of the deposit without delay.
+</t1>
+<t2>
+To use money or documents of title for performance deposit, they shall be put in the official depository of the place of performance of the obligation.
+</t2>
+</pair>
+<pair id="H20-19-O" label="N">
+<t1>
+Article 474
+(1) A third party may also perform an obligation.
+(2) A third party that has no legitimate interest in performing an obligation may not perform the obligation against the will of the obligor;provided, however, that this does not apply if the obligee did not know that the performance is against the will of the obligor.
+(3) The third party prescribed in the preceding paragraph may not perform the obligation against the will of the obligee;provided, however, that this does not apply if the third party performs the obligation as requested by the obligor, and the obligee knew this.
+(4) The provisions of the preceding three paragraphs do not apply if the nature of an obligation does not permit the performance by a third party or if a party manifests the intention to prohibit or restrict the performance by a third party.
+Article 494
+(1) In the following cases, a performer may deposit the subject matter of the performance with an official depository for the benefit of the obligee. In such a case, the claim is extinguished when the performer makes the deposit:
+(i) the performer tenders the performance, and the obligee refuses to accept it; or
+(ii) the obligee is unable to accept the performance.
+(2) The preceding paragraph also applies if the performer is unable to ascertain the obligee;provided, however, that this does not apply if the performer is negligent in this respect.
+</t1>
+<t2> A person other than the obligor may not do performance deposit. </t2>
+</pair>
+<pair id="H20-22-1" label="Y">
+<t1>
+Article 555
+A sale becomes effective when one of the parties promises to transfer certain property rights to the other party and the other party promises to pay the price for this.
+Article 560
+The seller bears an obligation to enable the buyer to satisfy the requirements for perfection of the transfer of the right that is the subject matter of the sale, such as completing registration.
+</t1>
+<t2>
+The plaintiff must assert that he/she entered into a sales contract with the defendant as the cause for action, but does not need to assert that he/she owned the subject matter of the sales contract when he/she entered into it.
+</t2>
+</pair>
+<pair id="H20-23-5" label="Y">
+<t1>
+Article 588
+If any person has an obligation to pay money or deliver other thing under any arrangement, and the parties agree to regard such thing as the subject matter of a loan for consumption, it is deemed that this establishes a loan for consumption.
+</t1>
+<t2>
+A quasi-loan contract shall not become effective when old obligation as its subject matter does not exist.
+</t2>
+</pair>
+<pair id="H20-24-5" label="Y">
+<t1>
+Article 608
+(1) If a lessee has defrayed necessary expenses with respect to the leased thing which ought to be borne by the lessor, the lessee may immediately demand the reimbursement of the same from the lessor.
+(2) If the lessee has incurred beneficial expenses with respect to the leased thing, the lessor must reimburse those expenses on termination of the lease in compliance with the provisions of Article 196, paragraph (2);provided, however, that the court may, at the lessor's request, grant a reasonable period of time for the reimbursement of the same.
+</t1>
+<t2>
+When a lessee of a building repaired a leak in the roof at his/her own expense that the lessor should repair, he/she may immediately demand reimbursement of the entire amount of the repair expenses from the lessor.
+</t2>
+</pair>
+<pair id="H20-26-1" label="Y">
+<t1>
+Article 623
+An employment contract becomes effective when a first party promises to a second party that the first party will engage in work and the second party promises to pay remuneration for this.
+Article 624
+(1) An employee may not demand remuneration until the work the employee promised to perform has been completed.
+(2) Remuneration specified with reference to a period may be claimed after the passage of that period.
+</t1>
+<t2>
+An employment contract is a contract for value, and the timing of payment of remuneration shall be deferred payment in principle, but a special provision for advance payment may be entered.
+</t2>
+</pair>
+<pair id="H20-26-2" label="N">
+<t1>
+Article 632
+A contract for work become effective when one of the parties promises to complete work and the other party promises to pay remuneration for the outcome of the work.
+Article 633
+Remuneration must be paid simultaneously with delivery of the subject matter of work performed;provided, however, that if no delivery of a thing is required, the provisions of Article 624, paragraph (1) apply mutatis mutandis.
+Article 624
+(1) An employee may not demand remuneration until the work the employee promised to perform has been completed.
+(2) Remuneration specified with reference to a period may be claimed after the passage of that period.
+</t1>
+<t2>
+A contract for work is a contract for value, and when there is a need to transfer the subject matter, the renumeration must be paid simultaneously with delivery, and when there is no need to deliver a thing, it must be paid simultaneously with the completion of work.
+</t2>
+</pair>
+<pair id="H20-26-3" label="Y">
+<t1>
+Article 648
+(1) In the absence of any special agreements, the mandatary may not claim remuneration from the mandator.
+(2) If a mandatary is to receive remuneration, the mandatary may not claim this until after having performed the mandated business;provided, however, that if the remuneration is specified with reference to period, the provisions of Article 624, paragraph (2) apply mutatis mutandis.
+(3) In the following cases, the mandatary may demand remuneration in proportion to the performance already completed:
+(i) if the mandatary is no longer able to perform the mandated business due to any grounds not attributable to the mandator; or
+(ii) if the mandate is terminated during the course of performance.
+</t1>
+<t2>
+A mandate contract is gratuitous contract in principle, but if there is a special provision,  the mandatary may demand renumeration from the mandator.
+</t2>
+</pair>
+<pair id="H20-26-5" label="Y">
+<t1>
+Article 306
+A person that has a claim arising from the causes set forth below has a statutory lien over the entire assets of the obligor:
+(i) expenses for the common benefit;
+(ii) an employer-employee relationship;
+(iii) funeral expenses; or
+(iv) the supply of daily necessaries.
+Article 308
+Statutory liens for employer-employee relationships exist with respect to salaries and other claims that arise from the employer-employee relationship between the obligor and the employee.
+</t1>
+<t2>
+A worker has a statutory lien for the general assets of an employer as collateral for the claim to renumeration that he/she has.
+</t2>
+</pair>
+<pair id="H20-27-A" label="N">
+<t1>
+Article 670
+(1) The partnership business is decided by the majority of the partners and executed by each partner.
+(2) The decision and execution of the partnership business may be delegated to one or more partners or a third party, pursuant to the provisions of the partnership contract.
+(3) The person delegated as referred to in the preceding paragraph (hereinafter referred to as a &quot;person who executes business&quot;) decides and executes the partnership business. In such a case, if there are two or more persons who execute business, the partnership business is decided by the majority of these persons who execute business and is executed by each of them.
+(4) Notwithstanding the provisions of the preceding paragraph, the partnership business is not precluded to be decided based on the consent of all partners or executed by all partners.
+(5) Notwithstanding the provisions of the preceding paragraphs, the ordinary business of a partnership may be performed by each partner or each person who executes business independently;provided, however, that this does not apply if other partners or persons who execute business raise objections prior to the completion of the business.
+</t1>
+<t2>
+If the execution of business for a partnership is mandated, the operating officers shall be selected from among the partners.
+</t2>
+</pair>
+<pair id="H20-27-I" label="Y">
+<t1>
+Article 679
+Beyond the cases referred to in the preceding Article, partners withdraw on the following grounds:
+(i) the partner dies;
+(ii) the partner is subject to an order commencing bankruptcy proceeding;
+(iii) the partner is subject to a decision for the commencement of guardianship;
+(iv) the partner has been expelled.
+Article 681
+(1) Accounts as between the withdrawing partner and other partners must be settled according to the status of the partnership property as at the time of the withdrawal.
+(2) The interest of the withdrawing partner may be refunded in money, regardless of the kind of the withdrawing partner's contribution.
+(3) With respect to any matter not yet completed at the time of the withdrawal, accounts may be made up subsequent to the completion of that matter.
+</t1>
+<t2>
+A partner may receive a refund of his/her share assuming he/she was expelled.
+</t2>
+</pair>
+<pair id="H20-27-U" label="N">
+<t1>
+Article 675
+(1) A creditor of a partnership may exercise the rights of the creditor against the partnership property.
+(2) A creditor of a partnership may, at the choice of the creditor, exercise the rights of the creditor against each partner in proportion to their shares of loss or in equal proportions;provided, however, that if a creditor of a partnership knew the proportion of each partner's share of loss at the time of occurrence of the claim, the exercise of the creditor's rights is based on those proportions.
+</t1>
+<t2>
+Partners bear the the responsibility for the performance of obligation jointly and mutually vis-a-vis the partnership's obligees.
+</t2>
+</pair>
+<pair id="H20-27-E" label="N">
+<t1>
+Article 679
+Beyond the cases referred to in the preceding Article, partners withdraw on the following grounds:
+(i) the partner dies;
+(ii) the partner is subject to an order commencing bankruptcy proceeding;
+(iii) the partner is subject to a decision for the commencement of guardianship;
+(iv) the partner has been expelled.
+</t1>
+<t2> If a partner dies, his/her heir shall assume his/her position. </t2>
+</pair>
+<pair id="H20-27-O" label="Y">
+<t1>
+Article 676
+(1) If a partner has disposed of the interest of the partner with respect to the partnership property, that partner may not duly assert that disposition against the partnership or third parties that had dealings with the partnership.
+(2) A partner may not independently exercise the rights with regard to a claim that is included in the partnership property based on that partner's interest in the claim.
+(3) A partner may not seek the division of the partnership property before liquidation.
+</t1>
+<t2>
+A partner may not demand the division of partnership property before liquidation, and even if a partner disposes his/her share with respect to the partnership, the disposal may not be asserted against  the partnership in his/her appropriation.
+</t2>
+</pair>
+<pair id="H20-28-A" label="Y">
+<t1>
+Article 714
+(1) When a person without capacity to be assume responsibility is not liable pursuant to the provisions of the preceding two Articles, the person with the statutory obligation to supervise the person without capacity to assume responsibility is liable to compensate for damage that the person without capacity to be assume responsibility has inflicted on a third party;provided, however, that this does not apply if the person who has the obligation to supervise has not failed to perform that person's obligation or if the damage could not have been avoided even if that person had not failed to perform that person's obligation.
+(2) A person who supervises a person without capacity to be assume responsibility on behalf of the person who has the obligation to supervise also has the liability referred to in the preceding paragraph.
+</t1>
+<t2>
+If a plaintiff files against a person with the legal obligation to supervise a person without capacity to assume liability as a defendant, and demands compensation of damages based on the liability of the person with the obligation to supervise a person without capacity to assume liability in Civil Code Article 714, Paragraph 1, the defendant may assert that he/she did not neglect his/her obligation to supervise as an affirmative defense.
+</t2>
+</pair>
+<pair id="H20-28-I" label="N">
+<t1>
+Article 714
+(1) When a person without capacity to be assume responsibility is not liable pursuant to the provisions of the preceding two Articles, the person with the statutory obligation to supervise the person without capacity to assume responsibility is liable to compensate for damage that the person without capacity to be assume responsibility has inflicted on a third party;provided, however, that this does not apply if the person who has the obligation to supervise has not failed to perform that person's obligation or if the damage could not have been avoided even if that person had not failed to perform that person's obligation.
+(2) A person who supervises a person without capacity to be assume responsibility on behalf of the person who has the obligation to supervise also has the liability referred to in the preceding paragraph.
+</t1>
+<t2>
+If a plaintiff files against a person with the legal obligation to supervise a person without capacity to assume liability as a defendant, and demands compensation of damages based on the liability of the person with the obligation to supervise a person without capacity to assume liability in Civil Code Article 714, Paragraph 1, the defendant may assert that an agent supervisor was there in addition to the person with the obligation to supervise as an affirmative defense.
+</t2>
+</pair>
+<pair id="H20-28-U" label="Y">
+<t1>
+Article 715
+(1) A person that employs another person for a business undertaking is liable to compensate for damage inflicted on a third party by that person's employees with respect to the execution of that business;provided, however, that this does not apply if the employer exercised reasonable care in appointing the employee or in supervising the business, or if the damage could not have been avoided even if the employer had exercised reasonable care.
+(2) A person that supervises a business on behalf of the employer also has the liability referred to in the preceding paragraph.
+(3) The provisions of the preceding two paragraphs do not preclude the employer or supervisor from exercising their right to reimbursement against the employee.
+</t1>
+<t2>
+If a plaintiff files against the employer of person A as the defendant on grounds that pressupose the establishment of liability by person A's tortious act, and demands compensation of damages based on the liability of the employer in Civil Code Article 715, Paragraph 1, the defendant may assert that he/she exhausted his/her duty of care as deemed appropriate for the assigned supervision of person A as an affirmative defense.
+</t2>
+</pair>
+<pair id="H20-28-E" label="Y">
+<t1>
+Article 715
+(1) A person that employs another person for a business undertaking is liable to compensate for damage inflicted on a third party by that person's employees with respect to the execution of that business;provided, however, that this does not apply if the employer exercised reasonable care in appointing the employee or in supervising the business, or if the damage could not have been avoided even if the employer had exercised reasonable care.
+(2) A person that supervises a business on behalf of the employer also has the liability referred to in the preceding paragraph.
+(3) The provisions of the preceding two paragraphs do not preclude the employer or supervisor from exercising their right to reimbursement against the employee.
+</t1>
+<t2>
+If a plaintiff files against an agent supervisor of person A as a defendant on grounds that presuppose the establishment of liability by person A's tortious acts, and demands compensation of damages based on the liability of the agent supervisor in Civil Code Article 715, Paragraph 2, the defendant may assert that even by exercising his/her duty of reasonable care for the assigned supervision of person A, he/she could not have been avoided person A's creation of an injurious act as an affirmative defense.
+</t2>
+</pair>
+<pair id="H20-28-O" label="N">
+<t1>
+Article 717
+(1) If a defect in the installation or preservation of a structure on land causes damage to another person, the possessor of that structure is liable to the person incurring damage to compensate for the damage;provided, however, that if the possessor has exercised the necessary care to prevent the damage, the owner must compensate for the damage.
+(2) The provisions of the preceding paragraph apply mutatis mutandis if there is a defect in the planting or supporting of bamboo or trees.
+(3) In the cases referred to in the preceding two paragraphs, if there is another person that is liable for the cause of the damage, the possessor or owner may exercise their right to reimbursement against that person.
+</t1>
+<t2>
+If a plaintiff files against a land owner as a defendant, and demands compensation of damages based on the liability of owner of structure on land proviso in Civil Code Article 717, Paragraph 1, the defendant may not assert that he/she exercised his/her required duty of care in order to prevent the occurrence of the results as an affirmative defense, but he/she may assert his/her own doli incapax as an affirmative defense.
+</t2>
+</pair>
+<pair id="H20-30-I" label="N">
+<t1>
+Article 93
+(1) The validity of a manifestation of intention is not impaired even if the person making it does so while knowing that it does not reflect that person's true intention;provided, however, that if the other party knew or could have known that the manifestation was not the true intention of the person who made it, that manifestation of intention is void.
+(2) The nullity of a manifestation of intention under the provisions of the proviso to the preceding paragraph may not be duly asserted against a third party in good faith.
+</t1>
+<t2>
+In the case of concealment of true intention, assuming the other party was unaware of the true intention of the party making the manifestation, and there was no gross negligence regarding that lack of knowledge, that manifestation of intention shall be valid.
+</t2>
+</pair>
+<pair id="H20-30-O" label="N">
+<t1>
+Article 478
+Performance made to a person that does not constitute a person authorized to accept the performance (meaning the obligee or a third party authorized to accept performance based on the provisions of laws and regulations or the manifestation of intention of the parties; the same applies hereinafter) but that appears to be the person authorized to accept the performance in light of common sense in the transaction is effective only if the person effecting performance was acting in good faith and without negligence.
+</t1>
+<t2>
+Any performance made vis-a-vis a quasi-possessor of a claim is effective when the performer acts without knowledge, and is free from any negligence.
+</t2>
+</pair>
+</dataset>
