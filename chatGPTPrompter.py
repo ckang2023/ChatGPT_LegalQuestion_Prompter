@@ -8,6 +8,30 @@ import approachPremiseHypothesisPrompterThree
 
 
 def chatGPTPrompter(prompterName):
+    '''
+    Sends the processed data in processedData/processedJsonData.txt to ChatGPT,
+    and you will see outputs listed here as they're processed. 
+
+    Execute this function by typing
+        python3 <FUNCTION NAME> <approach>
+    where <approach> can be "Zero", "One", "Two", or "Three". The difference
+    between these approaches is listed below:
+
+    Zero: Zero-shot approach. The question asked is simply "Please determine if 
+    the following hypothesis is True or False based on the given premise."
+
+    One: TRRAC Format. The question asked is "Please analyze if the hypothesis is
+    True or False according to the given legal reasoning approach. Thesis, 
+    rule, rule, application, conclusion."
+
+    Two: IRRAC Format. The question asked is "Please analyze if the hypothesis is
+    True or False according to the given legal reasoning approach. Issue, 
+    rule, reasoning, application, conclusion. 
+
+    Three: IRREAC Format. The question asked is "Please analyze if the hypothesis is
+    True or False according to the given legal reasoning approach. Issue, 
+    rule, reasoning, application, conclusion. 
+    '''
     # get processed data
     with open("./processedData/processedJsonData.txt") as read_file:
         file_data_list = read_file.readlines()
