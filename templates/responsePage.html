@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>chatGPT's Response</title>
+</head>
+<body>
+    <ol>
+        <!-- For loop logic of jinja template -->
+        {% for obj in result %}
+            <li>
+                <p>
+                    Premise: {{ obj["t1"] }}<br><br>
+                    Hypothesis: {{ obj["t2"] }}<br><br>
+                    chatGPT's Response: {{ obj["ChatGPT_output"] }}<br><br>
+                    Standard Yes/No Answer: {{ obj["@label"] }}
+                </p>
+            </li>
+
+        {% endfor %}
+
+        </ol>
+</body>
+</html>

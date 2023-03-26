@@ -24,3 +24,4 @@ class approachTwoPrompter(object):
         result_json_file = open("./results/resultsDataJson.json", "w")
         result_json_file.write(result_json)
         result_json_file.close()
+        return result_json
