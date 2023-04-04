@@ -13,7 +13,8 @@ class approachOnePrompter(object):
         for prompt_obj in prompt_data:
             premise = prompt_obj["t1"]
             hypothesis = prompt_obj["t2"]
-            response = self.bot.ask("Please analyze if the hypothesis is True or False according to the given legal reasoning approach. "
+            response = self.bot.ask(
+                "Please analyze if the hypothesis is True or False according to the given legal reasoning approach. "
                 + "\n Approach: Thesis, rule, rule, application, conclusion.  \n\n Premise: \n"
                 + premise + "\nHypothesis: \n" + hypothesis)
             print(response)

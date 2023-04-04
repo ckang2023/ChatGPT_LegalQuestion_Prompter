@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dataset>
-<pair id="H19-1-3" label="N">
+<pair id="H20-2-A" label="N">
 <t1>
-Article 96
-(1) A manifestation of intention based on fraud or duress is voidable.
-(2) If a third party commits a fraud inducing a first party to make a manifestation of intention to a second party, that manifestation of intention is voidable only if the second party knew or could have known that fact.
-(3) The rescission of a manifestation of intention induced by fraud under the provisions of the preceding two paragraphs may not be duly asserted against a third party in good faith acting without negligence.
+Article 102
+An act that a person with qualified legal capacity performs as an agent of another person may not be rescinded on the grounds of qualified legal capacity;provided, however, that this does not apply to an act performed by a person with qualified legal capacity as a legal representative of another person with qualified legal capacity.
+</t1>
+<t2> A minor may not be an agent. </t2>
+</pair>
+<pair id="H22-23-A" label="N">
+<t1>
+Article 608
+(1) If a lessee has defrayed necessary expenses with respect to the leased thing which ought to be borne by the lessor, the lessee may immediately demand the reimbursement of the same from the lessor.
+(2) If the lessee has incurred beneficial expenses with respect to the leased thing, the lessor must reimburse those expenses on termination of the lease in compliance with the provisions of Article 196, paragraph (2);provided, however, that the court may, at the lessor's request, grant a reasonable period of time for the reimbursement of the same.
 </t1>
 <t2>
-A person who made a manifestation of intention which was induced by duress emanated from a third party may rescind such manifestation of intention on the basis of duress, only if the other party knew or was negligent of such fact.
+In cases where a lessee has defrayed necessary expenses with respect to the leased Thing in order to preserve the condition appropriate for profit from ordinary use of the subject, the lessee can wait for the end of the lease and demand the reimbursement of the same from the lessor.
 </t2>
 </pair>
-<pair id="H19-4-I" label="Y">
+<pair id="H22-28-1" label="Y">
 <t1>
-Article 128
-While it is uncertain whether or not a condition will be fulfilled, a party to a juridical act that is subject to a condition may not prejudice the other party's interests that would arise from the juridical act upon fulfillment of the condition.
+Article 704
+A beneficiary in bad faith must return the benefit received together with interest thereon. In such cases, if any damage still remains, the beneficiary is liable to compensate for this.
 </t1>
 <t2>
-In a sales contract subject to  a condition precedent, the buyer that intentionally damaged the object while it is uncertain whether or not the condition has been fulfilled shall bear liability for damages to the seller whose expectation right is infringed.
+The beneficiary in bad faith of unjust enrichment must return the benefit received together with interest, and if any damages still remain, the beneficiary shall be liable to compensate for the same.
 </t2>
 </pair>
-<pair id="H19-5-3" label="N">
+<pair id="H18-3-2" label="Y">
 <t1>
-Article 162
-(1) A person that possesses the property of another for 20 years peacefully and openly with the intention to own it acquires ownership thereof.
-(2) A person that possesses the property of another for 10 years peacefully and openly with an intention to own it acquires ownership thereof if the person was acting in good faith and was not negligent at the time when the possession started.
+Article 715
+(1) A person that employs another person for a business undertaking is liable to compensate for damage inflicted on a third party by that person's employees with respect to the execution of that business;provided, however, that this does not apply if the employer exercised reasonable care in appointing the employee or in supervising the business, or if the damage could not have been avoided even if the employer had exercised reasonable care.
+(2) A person that supervises a business on behalf of the employer also has the liability referred to in the preceding paragraph.
+(3) The provisions of the preceding two paragraphs do not preclude the employer or supervisor from exercising their right to reimbursement against the employee.
 </t1>
 <t2>
-Even if the  possessor started the possession without knowledge and was not negligent of another's ownership of the property in cases where he/she subsequently knew another person's ownership during  possession, the period of prescription shall be calculated as a possessor in bad faith.
+The employer is released from his/her liability in cases when proof is provided that the employer made proper care regarding the appointment and supervision of the employee.
 </t2>
 </pair>
 </dataset>
