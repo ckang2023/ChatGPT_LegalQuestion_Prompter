@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="../static/style.css">
     <title>Automatic ChatGPT Prompter</title>
 </head>
 <body>
@@ -22,23 +23,39 @@
             We are currently providing <b>four options</b>, representing <mark>four distinct approaches</mark>:
         </p>
 
-        <ul id="approach-explanation-list">
-                <li><i>Zero</i>: Zero-shot approach.
-                <br>The question asked is simply "Please determine if
-                the following hypothesis is True or False based on the given premise."</li>
-                <li><i>One</i>: Approach One is the TRRAC (Thesis,
-        rule, rule, application, conclusion) Format. The question asked is "Please analyze if the hypothesis is
+        <div class="approach-explanation">
+            <a href="#approach0">Approach Zero</a>
+            <a href="#approach1">Approach One</a>
+            <a href="#approach2">Approach Two</a>
+            <a href="#approach3">Approach Three</a>
+
+            <div id="approach0">
+                <h4>Zero-shot approach</h4>
+                <p>The question asked is simply "Please determine if
+                the following hypothesis is True or False based on the given premise."</p>
+            </div>
+
+            <div id="approach1">
+                <h4>Approach One</h4>
+                <p>TRRAC (Thesis,rule, rule, application, conclusion) Format. <br><br>The question asked is "Please analyze if the hypothesis is
         True or False according to the given legal reasoning approach. Thesis,
-        rule, rule, application, conclusion."</li>
-                <li><i>Two</i>: Approach Two is the IRRAC (Issue,
-        rule, reasoning, application, conclusion) Format. The question asked is "Please analyze if the hypothesis is
+        rule, rule, application, conclusion."</p>
+            </div>
+
+            <div id="approach2">
+                <h4>Approach Two</h4>
+                <p>IRRAC (Issue, rule, reasoning, application, conclusion) Format. <br><br>The question asked is "Please analyze if the hypothesis is
         True or False according to the given legal reasoning approach. Issue,
-        rule, reasoning, application, conclusion."</li>
-                <li><i>Three</i>: Approach Three is the IRREAC (Issue,
-        rule, reasoning, application, conclusion) Format. The question asked is "Please analyze if the hypothesis is
+        rule, reasoning, application, conclusion."</p>
+            </div>
+
+            <div id="approach3">
+                <h4>Approach Three</h4>
+                <p>IRREAC (Issue, rule, reasoning, application, conclusion) Format. <br><br>The question asked is "Please analyze if the hypothesis is
         True or False according to the given legal reasoning approach. Issue,
-        rule, reasoning, application, conclusion."</li>
-        </ul>
+        rule, reasoning, application, conclusion."</p>
+            </div>
+        </div>
 
         <p>After selecting an approach, please upload an <mark>.xml</mark> file containing your test data.
             <br><br>Then, press <b>"Prompt"</b> to see chatGPT's response.
