@@ -4,3 +4,4 @@ git+https://github.com/mmabrouk/chatgpt-wrapper
 xmltodict
 Flask
 flask_socketio
+eventlet

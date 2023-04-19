@@ -56,4 +56,9 @@ def chatGPTPrompter():
 
 
 if __name__ == "__main__":
-    socketio.run(app)
+    local_ip = "127.0.0.1"  # Use the loopback address
+    local_port = 5000  # The default Flask port is 5000
+
+    print(f"Running on http://{local_ip}:{local_port}/")
+
+    socketio.run(app, host=local_ip, port=local_port)
