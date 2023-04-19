@@ -1,5 +1,5 @@
 # ChatGPT_LegalQuestion_Prompter
-By Northwestern Innovation Lab Group 7
+By Northwestern Innovation Lab Group 8
 
 ## Installation
 
