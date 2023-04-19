@@ -53,6 +53,26 @@ At this point, you have logged into ChatGPT.
 
 Afterwards, do `python3 __init__.py`, then `python3 main.py`. 
 
+In terminal, you will see messege `Running on http://127.0.0.1:5000/`. This means that the app is running at address http://127.0.0.1:5000/ on your local machine. 
+
+Go to this address, you will see the homepage for the web app. Follow the instructions on the homepage to complete the testing process. 
+
+Below is the screen record for a complete use case.
+
+
+
+https://user-images.githubusercontent.com/56417619/232987971-25c5974b-2c34-46b6-b509-b2b2d950f4c5.mov
+
+
+
+https://user-images.githubusercontent.com/56417619/232987983-61ee07f8-284d-4888-afe1-e478b1bf60a6.mov
+
+
+
+
+https://user-images.githubusercontent.com/56417619/232987998-c2fa7725-12c5-4767-851a-6248707934ba.mov
+
+
 ### Multiple .xml Files Test using Terminal
 
 #### Select Test Data
