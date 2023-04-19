@@ -1,5 +1,5 @@
 # ChatGPT_LegalQuestion_Prompter
-By Northwestern Innovation Lab Group 7
+By Northwestern Innovation Lab Group 8
 
 ## Installation
 
@@ -107,6 +107,3 @@ The automatic prompting will start, it will print out the total number of prompt
 When the process finishes, the results will be in `results/resultsDataJson.json`.
 
 To output result into Google sheet, copy this file into `resultsForGoogleSheet/` and put a proper name for it. 
-
-
-## Data
