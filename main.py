@@ -1,3 +1,5 @@
+import eventlet
+
 from flask import Flask, render_template
 from flask import request
 
@@ -9,6 +11,7 @@ import approachPremiseHypothesisPrompterTwo
 import approachPremiseHypothesisPrompterThree
 from flask_socketio import SocketIO
 
+eventlet.monkey_patch()
 app = Flask(__name__)
 socketio = SocketIO(app)
 
